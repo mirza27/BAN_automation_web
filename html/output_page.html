@@ -1,0 +1,593 @@
+<html lang="en" style="height: auto;"><head>
+    <meta charset="utf-8">
+    <meta name="csrf-token" content="Imc44mkiQOvZ95rcZTCAcgfKlzXDgqkuEOW9kRU4">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MPO</title>
+
+    <!-- Google Font: Source Sans Pro -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/font/font.css">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/fontawesome-free/css/all.min.css">
+<!-- Ionicons -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/ionicons/ionicons.min.css">
+<!-- Tempusdominus Bootstrap 4 -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+<!-- Select2 -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/select2/css/select2.min.css">
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
+<!-- iCheck -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/dist/css/adminlte.min.css">
+<!-- overlayScrollbars -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+<!-- Daterange picker -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/daterangepicker/daterangepicker.css">
+<!-- summernote -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/summernote/summernote-bs4.min.css">
+
+<!-- DataTables -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+
+
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/line-awesome/css/line-awesome.min.css">
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/css/custom.css">
+
+<!-- SweetAlert2 -->
+<link rel="stylesheet" href="https://mpo.psp.pertanian.go.id/v.5/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
+
+
+
+<link rel="shortcut icon" href="https://mpo.psp.pertanian.go.id/v.5/images/icon.png">
+
+
+<style>[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+</head>
+
+<body class="hold-transition layout-top-nav" style="height: auto;">
+    <div class="wrapper">
+
+        <!-- Navbar -->
+        <nav class="main-header navbar navbar-expand-md navbar-dark">
+            <div class="container">
+                <a href="https://mpo.psp.pertanian.go.id/v.5" class="navbar-brand">
+                    <img src="https://mpo.psp.pertanian.go.id/v.5/images/logo-big.png" alt="MPO" class="brand-image img-circle- elevation-3-" style="opacity: 1">
+                    <span class="brand-text font-weight-bold">Reborn</span>
+                </a>
+
+                <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <ul class="navbar-nav" id="topmenu">
+    
+            <li class="nav-item d-none d-sm-inline-block">
+            <a href="https://mpo.psp.pertanian.go.id/v.5" class="nav-link" id="topmenu_home">Home</a>
+        </li>
+            <li class="nav-item d-none d-sm-inline-block">
+            <a href="https://mpo.psp.pertanian.go.id/v.5/satker/upload_pagu" class="nav-link" id="topmenu_satker">Satker</a>
+        </li>
+            <li class="nav-item d-none d-sm-inline-block">
+            <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/select_satker" class="nav-link active" id="topmenu_pelaporan">Pelaporan</a>
+        </li>
+            <li class="nav-item d-none d-sm-inline-block">
+            <a href="https://mpo.psp.pertanian.go.id/v.5/laporan/laporan_input/satker" class="nav-link" id="topmenu_laporan">Laporan</a>
+        </li>
+    </ul>
+
+                <!-- Right navbar links -->
+                <ul class="navbar-nav ml-auto order-1 order-md-3 navbar-no-expand">
+    <!-- Navbar Search -->
+    <li class="nav-item">
+        <a class="nav-link" href="https://mpo.psp.pertanian.go.id/v.5/select_year">
+            <i class="fas fa-calendar"></i>
+            2023
+        </a>
+    </li>
+
+    
+    <!-- Notifications Dropdown Menu -->
+            <li class="nav-item dropdown">
+            <a class="nav-link" data-toggle="dropdown" href="#">
+                
+                
+                                    PT. Bina Agrosiwi Mandiri
+                
+            </a>
+            <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
+                <span class="dropdown-item dropdown-header">
+                    <strong>Zidan</strong>
+                    (VENDOR)
+                </span>
+                <div class="dropdown-divider"></div>
+                <a href="https://mpo.psp.pertanian.go.id/v.5/user_profile" class="dropdown-item">
+                    <i class="fas fa-user mr-2"></i> Profile
+                </a>
+                <div class="dropdown-divider"></div>
+                <a href="https://mpo.psp.pertanian.go.id/v.5/change_password" class="dropdown-item">
+                    <i class="fas fa-lock mr-2"></i> Ganti Password
+                </a>
+                <div class="dropdown-divider"></div>
+                
+
+                <a class="dropdown-item" href="https://mpo.psp.pertanian.go.id/v.5/logout" onclick="event.preventDefault();
+                document.getElementById('logout-form').submit();">
+                    <i class="fas fa-sign-out-alt"></i>
+                    Logout
+                </a>
+
+                <form id="logout-form" action="https://mpo.psp.pertanian.go.id/v.5/logout" method="POST" style="display: none;">
+                    <input type="hidden" name="_token" value="Imc44mkiQOvZ95rcZTCAcgfKlzXDgqkuEOW9kRU4">                </form>
+
+            </div>
+        </li>
+    
+
+</ul>
+            </div>
+        </nav>
+        <!-- /.navbar -->
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper" style="min-height: 451.667px;">
+            <!-- Content Header (Page header) -->
+            <div class="content-header">
+                <div class="container-fluid">
+                    <div class="row mb-2">
+                        <div class="col-sm-6">
+                            <h5 class="m-0 text-uppercase font-weight-bold">
+                                Pelaporan
+                            </h5>
+                        </div><!-- /.col -->
+                        <div class="col-sm-6">
+                            
+                            <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/1/kegiatan" class="btn btn-sm btn-secondary font-weight-boldest float-right">
+    <i class="la la-arrow-left"></i> Kembali
+</a>
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+
+                </div><!-- /.container-fluid -->
+
+            </div>
+            <!-- /.content-header -->
+
+            <!-- Main content -->
+            <div class="content pb-3">
+                <div class="container-fluid">
+                    <div class="card card-secondary card-outline card-border">
+            <div class="card-header bg-light">
+            <h3 class="card-title text-uppercase font-weight-bold mt-2">Kegiatan &amp; Delegasi</h3>
+            <div class="card-tools">
+                
+            </div>
+        </div>
+        <div class="card-body">
+        <div class="row">
+        <div class="col-lg-8">
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-3">
+    Kegiatan
+    </label>
+                <div class="col-lg-9">
+                    <input type="text" class="form-control form-control-sm font-weight-bold" value="Pupuk Hayati Cair/Pupuk Organik Cair/Pupuk Organik Padat" disabled="disabled">
+                </div>
+            </div>
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-3">
+    Satker
+    </label>
+                <div class="col-lg-9">
+                    <input type="text" class="form-control form-control-sm" value="633656 - DIREKTORAT JENDERAL PRASARANA DAN SARANA PERTANIAN" disabled="disabled">
+                </div>
+            </div>
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-3">
+    Kabupaten
+    </label>
+                <div class="col-lg-9">
+                    <input type="text" class="form-control form-control-sm" value="" disabled="disabled">
+                </div>
+            </div>
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-3">
+    Subsatker (Delegasi)
+    </label>
+                <div class="col-lg-9">
+                    <input type="text" class="form-control form-control-sm" value="DINAS TANAMAN PANGAN DAN HORTIKULTURA KAB. SUMBA BARAT DAYA" disabled="disabled">
+                </div>
+            </div>
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-3">
+    Kode Pagu
+    </label>
+                <div class="col-lg-9">
+                    <input type="text" class="form-control form-control-sm" value="3993.RAG.003.052.526311.Unit" disabled="disabled">
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-6">
+    Anggaran
+    </label>
+                <div class="col-lg-6">
+                    <input type="text" class="form-control form-control-sm" value="Pusat" disabled="disabled">
+                </div>
+            </div>
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-6">
+    Volume / Sisa (Satuan)
+    </label>
+                <div class="col-lg-6">
+                    <input type="text" class="form-control form-control-sm" value="8,162 / 0  (Unit)" disabled="disabled">
+                </div>
+            </div>
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-6">
+    Terdistribusi
+    </label>
+                <div class="col-lg-6">
+                    <input type="text" class="form-control form-control-sm" value="410" disabled="disabled">
+                </div>
+            </div>
+            <div class="row">
+                <label class="col-form-label font-weight-boldest col-lg-6">
+    Capaian
+    </label>
+                <div class="col-lg-6">
+                    <input type="text" class="form-control form-control-sm" value="92.78%" disabled="disabled">
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+
+    
+    <div class="card card-secondary card-outline card-border">
+            <div class="card-header bg-light">
+            <h3 class="card-title text-uppercase font-weight-bold mt-2">Distribusi</h3>
+            <div class="card-tools">
+                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/90656/create_distribusi?delegasiid=2117" class="btn btn-warning font-weight-bold">
+        <i class="la la-plus"></i>
+                    Tambah
+            </a>
+            </div>
+        </div>
+        <div class="card-body">
+        <!--begin::Datatable-->
+        <div id="kt_datatable_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer"><div class="row"><div class="col-sm-12 col-md-6"><div class="dataTables_length" id="kt_datatable_length"><label>Show <select name="kt_datatable_length" aria-controls="kt_datatable" class="custom-select custom-select-sm form-control form-control-sm"><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option></select> entries</label></div></div><div class="col-sm-12 col-md-6"><div id="kt_datatable_filter" class="dataTables_filter"><label>Search:<input type="search" class="form-control form-control-sm" placeholder="" aria-controls="kt_datatable"></label></div></div></div><div class="row"><div class="col-sm-12"><table class="table table-striped w-100 dataTable no-footer dtr-inline" id="kt_datatable" aria-describedby="kt_datatable_info" style="width: 950px;">
+    <thead class="bg-dark">
+            <tr><th class="dt-right sorting" tabindex="0" aria-controls="kt_datatable" rowspan="1" colspan="1" style="width: 20px;" aria-label=": activate to sort column ascending"></th><th class="sorting" tabindex="0" aria-controls="kt_datatable" rowspan="1" colspan="1" style="width: 87px;" aria-label="Kelompok: activate to sort column ascending">Kelompok</th><th class="sorting" tabindex="0" aria-controls="kt_datatable" rowspan="1" colspan="1" style="width: 84px;" aria-label="Desa: activate to sort column ascending">Desa</th><th class="sorting" tabindex="0" aria-controls="kt_datatable" rowspan="1" colspan="1" style="width: 83px;" aria-label="Kecamatan: activate to sort column ascending">Kecamatan</th><th class="sorting" tabindex="0" aria-controls="kt_datatable" rowspan="1" colspan="1" style="width: 168px;" aria-label="Kabupaten: activate to sort column ascending">Kabupaten</th><th class="sorting" tabindex="0" aria-controls="kt_datatable" rowspan="1" colspan="1" style="width: 49px;" aria-label="Target: activate to sort column ascending">Target</th><th class="dt-right sorting" tabindex="0" aria-controls="kt_datatable" rowspan="1" colspan="1" style="width: 61px;" aria-label="Capaian: activate to sort column ascending">Capaian</th><th class="dt-left sorting_disabled" rowspan="1" colspan="1" style="width: 80px;" aria-label="Aksi">Aksi</th></tr></thead><tbody><tr class="odd"><td class="dt-right dtr-control">1</td><td><span class="bg-warning- font-weight-bold">Beringin I</span></td><td>Homba Karipit</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50887/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50887/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="even"><td class="dt-right dtr-control">2</td><td><span class="bg-warning- font-weight-bold">Mere Usaha</span></td><td>Homba Karipit</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50888/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50888/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="odd"><td class="dt-right dtr-control">3</td><td><span class="bg-warning- font-weight-bold">Sabar Subur I</span></td><td>Homba Karipit</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50889/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50889/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="even"><td class="dt-right dtr-control">4</td><td><span class="bg-warning- font-weight-bold">Bintang Kejora</span></td><td>Homba Karipit</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50890/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50890/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="odd"><td class="dt-right dtr-control">5</td><td><span class="bg-warning- font-weight-bold">Terima Kasih</span></td><td>Homba Karipit</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50891/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50891/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="even"><td class="dt-right dtr-control">6</td><td><span class="bg-warning- font-weight-bold">Bengo Daha</span></td><td>Nangga Mutu</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50892/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50892/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="odd"><td class="dt-right dtr-control">7</td><td><span class="bg-warning- font-weight-bold">Ice Daha</span></td><td>Nangga Mutu</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50893/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50893/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="even"><td class="dt-right dtr-control">8</td><td><span class="bg-warning- font-weight-bold">Suka Maju</span></td><td>Nangga Mutu</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50894/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50894/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="odd"><td class="dt-right dtr-control">9</td><td><span class="bg-warning- font-weight-bold">Helu Wali</span></td><td>Nangga Mutu</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50895/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50895/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr><tr class="even"><td class="dt-right dtr-control">10</td><td><span class="bg-warning- font-weight-bold">Ndaha ate</span></td><td>Nangga Mutu</td><td>Kodi Utara</td><td>KAB. SUMBA BARAT DAYA</td><td>20</td><td class=" dt-right"><span class="bg-warning- font-weight-bold">100%</span></td><td class=" dt-left">
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50896/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/50896/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            </td></tr></tbody>
+</table><div id="kt_datatable_processing" class="dataTables_processing card" style="display: none;">Processing...</div></div></div><div class="row"><div class="col-sm-12 col-md-5"><div class="dataTables_info" id="kt_datatable_info" role="status" aria-live="polite">Showing 1 to 10 of 410 entries</div></div><div class="col-sm-12 col-md-7"><div class="dataTables_paginate paging_simple_numbers" id="kt_datatable_paginate"><ul class="pagination"><li class="paginate_button page-item previous disabled" id="kt_datatable_previous"><a href="#" aria-controls="kt_datatable" data-dt-idx="0" tabindex="0" class="page-link">Previous</a></li><li class="paginate_button page-item active"><a href="#" aria-controls="kt_datatable" data-dt-idx="1" tabindex="0" class="page-link">1</a></li><li class="paginate_button page-item "><a href="#" aria-controls="kt_datatable" data-dt-idx="2" tabindex="0" class="page-link">2</a></li><li class="paginate_button page-item "><a href="#" aria-controls="kt_datatable" data-dt-idx="3" tabindex="0" class="page-link">3</a></li><li class="paginate_button page-item "><a href="#" aria-controls="kt_datatable" data-dt-idx="4" tabindex="0" class="page-link">4</a></li><li class="paginate_button page-item "><a href="#" aria-controls="kt_datatable" data-dt-idx="5" tabindex="0" class="page-link">5</a></li><li class="paginate_button page-item disabled" id="kt_datatable_ellipsis"><a href="#" aria-controls="kt_datatable" data-dt-idx="6" tabindex="0" class="page-link">…</a></li><li class="paginate_button page-item "><a href="#" aria-controls="kt_datatable" data-dt-idx="7" tabindex="0" class="page-link">41</a></li><li class="paginate_button page-item next" id="kt_datatable_next"><a href="#" aria-controls="kt_datatable" data-dt-idx="8" tabindex="0" class="page-link">Next</a></li></ul></div></div></div></div>
+        <!--end::Datatable-->
+    </div>
+    </div>
+                    <!-- /.row -->
+                </div><!-- /.container-fluid -->
+            </div>
+            <!-- /.content -->
+        </div>
+        <!-- /.content-wrapper -->
+
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
+
+        <!-- Main Footer -->
+        <footer class="main-footer">
+            <strong>Copyright © 2022 <a href="https://psp.pertanian.go.id/">Ditjen PSP Kementan</a>.</strong>
+            All rights reserved.
+        </footer>
+    </div>
+    <!-- ./wrapper -->
+
+    <!-- REQUIRED SCRIPTS -->
+
+    <!-- jQuery -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jquery/jquery.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jquery-ui/jquery-ui.min.js"></script>
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+<script>
+    $.widget.bridge('uibutton', $.ui.button)
+</script>
+<!-- Bootstrap 4 -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- ChartJS -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/chart.js/Chart.min.js"></script>
+<!-- Sparkline -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/sparklines/sparkline.js"></script>
+<!-- jQuery Knob Chart -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jquery-knob/jquery.knob.min.js"></script>
+<!-- daterangepicker -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/moment/moment.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/daterangepicker/daterangepicker.js"></script>
+<!-- Tempusdominus Bootstrap 4 -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+<!-- Summernote -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/summernote/summernote-bs4.min.js"></script>
+<!-- overlayScrollbars -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+<!-- AdminLTE App -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/dist/js/adminlte.js"></script>
+<!-- AdminLTE for demo purposes -->
+
+<!-- InputMask -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/moment/moment.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/inputmask/jquery.inputmask.min.js"></script>
+
+
+<!-- DataTables  & Plugins -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables/jquery.dataTables.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+
+
+
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jszip/jszip.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/pdfmake/pdfmake.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/pdfmake/vfs_fonts.js"></script>
+
+<!-- BlockUI -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/blockUI/jquery.blockUI.js"></script>
+
+<script src="https://mpo.psp.pertanian.go.id/v.5/js/datatable.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/js/helper.js"></script>
+
+<!-- Select2 -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/select2/js/select2.full.min.js"></script>
+
+<!-- SweetAlert2 -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/sweetalert2/sweetalert2.min.js"></script>
+
+<!-- bs-custom-file-input -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jquery.scrollto/jquery.scrollTo.min.js"></script>
+
+<!-- jquery-validation -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jquery-validation/jquery.validate.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jquery-validation/additional-methods.min.js"></script>
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/jquery-validation/additional-message.js"></script>
+
+<!-- Bootstrap Switch -->
+<script src="https://mpo.psp.pertanian.go.id/v.5/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
+
+<script src="https://mpo.psp.pertanian.go.id/v.5/js/config.js"></script>
+
+<script>
+    $(function() {
+        bsCustomFileInput.init();
+    });
+</script>
+
+<script>
+    $(document).ready(function() {
+        let menu_id = '90656';
+        let topmenu_id = 'pelaporan';
+        let level = $("#aside_" + menu_id).attr("data-level");
+
+        if(topmenu_id != ''){
+            $("#topmenu_" + topmenu_id).addClass('active');
+        }else{
+            $("#topmenu_home").addClass('active');
+        }
+
+
+        $("#aside_" + menu_id).addClass('active');
+        if (level == 2) {
+
+            $("#aside_" + menu_id)
+                .parent().parent().parent().addClass('menu-open')
+            $("#aside_" + menu_id)
+                .parent().parent().parent().find('a:first').addClass('active')
+        }
+
+    })
+</script>
+
+<script>
+            let configs = getBasicConfig();
+            configs.ajax.url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/distribusi_dt_json";
+            configs.ajax.data = function(d) {
+                d.itemid = "90656";
+                d.delegasiid = "2117";
+            };
+            configs.columns = [
+                {
+                    data: 'distid',
+                    width: 20,
+                    className: 'dt-right',
+                    render: function(data, type, row, meta) {
+                        return meta.row + meta.settings._iDisplayStart + 1;
+                    }
+                },
+                {
+                    title: "Kelompok",
+                    data: "kelompok",
+                    render: function(data, type, row, meta) {
+                        return `<span class="bg-warning- font-weight-bold">${data}</span>`;
+                    }
+                },
+                {
+                    title: "Desa",
+                    data: "nmdesa"
+                },
+                {
+                    title: "Kecamatan",
+                    data: "nmkec"
+                },
+                {
+                    title: "Kabupaten",
+                    data: "nmkab"
+                },
+                {
+                    title: "Target",
+                    data: "target"
+                },
+                {
+                    title: "Capaian",
+                    data: "capaian",
+                    class: "dt-right",
+                    render: function(data, type, row, meta) {
+                        return `<span class="bg-warning- font-weight-bold">${data}%</span>`;
+                    }
+                },
+                {
+                    title: 'Aksi',
+                    data: 'distid',
+                    orderable: false,
+                    width: 80,
+                    className: 'dt-left',
+                    responsivePriority: -1,
+                    render: function(data, type, row, meta) {
+                        return `
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/${data}/edit_distribusi?delegasiid=2117">
+                                <i class="la la-edit"></i> Ubah
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://mpo.psp.pertanian.go.id/v.5/pelaporan/${data}/empty">
+                                <i class="la la-edit"></i> Lapor
+                                </a>
+                            </div>
+                            `;
+                    }
+                }
+            ]
+
+            let table = $("#kt_datatable").DataTable(configs);
+
+            DtDoFilterColumn(table);
+        </script>
+
+
+
+<script src="/v.5/livewire/livewire.js?id=9a36ebbddb8dd0aa91b1" data-turbo-eval="false" data-turbolinks-eval="false"></script><script data-turbo-eval="false" data-turbolinks-eval="false">window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = 'https://mpo.psp.pertanian.go.id/v.5';window.livewire_token = 'Imc44mkiQOvZ95rcZTCAcgfKlzXDgqkuEOW9kRU4';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script>
+
+
+
+</body></html>

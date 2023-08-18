@@ -1,0 +1,11 @@
+delivery_order ==> done
+ktp ==> done
+dokumen_uji ==> done
+foto_proses ==> done
+ploting_area ==> done
+spp ==> done
+sk ==> done
+spk ==> done
+foto_sebelum ==> done
+bast ==> done
+ntpn ==> done
