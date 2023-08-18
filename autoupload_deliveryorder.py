@@ -58,8 +58,7 @@ class MultiChromeDriver:
 
 
 def get_url(driver, site_url, index):
-    site_fix = site_url.replace("/empty", "/delivery_order/create")
-    driver.get(site_fix)
+    driver.get(site_url.replace("/empty", "/delivery_order/create"))
     print(f"Driver {index} title: {driver.title}")
 
 
