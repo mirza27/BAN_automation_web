@@ -24,7 +24,6 @@ def login(driver, email, password):
 
 
 def extract_data_from_html(url, out_name):
-    global is_logged, page
     try:
         # Inisialisasi driver Selenium
         driver = webdriver.Chrome()  # Ganti dengan driver yang sesuai
@@ -61,7 +60,7 @@ def extract_data_from_html(url, out_name):
             # Mencari elemen <td> berdasarkan index
             tds = row.find_all("td")
             if len(tds) >= 3:
-                data_kolom_tiga = tds[2].text.strip()  # Mengambil teks dari kolom ke-3
+                desa = tds[2].text.strip()  # Mengambil teks dari kolom ke-3
 
                 nomor_td = row.find("td", class_="dt-right dtr-control")
                 poktan_td = row.find("span", class_="bg-warning- font-weight-bold")
@@ -83,7 +82,7 @@ def extract_data_from_html(url, out_name):
                                 formatted_nomor,
                                 href_ubah,
                                 poktans,
-                                data_kolom_tiga,
+                                desa,
                             )
                         )
 
