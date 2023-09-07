@@ -1,0 +1,20 @@
+2023-09-07 18:09:48,714 [INFO] try write new poktan for kab: Kampar, kec: XIII Koto Kampar, desa Pongkai Istiqomah, kelompok: Sialang Indah
+2023-09-07 18:09:57,744 [INFO] try write new poktan for kab: Kampar, kec: XIII Koto Kampar, desa Pongkai Istiqomah, kelompok: Pulau Harapan
+2023-09-07 18:10:15,853 [INFO] try write new poktan for kab: Kampar, kec: XIII Koto Kampar, desa Balung, kelompok: Ronah Kumpai
+2023-09-07 18:10:25,012 [INFO] try write new poktan for kab: Kampar, kec: Kampar Kiri Hulu, desa Danau Sontul, kelompok: Sabar Subur
+2023-09-07 18:10:35,287 [INFO] try write new poktan for kab: Kampar, kec: Tapung Hulu, desa Danau Lancang, kelompok: Juang Makmur 02
+2023-09-07 18:10:44,280 [INFO] try write new poktan for kab: Kampar, kec: Tapung Hulu, desa Danau Lancang, kelompok: Juang Makmur 03
+2023-09-07 18:10:56,703 [INFO] try write new poktan for kab: Kampar, kec: Tapung Hulu, desa Danau Lancang, kelompok: Super Tani II
+2023-09-07 18:11:05,697 [INFO] try write new poktan for kab: Kampar, kec: Tapung Hulu, desa Danau Lancang, kelompok: Super Tani
+2023-09-07 18:11:19,758 [INFO] try write new poktan for kab: Kampar, kec: Tapung Hulu, desa Danau Lancang, kelompok: Karya Nyata
+2023-09-07 18:11:40,505 [INFO] try write new poktan for kab: Kampar, kec: Kampar Kiri, desa Kuntu, kelompok: Rawa Bira I
+2023-09-07 18:12:03,929 [INFO] try write new poktan for kab: Kampar, kec: Kampar Kiri, desa Kuntu, kelompok: Tueroba Berkah
+2023-09-07 18:12:12,836 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Tambang, kelompok: Pogang 1
+2023-09-07 18:12:41,481 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Tambang, kelompok: Pogang 2
+2023-09-07 18:12:50,834 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Tambang, kelompok: Bonca Umbai
+2023-09-07 18:13:07,617 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Tambang, kelompok: Danau Baru
+2023-09-07 18:13:17,591 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Tambang, kelompok: Cibodak Ampo
+2023-09-07 18:13:38,669 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Balam Jaya, kelompok: Sei Guntung
+2023-09-07 18:13:48,119 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Balam Jaya, kelompok: Kewong
+2023-09-07 18:14:02,728 [INFO] try write new poktan for kab: Kampar, kec: Tambang, desa Parit Baru, kelompok: Sinar Rezeki
+2023-09-07 18:14:11,679 [INFO] try write new poktan for kab: Kampar, kec: Siak Hulu, desa Buluh Nipis, kelompok: Sukses Tani
