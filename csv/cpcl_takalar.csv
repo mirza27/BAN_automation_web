@@ -1,305 +1,66 @@
-No,Provinsi,Kabupaten,Kecamatan,Desa,kelompok,ketua,NIK,Benih (Kg),Varietas Benih,Pupuk NPK (Kg),Herbisida (Kg/L),Luas (Ha),Pupuk Hayati (L),ongkir sj,HARGA BAST,TOTAL
-955,Sulawesi Selatan,Takalar,Mangarabombang,Mangadu,Sikio Baji,Ahmad Dg Narang,7305021209700001,,,,,17,85,612000,5015000,5627000
-956,Sulawesi Selatan,Takalar,Mangarabombang,Mangadu,Sunggumanai,Nurdin Dg Sarro,7305021104620001,,,,,15,75,540000,4425000,4965000
-957,Sulawesi Selatan,Takalar,Mangarabombang,Mangadu,Turikale,Hamsar,7305020706700003,,,,,13,65,468000,3835000,4303000
-958,Sulawesi Selatan,Takalar,Mangarabombang,Lakatong,Mekarsari,Alamsyah Syam,7305020501820004,,,,,19,95,684000,5605000,6289000
-959,Sulawesi Selatan,Takalar,Mangarabombang,Lakatong,Pa'Gannakkang 2,Mahasong Dg Nanro,7305021404760002,,,,,15,75,540000,4425000,4965000
-960,Sulawesi Selatan,Takalar,Mangarabombang,Lakatong,Sipakainga,Ismail Dg Siriwa,7305021506820003,,,,,15,75,540000,4425000,4965000
-961,Sulawesi Selatan,Takalar,Mangarabombang,Banggae,Bontoa,Edi Dg Nai,7305023112740022,,,,,12,60,432000,3540000,3972000
-962,Sulawesi Selatan,Takalar,Mangarabombang,Banggae,Sipakainga,Asrul,7305020208910001,,,,,13,65,468000,3835000,4303000
-963,Sulawesi Selatan,Takalar,Mangarabombang,Banggae,Subur Prima,Ismail Dg Rani,7305021903760001,,,,,18,90,648000,5310000,5958000
-964,Sulawesi Selatan,Takalar,Mangarabombang,Topejawa,Abbulosibatang,Hada Dg Nyallang,7305021203680001,,,,,15,75,540000,4425000,4965000
-965,Sulawesi Selatan,Takalar,Mangarabombang,Topejawa,Appakabaji,Ridwan Kudus,7305022512790008,,,,,16,80,576000,4720000,5296000
-966,Sulawesi Selatan,Takalar,Mangarabombang,Topejawa,Campaga Bangung,Abd Karim,7305020506740003,,,,,15,75,540000,4425000,4965000
-967,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Agung Jaya,Parawansyah Dg Puli,7305021308840005,,,,,17,85,612000,5015000,5627000
-968,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Baddo Pangkaya,Abd Rahman Dg Malle,7305023112780005,,,,,12,60,432000,3540000,3972000
-969,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Baji Pa'Mai,Abd Latif Dg Ngambo,7305020107660092,,,,,12,60,432000,3540000,3972000
-970,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Bina Sejahtera,Baharuddin Dg Beta,7305021210620001,,,,,12,60,432000,3540000,3972000
-971,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Makmur Jaya,Fadil Dg Tayang,7305020808890001,,,,,15,75,540000,4425000,4965000
-972,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Assamaturu,Ruslan Dg Naja,7305021212670001,,,,,11,55,396000,3245000,3641000
-973,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Maju Makmur,Salam Dg Nai,7305023112610010,,,,,7,35,252000,2065000,2317000
-974,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Masunggua ,Jamaluddin Beta,7305020107850409,,,,,10,50,360000,2950000,3310000
-975,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Pangamaseang,Kamaruddin Dg Nangka,7305021609830001,,,,,10,50,360000,2950000,3310000
-976,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Baji Ampe,Syahrul Majid,7305020107690268,,,,,13,65,468000,3835000,4303000
-977,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Batu Loe,Hamid Dg Sarro,7305021506760001,,,,,20,100,720000,5900000,6620000
-978,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Bontoa Jaya,Tajuddin Naja,7305021110750003,,,,,8,40,288000,2360000,2648000
-979,Sulawesi Selatan,Takalar,Mangarabombang,Lengkese,Bontobaddo II,Sukman Dg Talli,7305020508680001,,,,,18,90,648000,5310000,5958000
-980,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Bontopa'Ja I,Alvian Yunus,7305031311820004,,,,,23,115,828000,6785000,7613000
-981,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Sikatutui II,Mattu Dg Jowa,7305022111630001,,,,,9,45,324000,2655000,2979000
-982,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Sumber Resky,Baharuddin Tompo,7305020105650002,,,,,20,100,720000,5900000,6620000
-983,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Abbulosibatang II,Abdul Rahman,7305021112850001,,,,,23,115,828000,6785000,7613000
-984,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Sipakalabbiri,Sahabuddin Dg Leo,7305022303690004,,,,,5,25,180000,1475000,1655000
-985,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Balang Sejahterah,Jufri Dg Lau,7305021505820001,,,,,13,65,468000,3835000,4303000
-986,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Sunggu Manai,Muh.Irmansyah.A,7305021811900002,,,,,10,50,360000,2950000,3310000
-987,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Bontomanai,Santo,7305022103910001,,,,,15,75,540000,4425000,4965000
-988,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Bontomanai II,Rahapuddin Alle,7305021905600001,,,,,34,170,1224000,10030000,11254000
-989,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Bonto Pa'Ja Iv,Syamsuddin Dg Taja,7305021508760002,,,,,12,60,432000,3540000,3972000
-990,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Kamajuanta,Mustafa Dg Ngawing,7305021005750004,,,,,24,120,864000,7080000,7944000
-991,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Sikatutui I ,Muh. Idris Dg Nyampa,7305022501660001,,,,,13,65,468000,3835000,4303000
-992,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Sipakatutu II,M. Idris Dg Ngitung,7305020107760223,,,,,9,45,324000,2655000,2979000
-993,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Toddopuli I ,Basri Dg Nyampa,7305021508780002,,,,,23,115,828000,6785000,7613000
-994,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Balang II,Halik Dg Laja,7305021402780003,,,,,10,50,360000,2950000,3310000
-995,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Bonto Bila Jaya II,Nini Dg Ngalle,7305023112710025,,,,,20,100,720000,5900000,6620000
-996,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Primadani,Indar Sija,7305020103810001,,,,,9,45,324000,2655000,2979000
-997,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Sipattojeng,Kamal Raja Muda,7305020507730007,,,,,10,50,360000,2950000,3310000
-998,Sulawesi Selatan,Takalar,Mangarabombang,Cikoang,Kampung Parang III,Jupri,7305021002760003,,,,,21,105,756000,6195000,6951000
-999,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Panyangkalang I,Jufri Dg Jiki,7305021408730002,,,,,26,130,936000,7670000,8606000
-1000,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Sipakalabbiri,Sapri,7305020611900005,,,,,25,125,900000,7375000,8275000
-1001,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Bunga Angrek,S Dg Ngemba,7305023112720015,,,,,14,70,504000,4130000,4634000
-1002,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Pangkajene Berkarya,Kamar Dg Tiro,7305020107660184,,,,,20,100,720000,5900000,6620000
-1003,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Lure,Nurdin Dg Sibali,7305021312660001,,,,,22,110,792000,6490000,7282000
-1004,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Karya Mandiri,Mangnginrang,7305020505450002,,,,,16,80,576000,4720000,5296000
-1005,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Ady Karya,Hamsul Ryadi Ruslan,7305021611870001,,,,,12,60,432000,3540000,3972000
-1006,Sulawesi Selatan,Takalar,Mangarabombang,Panyangkalang,Rahmat Jaya,Muh Idris n,7305031103520001,,,,,12,60,432000,3540000,3972000
-1007,Sulawesi Selatan,Takalar,Mangarabombang,Bontomanai,Panrannuanta,Safa Dg Sila,7305021202680003,,,,,20,100,720000,5900000,6620000
-1008,Sulawesi Selatan,Takalar,Mangarabombang,Bontoparang,Silewai,Jusman Dg. Lewa,7371112609830012,,,,,15,75,540000,4425000,4965000
-1009,Sulawesi Selatan,Takalar,Mangarabombang,Bontoparang,Julukanaya,Rudding Dg. Kawang,7305021103720001,,,,,13,65,468000,3835000,4303000
-1010,Sulawesi Selatan,Takalar,Mangarabombang,Bontoparang,Sinar Mentari,Abdul Halim,7305020505750001,,,,,18,90,648000,5310000,5958000
-1011,Sulawesi Selatan,Takalar,Mangarabombang,Pattopakang ,Cinna Pampang,Taju Dg. Lewa,7305020107790020,,,,,14,70,504000,4130000,4634000
-1012,Sulawesi Selatan,Takalar,Mangarabombang,Pattopakang ,Minasa Te'Ne,Saharuddin,7305022108730001,,,,,10,50,360000,2950000,3310000
-1013,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Appakabaji,Anas,7305022602950001,,,,,7,35,252000,2065000,2317000
-1014,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Maju Bersama,Muh. Saleh,730503112830025,,,,,25,125,900000,7375000,8275000
-1015,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Baji Pa'Mai,Pahaluddin,7305020201670004,,,,,16,80,576000,4720000,5296000
-1016,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Harapan Baru,S Dg Ngawing,7305023112690031,,,,,17,85,612000,5015000,5627000
-1017,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Karama,Sarapa Dg Gassing,7305022409680002,,,,,16,80,576000,4720000,5296000
-1018,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Mabbulosibatang,Darman,7305023112670021,,,,,16,80,576000,4720000,5296000
-1019,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Ongkoa Jaya,Karim Dg Tata,7305021507510046,,,,,17,85,612000,5015000,5627000
-1020,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Pandala Jaya,Abd Rahman,7305020107670069,,,,,18,90,648000,5310000,5958000
-1021,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Pandala Subur,Nasir Saju,7305023112790012,,,,,11,55,396000,3245000,3641000
-1022,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Puntondi 2,Abdullah,7305023112420003,,,,,18,90,648000,5310000,5958000
-1023,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Sinar Boddia,Sambang Dg Tola,7305020502600001,,,,,15,75,540000,4425000,4965000
-1024,Sulawesi Selatan,Takalar,Mangarabombang,Laikang,Usaha Jujur,Pasallang Dg Ta'le,7305023112570020,,,,,20,100,720000,5900000,6620000
-1025,Sulawesi Selatan,Takalar,Mappakasunggu,Patani,Minasa Baji,Yakele,7305070107680082,,,,,11,55,396000,3245000,3641000
-1026,Sulawesi Selatan,Takalar,Tanakeke,Balangdatu,Abbulosiba Tang,Dg. Rowa,7305010107820110,,,,,15,75,540000,4425000,4965000
-1027,Sulawesi Selatan,Takalar,Tanakeke,Balangdatu,Bunga Sarre,Silahuddin Dg Ngewa,7305020107700293,,,,,15,75,540000,4425000,4965000
-1028,Sulawesi Selatan,Takalar,Tanakeke,Balangdatu,Kanaraya,Siama,7305012003930004,,,,,16,80,576000,4720000,5296000
-1029,Sulawesi Selatan,Takalar,Tanakeke,Balangdatu,Panrannuanta,Dg. Ranyu,7305010107780209,,,,,18,90,648000,5310000,5958000
-1030,Sulawesi Selatan,Takalar,Tanakeke,Maccini Baji,Bina Sejahtera,Lili Dg Tammu,7305010107430040,,,,,17,85,612000,5015000,5627000
-1031,Sulawesi Selatan,Takalar,Tanakeke,Maccini Baji,Surya Sejati,Syafri,7305012804790006,,,,,15,75,540000,4425000,4965000
-1032,Sulawesi Selatan,Takalar,Tanakeke,Mattiro  Baji,Harapan Kita,Kaimuddin Dg Nassa,7305013112540009,,,,,17,85,612000,5015000,5627000
-1033,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Sikatutui,Syamsiah Dg Ngiji,7305080211720001,,,,,15,75,540000,4425000,4965000
-1034,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Juluatia,Arsyad Mile,7305010107680078,,,,,12,60,432000,3540000,3972000
-1035,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Anugaerah  Pakali,Muh. Aswil R,7305008020867001,,,,,15,75,540000,4425000,4965000
-1036,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Minasa Baji,H. Usman Dg Nyikko,7305080107680030,,,,,14,70,504000,4130000,4634000
-1037,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Samboritta I,Bahr Dg Tayang,7305013112630004,,,,,15,75,540000,4425000,4965000
-1038,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Baji Areng,Muh. Nawir,7305070711700001,,,,,15,75,540000,4425000,4965000
-1039,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Tubarania,Abd Rasyd Dg Sija,7305082201670001,,,,,14,70,504000,4130000,4634000
-1040,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Bungung Barania,Herman Dg Nai,7305013112730001,,,,,12,60,432000,3540000,3972000
-1041,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Pa'Makkanga,Saparia Dg Tayu,7305016101730001,,,,,12,60,432000,3540000,3972000
-1042,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Sepakat,Tajuddin Keda,7305041608750001,,,,,12,60,432000,3540000,3972000
-1043,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Tobanga,Bahar Ibrahim,7305082612750001,,,,,12,60,432000,3540000,3972000
-1044,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Tonasa I,Sahabuddin Dg Jarre,7305081005730002,,,,,14,70,504000,4130000,4634000
-1045,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Tunas Muda,Muh Arif Agang,7305010102740001,,,,,12,60,432000,3540000,3972000
-1046,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Baji Minasa,Nureni,7305085212860001,,,,,12,60,432000,3540000,3972000
-1047,Sulawesi Selatan,Takalar,Sanrobone,Tonasa,Abbulo Sibatang,Ilyas Dg Lapang,7305010502690002,,,,,32,160,1152000,9440000,10592000
-1048,Sulawesi Selatan,Takalar,Sanrobone,Paddinging,Bilayya Makmur,Irfan Dg Rate,7305082105690001,,,,,12,60,432000,3540000,3972000
-1049,Sulawesi Selatan,Takalar,Sanrobone,Paddinging,Paddinging Jaya,Baso Dg Salle,7305010102420000,,,,,16,80,576000,4720000,5296000
-1050,Sulawesi Selatan,Takalar,Sanrobone,Paddinging,Bonto Beru,Alimuddin Dg Ngajang,7305080107690010,,,,,31,155,1116000,9145000,10261000
-1051,Sulawesi Selatan,Takalar,Sanrobone,Paddinging,Gaddonga,Sakarudin Dg Ngero,7305010107670217,,,,,40,200,1440000,11800000,13240000
-1052,Sulawesi Selatan,Takalar,Sanrobone,Paddinging,Pasuika,Misi Dg Rani,7305083112800009,,,,,40,200,1440000,11800000,13240000
-1053,Sulawesi Selatan,Takalar,Sanrobone,Paddinging,Paddinging  ,Syamsuddin Dg Ruppa,7305081011530001,,,,,21,105,756000,6195000,6951000
-1054,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Benteng Sanrobone,Abd Latif Amri,7305012202500001,,,,,8,40,288000,2360000,2648000
-1055,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Bontoa,Hasnah,7305084107670034,,,,,13,65,468000,3835000,4303000
-1056,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Hidup Bersama,Bahtiar Dg Nyampa,7305080107700002,,,,,15,75,540000,4425000,4965000
-1057,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Pakokoa,Usman,7305011808720001,,,,,14,70,504000,4130000,4634000
-1058,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Salekowa,Syamsuddin H ,7305083105610001,,,,,14,70,504000,4130000,4634000
-1059,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Sarraka,Makkaraeng,7305011005730001,,,,,13,65,468000,3835000,4303000
-1060,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Sejahtera,Muh Amin,7305082107780001,,,,,19,95,684000,5605000,6289000
-1061,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Suka Maju,Muh. Yasir,7305080709720001,,,,,19,95,684000,5605000,6289000
-1062,Sulawesi Selatan,Takalar,Sanrobone,Sanrobone,Assamaturu Lau,Mansyur Dg Limpo,7305012507720001,,,,,13,65,468000,3835000,4303000
-1063,Sulawesi Selatan,Takalar,Sanrobone,Banyuanyara,Matahari,Kaharuddin,7305082011710001,,,,,28,140,1008000,8260000,9268000
-1064,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Tanajaya,Mappa Dg Kuling,7305033112630005,,,,,18,90,648000,5310000,5958000
-1065,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Talaka,"H.Sahlan Gasri,S.H",7305070504600001,,,,,16,80,576000,4720000,5296000
-1066,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Batu Laccu,Firman,7305030402960001,,,,,15,75,540000,4425000,4965000
-1067,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Boddia,Mansyur Dg Sura,7305030107560049,,,,,15,75,540000,4425000,4965000
-1068,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Daeng,Muh Nasir Dg Lili,7305031612720001,,,,,16,80,576000,4720000,5296000
-1069,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Tumalompoa,Syarifuddin Eppe,7305031502670001,,,,,14,70,504000,4130000,4634000
-1070,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Tani Maju,H.B Dg.Nanring,7305030107450002,,,,,14,70,504000,4130000,4634000
-1071,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Bahagia,Jaya Dg Ngopa,7305033112540006,,,,,16,80,576000,4720000,5296000
-1072,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Ciniayo,Safaruddin Dg Siama,7305030101680001,,,,,14,70,504000,4130000,4634000
-1073,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Tana-Tana,Leleng Dg Mile,'7305032608600001,,,,,16,80,576000,4720000,5296000
-1074,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Canrego,Abd. Latif Dg Gassing,7305033112500009,,,,,14,70,504000,4130000,4634000
-1075,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Baji Minasa,Ruslan Yusuf,7305030502860001,,,,,15,75,540000,4425000,4965000
-1076,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Canrego,Bontomara,Abdullah Dg Tojeng,7305033112620005,,,,,15,75,540000,4425000,4965000
-1077,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Bunga Ejaya,Jumakkara Dg Nyampo,7305033112300110,,,,,18,90,648000,5310000,5958000
-1078,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Bontomarannu,Dzulkifli,7305071303860006,,,,,20,100,720000,5900000,6620000
-1079,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Pangngai Jaya,K. Dg. Ngampa,7305031703680002,,,,,19,95,684000,5605000,6289000
-1080,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Alluka,Haeruddin,7304010307870006,,,,,20,100,720000,5900000,6620000
-1081,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Bajuejaya,Karman Dg. Situju,7305033112850013,,,,,15,75,540000,4425000,4965000
-1082,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Baji Pamai,"Abd Azis, K, SP",7305031210670001,,,,,16,80,576000,4720000,5296000
-1083,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Ana Aong,Zainuddin Dg. Rani,7305032003670001,,,,,15,75,540000,4425000,4965000
-1084,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Pasimasunggu,Baharuddin Ago,7305933112200022,,,,,22,110,792000,6490000,7282000
-1085,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Sejahtera,H. Sadarang,7305030107360002,,,,,21,105,756000,6195000,6951000
-1086,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Pa'Bundukang Jaya,Frengki Razak,7305032112860006,,,,,20,100,720000,5900000,6620000
-1087,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pabundukang,Sama Jaya,Syamsuddin Dg Bantang,7305033112310006,,,,,16,80,576000,4720000,5296000
-1088,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bontokadatto,A'Bulosibatang,Murniati,7304017112730126,,,,,16,80,576000,4720000,5296000
-1089,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bontokadatto,Janna,H. Abdul Haris,7305030108610001,,,,,24,120,864000,7080000,7944000
-1090,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bontokadatto,Jawi-Jawiyah,Mansyur,7305032409700001,,,,,20,100,720000,5900000,6620000
-1091,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bontokadatto,Parang Banoaya,Jamaluddin Dg Tappa,7305030508830001,,,,,14,70,504000,4130000,4634000
-1092,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bontokadatto,Sanrangang,Muh. Basir Dg Tutu,7305031102790001,,,,,15,75,540000,4425000,4965000
-1093,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bulukunyi,Manjalling,Abd. Malik Dg Se're,7305030107600165,,,,,20,100,720000,5900000,6620000
-1094,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bulukunyi,Pallantikang,Abd. Hapid,7305032011770002,,,,,11,55,396000,3245000,3641000
-1095,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Bontoa,Abd.Rajab Dg.Sila,7305032989720001,,,,,15,75,540000,4425000,4965000
-1096,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Salekowa,T. Dg Rate,7305032805800001,,,,,25,125,900000,7375000,8275000
-1097,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Sunggu Riminasanta,Halida,7305034507710002,,,,,15,75,540000,4425000,4965000
-1098,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Bulo Puro,Ahmad Hakim Akbar,7305031701920001,,,,,14,70,504000,4130000,4634000
-1099,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Forum Jabonga,Muh. Arief Beta,7305032707700003,,,,,23,115,828000,6785000,7613000
-1100,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Tamalanrea,Yanto,7305032503750001,,,,,28,140,1008000,8260000,9268000
-1101,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Bungung Biraeng I,Bakri Nai,7305031706732001,,,,,36,180,1296000,10620000,11916000
-1102,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Cakura,Panrannuanta,Imran Azis,7305030512610001,,,,,15,75,540000,4425000,4965000
-1103,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Lantang,Lemo Lasaya I,Tawali Dg Lewa,7305033112640037,,,,,8,40,288000,2360000,2648000
-1104,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Tala Lompo,Syamsuddin,7305031203860004,,,,,13,65,468000,3835000,4303000
-1105,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Timbusu,Sulaiman Dg. Kulle,7305030107650102,,,,,16,80,576000,4720000,5296000
-1106,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Balinapara,Syarifuddin Dg Ngago,7305030107690129,,,,,5,25,180000,1475000,1655000
-1107,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Batuniandara,Mustaking,7305031708760001,,,,,15,75,540000,4425000,4965000
-1108,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Bontokadieng,Dirwan Dg Miri,7305031502620001,,,,,28,140,1008000,8260000,9268000
-1109,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Arung - Arung,Abd. Rahim Dg Tona,7305030502780002,,,,,25,125,900000,7375000,8275000
-1110,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Bontotangnga,S Dg Kawang,7305033112690010,,,,,14,70,504000,4130000,4634000
-1111,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Moncongkomba,Kalappo,Jamali Dg. Ngopo,7305030608730002,,,,,14,70,504000,4130000,4634000
-1112,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pattene,Masunggua,Lassa Dg Beta,7305030107320054,,,,,19,95,684000,5605000,6289000
-1113,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pattene,Minasa Sunggu,H. Parawangsa Dg Lira,7305033112660033,,,,,20,100,720000,5900000,6620000
-1114,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Pattene,Ajjulukana,Syamsudin Dg Nara,7305031205760001,,,,,16,80,576000,4720000,5296000
-1115,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Surulangi,Bungung Batua,Bahar Dg.Jarra,7305033112610024,,,,,15,75,540000,4425000,4965000
-1116,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Surulangi,Surulangi,Sumiati Dg Kanang,7305034107630131,,,,,10,50,360000,2950000,3310000
-1117,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Surulangi,Bunga Kenanga,Raga Dg Kulle,7305033112300140,,,,,7,35,252000,2065000,2317000
-1118,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Surulangi,Batu Maccing,T Dg Lala,7305030107520102,,,,,14,70,504000,4130000,4634000
-1119,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Surulangi,Ajjulu Ero,Syamsu Dg Ngalli,7305030107520001,,,,,20,100,720000,5900000,6620000
-1120,Sulawesi Selatan,Takalar,Polongbangkeng Selatan,Bulukunyi,Borongtala,Abd. Rasyid Dg Nyikko,7305031005670001,,,,,18,90,648000,5310000,5958000
-1121,Sulawesi Selatan,Takalar,Pattallassang,Bajeng,Bontokamase,Majjuma Dg. Nakku,7305070507580002,,,,,12,60,432000,3540000,3972000
-1122,Sulawesi Selatan,Takalar,Pattallassang,Bajeng,Kampung Luang,Haruna Dg. Tutu,7305071201680005,,,,,14,70,504000,4130000,4634000
-1123,Sulawesi Selatan,Takalar,Pattallassang,Kalabbirang,Baji Minasa,Ruslan Rauf,7305070407710001,,,,,13,65,468000,3835000,4303000
-1124,Sulawesi Selatan,Takalar,Pattallassang,Kalabbirang,Harapan Sejahtera,Abdul Rahman,7305070906930003,,,,,14,70,504000,4130000,4634000
-1125,Sulawesi Selatan,Takalar,Pattallassang,Maradekaya,Mattiro Subur,Drs. Muhammad Natsir Dg. Jama,7305071004680001,,,,,14,70,504000,4130000,4634000
-1126,Sulawesi Selatan,Takalar,Pattallassang,Maradekaya,Minasa Te'Ne II,Arbat Naba,7305070107600074,,,,,13,65,468000,3835000,4303000
-1127,Sulawesi Selatan,Takalar,Pattallassang,Sabintang,Baji Minasa,Firdaus,7305071506890002,,,,,13,65,468000,3835000,4303000
-1128,Sulawesi Selatan,Takalar,Pattallassang,Sabintang,Bassara,Mustari,7305070107720147,,,,,14,70,504000,4130000,4634000
-1129,Sulawesi Selatan,Takalar,Pattallassang,Pappa,Bangkala Jaya,Agus,7305070107740131,,,,,17,85,612000,5015000,5627000
-1130,Sulawesi Selatan,Takalar,Pattallassang,Pappa,Sitallassi,Zainuddin,7305073112630045,,,,,17,85,612000,5015000,5627000
-1131,Sulawesi Selatan,Takalar,Pattallassang,Pappa,Jaya Baru,Makka Dg Jarung,7305070107620150,,,,,15,75,540000,4425000,4965000
-1132,Sulawesi Selatan,Takalar,Pattallassang,Pappa,Anugerah,Adam Rani,7305073112550010,,,,,18,90,648000,5310000,5958000
-1133,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Salaka 1,Jamaluddin,7305070806810001,,,,,17,85,612000,5015000,5627000
-1134,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Salaka Ll,Jupri Bani,'7305070102700002,,,,,17,85,612000,5015000,5627000
-1135,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Baji Gau,Muh.Nasir,7305070909750001,,,,,15,75,540000,4425000,4965000
-1136,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Tunas Harapan,Karimollah,7305070203600001,,,,,12,60,432000,3540000,3972000
-1137,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Baji Minasa,Japar Sija,7305073112630040,,,,,13,65,468000,3835000,4303000
-1138,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Alqamar,HZ Dg.Nyau,7305070107550030,,,,,11,55,396000,3245000,3641000
-1139,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Biring Je'Ne,Drs. Muhammad Said,7305070810670001,,,,,11,55,396000,3245000,3641000
-1140,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Salaka II,Jufri Dg Bani,7305070102700002,,,,,11,55,396000,3245000,3641000
-1141,Sulawesi Selatan,Takalar,Pattallassang,Salaka,Al-Qamar,H. Zainuddin nyau,7305070107550090,,,,,11,55,396000,3245000,3641000
-1142,Sulawesi Selatan,Takalar,Pattallassang,Maradekaya,Sipakainga,Abbas Liung,7305072505740002,,,,,7,35,252000,2065000,2317000
-1143,Sulawesi Selatan,Takalar,Pattallassang,Maradekaya,Makkio Baji,Ahmad Beta,7305071011470001,,,,,10,50,360000,2950000,3310000
-1144,Sulawesi Selatan,Takalar,Pattallassang,Maradekaya,Mattiro Subur 2,K Dg.Lau,7305070707720003,,,,,18,90,648000,5310000,5958000
-1145,Sulawesi Selatan,Takalar,Pattallassang,Maradekaya,Bonto Tala,Maddatuang,7305073112670020,,,,,12,60,432000,3540000,3972000
-1146,Sulawesi Selatan,Takalar,Pattallassang,Maradekaya,Baji Pa'Mai ,Muh.Amin,7305072601780002,,,,,7,35,252000,2065000,2317000
-1147,Sulawesi Selatan,Takalar,Pattallassang,Sombalabella,Jenemanai,Abd.Jalil,7305070804740004,,,,,10,50,360000,2950000,3310000
-1148,Sulawesi Selatan,Takalar,Pattallassang,Sombalabella,Abbulosibatang,Najamuddin,7305071907770003,,,,,16,80,576000,4720000,5296000
-1149,Sulawesi Selatan,Takalar,Pattallassang,Sombalabella,Sompu,Abd.Wahid,7305070107530150,,,,,6,30,216000,1770000,1986000
-1150,Sulawesi Selatan,Takalar,Pattallassang,Sombalabella,Bontosunggu,H Dg.Tau,7305073112540020,,,,,11,55,396000,3245000,3641000
-1151,Sulawesi Selatan,Takalar,Pattallassang,Sombalabella,Bontoa,Makkawali,7305070107720170,,,,,13,65,468000,3835000,4303000
-1152,Sulawesi Selatan,Takalar,Pattallassang,Sombalabella,Massadde,Hakimuddin,7305070501630003,,,,,10,50,360000,2950000,3310000
-1153,Sulawesi Selatan,Takalar,Pattallassang,Sombalabella,Kacci-Kacci,Alwi Nyampa,7305070109700003,,,,,14,70,504000,4130000,4634000
-1154,Sulawesi Selatan,Takalar,Pattallassang,Pallantikang,Pamai Baji,M Dg.Lapang,7305070107520020,,,,,9,45,324000,2655000,2979000
-1155,Sulawesi Selatan,Takalar,Pattallassang,Pallantikang,Pasuleang 2,Bahar Nanga,7305070107580010,,,,,18,90,648000,5310000,5958000
-1156,Sulawesi Selatan,Takalar,Pattallassang,Bajeng,Bonto Matene,H.Tutu,7305071005460001,,,,,35,175,1260000,10325000,11585000
-1157,Sulawesi Selatan,Takalar,Pattallassang,Sabintang,Tamarunang,Sampulawang,7305070105590003,,,,,15,75,540000,4425000,4965000
-1158,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Kale Ko'mara,Balang Bulo,Sulaeman Nuru,7305040708720002,,,,,15,75,540000,4425000,4965000
-1159,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Suka Maju,Abdul Kari Dg Bundu,7305040107400012,,,,,16,80,576000,4720000,5296000
-1160,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Mattompodalle,Julubori,Rajamaudin Dg Tiro,7305040107540146,,,,,23,115,828000,6785000,7613000
-1161,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Mattompodalle,Semangat Juang 45,Kahar Dg Lira,7305043112750051,,,,,20,100,720000,5900000,6620000
-1162,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Massamaturu,Assamaturu,Suardi,7305042512870005,,,,,15,75,540000,4425000,4965000
-1163,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Massamaturu,Bontoa II,Muh Natsir Dg Tutu,7305041205580003,,,,,11,55,396000,3245000,3641000
-1164,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangbaddo,Balang Kayu,Hamzah Ardiansya,7305042510820001,,,,,11,55,396000,3245000,3641000
-1165,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangbaddo,Bunga Biraeng,Kaharuddin Sila,7305040111840003,,,,,14,70,504000,4130000,4634000
-1166,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangbaddo,Kamase,Nasir Dg Nassa,7305042707710001,,,,,13,65,468000,3835000,4303000
-1167,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangbaddo,Cahaya Tangkaleng,Samsu Alam,7305042502830001,,,,,21,105,756000,6195000,6951000
-1168,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangbaddo,Tomporita,Bado B Tambung,7305043112540031,,,,,17,85,612000,5015000,5627000
-1169,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Pa'rappunganta,Balangtimbangan,Damang Dg Beta,7305040107680176,,,,,13,65,468000,3835000,4303000
-1170,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Pa'rappunganta,Bontosunggu,Jufri S Dg Sila,7305041212540005,,,,,13,65,468000,3835000,4303000
-1171,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Pa'rappunganta,Bungung Sabbea,Syarifuddin,7305040202670001,,,,,11,55,396000,3245000,3641000
-1172,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Timbuseng,Harson Jaya,Haris Dg Nambung,7305040679710003,,,,,20,100,720000,5900000,6620000
-1173,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balangtanaya,Kunjungmae,Abdul Tompo,7305040701300006,,,,,16,80,576000,4720000,5296000
-1174,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balangtanaya,Borong-Boronga,Tona Dg Nyau,7305040605590001,,,,,11,55,396000,3245000,3641000
-1175,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balangtanaya,Cahaya Lompo,Taharuddin,7305040107760326,,,,,11,55,396000,3245000,3641000
-1176,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balangtanaya,Je'Ne Ta'Bua,Darmaji Lewa,7305040411720002,,,,,11,55,396000,3245000,3641000
-1177,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balangtanaya,Assamaturu,Syamsuddin,7305042707720001,,,,,15,75,540000,4425000,4965000
-1178,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balang Tanaya,Macini Baji II,mansyur ,730504706660002,,,,,11,55,396000,3245000,3641000
-1179,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balang Tanaya,Sappikan II,Muhajir Toro,7305040706020002,,,,,10,50,360000,2950000,3310000
-1180,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balang Tanaya,Sinar Jaya,Lukman,7305041600720001,,,,,14,70,504000,4130000,4634000
-1181,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balang Tanaya,Sappikang,Jamaluddin Maro,7305040811730001,,,,,5,25,180000,1475000,1655000
-1182,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Balang Tanaya,Ramba Lompoa,Hasanuddin Lalo,7305040209650001,,,,,13,65,468000,3835000,4303000
-1183,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Jambua III,Syaparuddin Dg Nyampo,7305041103710003,,,,,11,55,396000,3245000,3641000
-1184,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Kampung Beru ,Kampung Beru Merdeka,Asis Dg Ngalle,7305043112690021,,,,,11,55,396000,3245000,3641000
-1185,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Kampung Beru ,Rannaya,Dg Kamba,7305040107590146,,,,,11,55,396000,3245000,3641000
-1186,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Kampung Beru ,Romang Lompoa,Rahman Kulle,7305041907740002,,,,,11,55,396000,3245000,3641000
-1187,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Kampung Beru,Laccu-Laccu,Muh. Hasim,7305040506800003,,,,,15,75,540000,4425000,4965000
-1188,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Kampung Beru,Tabbuakkang,Supriadi,7305040307750003,,,,,10,50,360000,2950000,3310000
-1189,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Kampung Beru,Kampung Beru,Munir,7305040704750004,,,,,14,70,504000,4130000,4634000
-1190,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Lassang,Embun Pagi,Syaharuddin,7305041207570001,,,,,18,90,648000,5310000,5958000
-1191,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Lassang,Borong Lasaka,Ilyas ,7305040608720003,,,,,20,100,720000,5900000,6620000
-1192,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Lassang,Liku Beru,Abd Gaffar Dg Lau,7305040801760004,,,,,20,100,720000,5900000,6620000
-1193,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Lassang,Kunrea,Hj. Nurhaedah,7305046006770004,,,,,14,70,504000,4130000,4634000
-1194,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Lassang,Biring Je'Ne,Juma'naba,7305041102570001,,,,,15,75,540000,4425000,4965000
-1195,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Lassang Barat,Allu,Syarifuddin,7305041503730003,,,,,13,65,468000,3835000,4303000
-1196,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Mattompodalle,Bungung Lompoa,Jumakka Dg Lawa,7305041511460001,,,,,20,100,720000,5900000,6620000
-1197,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Camba Te'Nea,Ismail,7305030107730192,,,,,16,80,576000,4720000,5296000
-1198,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Lembo,Saharuddin,7305030107800214,,,,,18,90,648000,5310000,5958000
-1199,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Manjarreki,Rala.S.Pd,7305043112620063,,,,,18,90,648000,5310000,5958000
-1200,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Pelita,Anwar Dg gassing,7305040107710229,,,,,20,100,720000,5900000,6620000
-1201,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Balla Borong,Nyambe Dg nyau,7305041606560003,,,,,14,70,504000,4130000,4634000
-1202,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Sadar,Jatting Dg Sipali,7303040107620350,,,,,16,80,576000,4720000,5296000
-1203,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Alara,Nurhayati,7305034017000605,,,,,15,75,540000,4425000,4965000
-1204,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Pelita,Anwar,7305140157710229,,,,,16,80,576000,4720000,5296000
-1205,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Sapponga,Muh Rusli Dg Tata,730504270777021,,,,,15,75,540000,4425000,4965000
-1206,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Reski,Muhammad Dg kulle,730504311260001,,,,,15,75,540000,4425000,4965000
-1207,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Butta Bakka,Benca Dg Ropu,730503107710009,,,,,17,85,612000,5015000,5627000
-1208,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Panrannuangku,Bulu Bulu,Mansur Dg Ngalle,730503154800001,,,,,10,50,360000,2950000,3310000
-1209,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangluara,Ajjulukana,H Muh Rustam Dg Rani,7305043112680023,,,,,12,60,432000,3540000,3972000
-1210,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangluara,Alleberoang II,Burhan,7305040502780001,,,,,12,60,432000,3540000,3972000
-1211,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangluara,Borongkaramasa II,"Amin,A.Mk",7305041203770004,,,,,12,60,432000,3540000,3972000
-1212,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parangluara,Sikarannuang,Asbullah Dg Nyampo,7305040107470101,,,,,12,60,432000,3540000,3972000
-1213,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parappunganta,Masalonko Jaya,Sahabuddin,7305040205710002,,,,,12,60,432000,3540000,3972000
-1214,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Parappunganta,Ta'Banga,Muh Kamal,7305042806930001,,,,,12,60,432000,3540000,3972000
-1215,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Pa'rappunganta,Paraikatte I,Mardi Lestari,7305041807800001,,,,,12,60,432000,3540000,3972000
-1216,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Timbuseng,Timbuseng I,Sitta Dg Lebang,7305047011610001,,,,,15,75,540000,4425000,4965000
-1217,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Timbuseng,Minasa Lompo,Tajuddin Dg Rate,7305042005700001,,,,,16,80,576000,4720000,5296000
-1218,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Timbuseng,Subur Jaya,Irwandi Dg Ngitung,7305041009780001,,,,,19,95,684000,5605000,6289000
-1219,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Bungung Lompoa,Lahiya Dg Tutu,7305040609760002,,,,,17,85,612000,5015000,5627000
-1220,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Bacinga,H. Abd. Rajab,7305070410460001,,,,,17,85,612000,5015000,5627000
-1221,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Baddo Kambara,Abd Rahman,7305040608760005,,,,,17,85,612000,5015000,5627000
-1222,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Tompobalang,Dahlan Dg. Ngempo,7305040107580290,,,,,17,85,612000,5015000,5627000
-1223,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Belaka,Irfan,7305042905950001,,,,,16,80,576000,4720000,5296000
-1224,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Jenetallasa II,Darmawati,7305045708720002,,,,,16,80,576000,4720000,5296000
-1225,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Pallessorang,Saparuddin,7305040407700001,,,,,16,80,576000,4720000,5296000
-1226,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Je'Netallasa,Jainuddin,7305040505570003,,,,,25,125,900000,7375000,8275000
-1227,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Bayang Lompo,S Dg Nangka,7305041005680001,,,,,20,100,720000,5900000,6620000
-1228,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Towata,Kayu Takkang,Taslim Dg Limpo,7305042509690003,,,,,25,125,900000,7375000,8275000
-1229,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Biring Kaloro,Mansyur Dg Nassa,7305040107680003,,,,,13,65,468000,3835000,4303000
-1230,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Setia Kawan,Suharis Dg Nuru,7305042707700001,,,,,13,65,468000,3835000,4303000
-1231,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Bukit Makmur,Baso Asis Dg Rola,7305041502620003,,,,,12,60,432000,3540000,3972000
-1232,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Panrita,Jufri ,7305041313630001,,,,,20,100,720000,5900000,6620000
-1233,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Mangga II,Munirah,7305044101650007,,,,,10,50,360000,2950000,3310000
-1234,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Romanga I,Gunawan,7305040106810001,,,,,12,60,432000,3540000,3972000
-1235,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Manongkoki,Julukanaya,Abdul Kadir,7309132507770002,,,,,11,55,396000,3245000,3641000
-1236,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Malewang,Borongleko Jaya,Lebu Dg Rowa,7305040707050006,,,,,20,100,720000,5900000,6620000
-1237,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Malewang,Mallewaya II,Kamaruddin Dg Nuru,7305040103650001,,,,,12,60,432000,3540000,3972000
-1238,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Malewang,Biseang,Ta'nang,7305040302620001,,,,,8,40,288000,2360000,2648000
-1239,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Malewang,Julukana,Abdul Kahar Dg Jarre,7305041503720001,,,,,10,50,360000,2950000,3310000
-1240,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Palleko,Pannaraka,Dg Sarida,7305044107670038,,,,,9,45,324000,2655000,2979000
-1241,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Palleko,Palleko II,Halil Gassing,7305042011690001,,,,,9,45,324000,2655000,2979000
-1242,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Palleko,Mawar Pannaraka,B Dg Ngona,7305046909620001,,,,,16,80,576000,4720000,5296000
-1243,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Mattompopadalle,Sikamasseang,Abd. Bakri Dg Bombong,7305042408690004,,,,,13,65,468000,3835000,4303000
-1244,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Je'Ne Dinging,J.Dg Rombo,7305042504760004,,,,,20,100,720000,5900000,6620000
-1245,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Pangkaje'Ne I,Justri,7305040401830001,,,,,8,40,288000,2360000,2648000
-1246,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Cengkeh Cengkea,Kamaria Dg Ngagi,7305044107700302,,,,,20,100,720000,5900000,6620000
-1247,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Ajjulu Ero,Supriadi Dg Lira,7305041007520003,,,,,22,110,792000,6490000,7282000
-1248,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Cahaya Baru,Dg Gassing,7305041807670004,,,,,18,90,648000,5310000,5958000
-1249,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Sodoa,Kamira Dg Rewa,7305040107680366,,,,,10,50,360000,2950000,3310000
-1250,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Julukanaya,Kamaruddin Sutte,7305041506760001,,,,,15,75,540000,4425000,4965000
-1251,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Sipakatau,Sujarwan,7305041708780005,,,,,15,75,540000,4425000,4965000
-1252,Sulawesi Selatan,Takalar,Polongbangkeng Utara,Barugaya,Juluero,Sariar Dg Nawan,7305040107840281,,,,,20,100,720000,5900000,6620000
-1253,Sulawesi Selatan,Takalar,Galesong Selatan,Barammamase,Berupopoloe,Sala Dg Salle,7305051506580001,,,,,13,65,468000,3835000,4303000
-1254,Sulawesi Selatan,Takalar,Galesong Selatan,Barammamase,Popoloe,Heriyanto,7306161062840002,,,,,11,55,396000,3245000,3641000
-1255,Sulawesi Selatan,Takalar,Galesong Selatan,Barammamase,Boddonga,Muhammad Nurdin,7305050107900362,,,,,10,50,360000,2950000,3310000
+No,Provinsi,Kabupaten,Kecamatan,Desa,kelompok,ketua,NIK,Benih (Kg),Varietas Benih,Pupuk NPK (Kg),Herbisida (Kg/L),target,Pupuk Hayati (L),ongkir sj,HARGA BAST,TOTAL
+1194,Sulawesi Selatan,Takalar,Polombangkeng Utara,Lassang,Biring Je'Ne,Juma'naba,7305041102570001,,,,,15,75,540000,4425000,4965000
+1195,Sulawesi Selatan,Takalar,Polombangkeng Utara,Lassang Barat,Allu,Syarifuddin,7305041503730003,,,,,13,65,468000,3835000,4303000
+1196,Sulawesi Selatan,Takalar,Polombangkeng Utara,Mattompodale,Bungung Lompoa,Jumakka Dg Lawa,7305041511460001,,,,,20,100,720000,5900000,6620000
+1197,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Camba Te'nea,Ismail,7305030107730192,,,,,16,80,576000,4720000,5296000
+1198,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Lembo,Saharuddin,7305030107800214,,,,,18,90,648000,5310000,5958000
+1199,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Manjarreki,Rala.S.Pd,7305043112620063,,,,,18,90,648000,5310000,5958000
+1200,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Pelita,Anwar Dg gassing,7305040107710229,,,,,20,100,720000,5900000,6620000
+1201,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Balla Borong,Nyambe Dg nyau,7305041606560003,,,,,14,70,504000,4130000,4634000
+1202,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Sadar,Jatting Dg Sipali,7303040107620350,,,,,16,80,576000,4720000,5296000
+1203,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Alara,Nurhayati,7305034017000605,,,,,15,75,540000,4425000,4965000
+1204,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Pelita,Anwar,7305140157710229,,,,,16,80,576000,4720000,5296000
+1205,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Sapponga,Muh Rusli Dg Tata,730504270777021,,,,,15,75,540000,4425000,4965000
+1206,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Reski,Muhammad Dg kulle,730504311260001,,,,,15,75,540000,4425000,4965000
+1207,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Butta Bakka,Benca Dg Ropu,730503107710009,,,,,17,85,612000,5015000,5627000
+1208,Sulawesi Selatan,Takalar,Polombangkeng Utara,Panrannuangku,Bulu Bulu,Mansur Dg Ngalle,730503154800001,,,,,10,50,360000,2950000,3310000
+1209,Sulawesi Selatan,Takalar,Polombangkeng Utara,Parang Luara,Ajjulukana,H Muh Rustam Dg Rani,7305043112680023,,,,,12,60,432000,3540000,3972000
+1210,Sulawesi Selatan,Takalar,Polombangkeng Utara,Parang Luara,Alleberoang II,Burhan,7305040502780001,,,,,12,60,432000,3540000,3972000
+1211,Sulawesi Selatan,Takalar,Polombangkeng Utara,Parang Luara,Borongkaramasa II,"Amin,A.Mk",7305041203770004,,,,,12,60,432000,3540000,3972000
+1212,Sulawesi Selatan,Takalar,Polombangkeng Utara,Parang Luara,Sikarannuang,Asbullah Dg Nyampo,7305040107470101,,,,,12,60,432000,3540000,3972000
+1213,Sulawesi Selatan,Takalar,Polombangkeng Utara,Pa'rappunganta,Masalonko Jaya,Sahabuddin,7305040205710002,,,,,12,60,432000,3540000,3972000
+1214,Sulawesi Selatan,Takalar,Polombangkeng Utara,Pa'rappunganta,Ta'banga,Muh Kamal,7305042806930001,,,,,12,60,432000,3540000,3972000
+1215,Sulawesi Selatan,Takalar,Polombangkeng Utara,Pa'rappunganta,Paraikatte I,Mardi Lestari,7305041807800001,,,,,12,60,432000,3540000,3972000
+1216,Sulawesi Selatan,Takalar,Polombangkeng Utara,Timbuseng,Timbuseng I,Sitta Dg Lebang,7305047011610001,,,,,15,75,540000,4425000,4965000
+1217,Sulawesi Selatan,Takalar,Polombangkeng Utara,Timbuseng,Minasa Lompo,Tajuddin Dg Rate,7305042005700001,,,,,16,80,576000,4720000,5296000
+1218,Sulawesi Selatan,Takalar,Polombangkeng Utara,Timbuseng,Subur Jaya,Irwandi Dg Ngitung,7305041009780001,,,,,19,95,684000,5605000,6289000
+1219,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Bungung Lompoa,Lahiya Dg Tutu,7305040609760002,,,,,17,85,612000,5015000,5627000
+1220,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Bacinga,H. Abd. Rajab,7305070410460001,,,,,17,85,612000,5015000,5627000
+1221,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Baddo Kambara,Abd Rahman,7305040608760005,,,,,17,85,612000,5015000,5627000
+1222,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Tompobalang,Dahlan Dg. Ngempo,7305040107580290,,,,,17,85,612000,5015000,5627000
+1223,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Belaka,Irfan,7305042905950001,,,,,16,80,576000,4720000,5296000
+1224,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Jenetallasa II,Darmawati,7305045708720002,,,,,16,80,576000,4720000,5296000
+1225,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Pallessorang,Saparuddin,7305040407700001,,,,,16,80,576000,4720000,5296000
+1226,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Je'Netallasa,Jainuddin,7305040505570003,,,,,25,125,900000,7375000,8275000
+1227,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Bayang Lompo,S Dg Nangka,7305041005680001,,,,,20,100,720000,5900000,6620000
+1228,Sulawesi Selatan,Takalar,Polombangkeng Utara,Towata,Kayu Takkang,Taslim Dg Limpo,7305042509690003,,,,,25,125,900000,7375000,8275000
+1229,Sulawesi Selatan,Takalar,Polombangkeng Utara,Manongkoki,Biring Kaloro,Mansyur Dg Nassa,7305040107680003,,,,,13,65,468000,3835000,4303000
+1230,Sulawesi Selatan,Takalar,Polombangkeng Utara,Manongkoki,Setia Kawan,Suharis Dg Nuru,7305042707700001,,,,,13,65,468000,3835000,4303000
+1231,Sulawesi Selatan,Takalar,Polombangkeng Utara,Manongkoki,Bukit Makmur,Baso Asis Dg Rola,7305041502620003,,,,,12,60,432000,3540000,3972000
+1232,Sulawesi Selatan,Takalar,Polombangkeng Utara,Manongkoki,Panrita,Jufri ,7305041313630001,,,,,20,100,720000,5900000,6620000
+1233,Sulawesi Selatan,Takalar,Polombangkeng Utara,Manongkoki,Mangga II,Munirah,7305044101650007,,,,,10,50,360000,2950000,3310000
+1234,Sulawesi Selatan,Takalar,Polombangkeng Utara,Manongkoki,Romanga I,Gunawan,7305040106810001,,,,,12,60,432000,3540000,3972000
+1235,Sulawesi Selatan,Takalar,Polombangkeng Utara,Manongkoki,Julukanaya,Abdul Kadir,7309132507770002,,,,,11,55,396000,3245000,3641000
+1236,Sulawesi Selatan,Takalar,Polombangkeng Utara,Malewang,Borongleko Jaya,Lebu Dg Rowa,7305040707050006,,,,,20,100,720000,5900000,6620000
+1237,Sulawesi Selatan,Takalar,Polombangkeng Utara,Malewang,Mallewaya II,Kamaruddin Dg Nuru,7305040103650001,,,,,12,60,432000,3540000,3972000
+1238,Sulawesi Selatan,Takalar,Polombangkeng Utara,Malewang,Biseang,Ta'nang,7305040302620001,,,,,8,40,288000,2360000,2648000
+1239,Sulawesi Selatan,Takalar,Polombangkeng Utara,Malewang,Julukana,Abdul Kahar Dg Jarre,7305041503720001,,,,,10,50,360000,2950000,3310000
+1240,Sulawesi Selatan,Takalar,Polombangkeng Utara,Palleko,Pannaraka,Dg Sarida,7305044107670038,,,,,9,45,324000,2655000,2979000
+1241,Sulawesi Selatan,Takalar,Polombangkeng Utara,Palleko,Palleko II,Halil Gassing,7305042011690001,,,,,9,45,324000,2655000,2979000
+1242,Sulawesi Selatan,Takalar,Polombangkeng Utara,Palleko,Mawar Pannaraka,B Dg Ngona,7305046909620001,,,,,16,80,576000,4720000,5296000
+1243,Sulawesi Selatan,Takalar,Polombangkeng Utara,Mattompodale,Sikamasseang,Abd. Bakri Dg Bombong,7305042408690004,,,,,13,65,468000,3835000,4303000
+1244,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Je'Ne Dinging,J.Dg Rombo,7305042504760004,,,,,20,100,720000,5900000,6620000
+1245,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Pangkaje'Ne I,Justri,7305040401830001,,,,,8,40,288000,2360000,2648000
+1246,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Cengkeh Cengkea,Kamaria Dg Ngagi,7305044107700302,,,,,20,100,720000,5900000,6620000
+1247,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Ajjulu Ero,Supriadi Dg Lira,7305041007520003,,,,,22,110,792000,6490000,7282000
+1248,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Cahaya Baru,Dg Gassing,7305041807670004,,,,,18,90,648000,5310000,5958000
+1249,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Sodoa,Kamira Dg Rewa,7305040107680366,,,,,10,50,360000,2950000,3310000
+1250,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Julukanaya,Kamaruddin Sutte,7305041506760001,,,,,15,75,540000,4425000,4965000
+1251,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Sipakatau,Sujarwan,7305041708780005,,,,,15,75,540000,4425000,4965000
+1252,Sulawesi Selatan,Takalar,Polombangkeng Utara,Barugaya,Juluero,Sariar Dg Nawan,7305040107840281,,,,,20,100,720000,5900000,6620000
+1253,Sulawesi Selatan,Takalar,Galesong Selatan,Barangmamase,Berupopoloe,Sala Dg Salle,7305051506580001,,,,,13,65,468000,3835000,4303000
+1254,Sulawesi Selatan,Takalar,Galesong Selatan,Barangmamase,Popoloe,Heriyanto,7306161062840002,,,,,11,55,396000,3245000,3641000
+1255,Sulawesi Selatan,Takalar,Galesong Selatan,Barangmamase,Boddonga,Muhammad Nurdin,7305050107900362,,,,,10,50,360000,2950000,3310000
 1256,Sulawesi Selatan,Takalar,Galesong Selatan,Bentang,Bontosunggu,H. Zainuddin  Dg. Nai,7305050107570307,,,,,9,45,324000,2655000,2979000
 1257,Sulawesi Selatan,Takalar,Galesong Selatan,Bentang,Papparappakanta,Hasbullah ,7305052406650001,,,,,8,40,288000,2360000,2648000
 1258,Sulawesi Selatan,Takalar,Galesong Selatan,Bentang,Passaribattanganta,Nurwahyudin,7305050107980068,,,,,8,40,288000,2360000,2648000
@@ -310,9 +71,9 @@ No,Provinsi,Kabupaten,Kecamatan,Desa,kelompok,ketua,NIK,Benih (Kg),Varietas Beni
 1263,Sulawesi Selatan,Takalar,Galesong Selatan,Kadatong,Panrannuangku,Sakri Hasan,7305053112730018,,,,,11,55,396000,3245000,3641000
 1264,Sulawesi Selatan,Takalar,Galesong Selatan,Kale Bentang,Harapan Jaya,Syamsuddin,7305051204730001,,,,,11,55,396000,3245000,3641000
 1265,Sulawesi Selatan,Takalar,Galesong Selatan,Kale Bentang,Maminasata,Manya Dg Tuppu,7305053112560012,,,,,12,60,432000,3540000,3972000
-1266,Sulawesi Selatan,Takalar,Galesong Selatan,Kaluku Bodo,Jaya Abadi,Haeruna Dg Ngerang,7371101510580006,,,,,11,55,396000,3245000,3641000
-1267,Sulawesi Selatan,Takalar,Galesong Selatan,Kaluku Bodo,Kalukubodo,Firdaus ,7305052707000004,,,,,11,55,396000,3245000,3641000
-1268,Sulawesi Selatan,Takalar,Galesong Selatan,Kaluku Bodo,Sikarannuang,Sangkala Dg. Nai,7305050107810281,,,,,11,55,396000,3245000,3641000
+1266,Sulawesi Selatan,Takalar,Galesong Selatan,Kalukubodo,Jaya Abadi,Haeruna Dg Ngerang,7371101510580006,,,,,11,55,396000,3245000,3641000
+1267,Sulawesi Selatan,Takalar,Galesong Selatan,Kalukubodo,Kalukubodo,Firdaus ,7305052707000004,,,,,11,55,396000,3245000,3641000
+1268,Sulawesi Selatan,Takalar,Galesong Selatan,Kalukubodo,Sikarannuang,Sangkala Dg. Nai,7305050107810281,,,,,11,55,396000,3245000,3641000
 1269,Sulawesi Selatan,Takalar,Galesong Selatan,Mangindara,Bontoa Permai,Mansyur  Dg Tompo,7305055101720003,,,,,9,45,324000,2655000,2979000
 1270,Sulawesi Selatan,Takalar,Galesong Selatan,Mangindara,Maminasata  II,Ahmad Dahlan Sila,7305051111750001,,,,,13,65,468000,3835000,4303000
 1271,Sulawesi Selatan,Takalar,Galesong Selatan,Sawakong,Dengilau,Ansyar,7305051804940001,,,,,14,70,504000,4130000,4634000
@@ -322,36 +83,36 @@ No,Provinsi,Kabupaten,Kecamatan,Desa,kelompok,ketua,NIK,Benih (Kg),Varietas Beni
 1275,Sulawesi Selatan,Takalar,Galesong Selatan,Tarowang,Pattarowanta II,Djumadi Dg Limpo,7305050107340045,,,,,13,65,468000,3835000,4303000
 1276,Sulawesi Selatan,Takalar,Galesong Selatan,Popo,Sinar Kunjungmange,H. Tajuddin Dg Nangka,7306082104590001,,,,,12,60,432000,3540000,3972000
 1277,Sulawesi Selatan,Takalar,Galesong,Boddia,Salamaka,Tamrin,7305060307710001,,,,,18,90,648000,5310000,5958000
-1278,Sulawesi Selatan,Takalar,Galesong,Bonto Loe,Damai,Sulaeman Sutte,7305053112620007,,,,,13,65,468000,3835000,4303000
-1279,Sulawesi Selatan,Takalar,Galesong,Bonto Loe,Kanatojengku,Abd.Gappar Bella,7305090107680057,,,,,13,65,468000,3835000,4303000
-1280,Sulawesi Selatan,Takalar,Galesong,Bonto Loe,Sipakainga,Usman Nyengka,7305090408720001,,,,,18,90,648000,5310000,5958000
+1278,Sulawesi Selatan,Takalar,Galesong,Bontoloe,Damai,Sulaeman Sutte,7305053112620007,,,,,13,65,468000,3835000,4303000
+1279,Sulawesi Selatan,Takalar,Galesong,Bontoloe,Kanatojengku,Abd.Gappar Bella,7305090107680057,,,,,13,65,468000,3835000,4303000
+1280,Sulawesi Selatan,Takalar,Galesong,Bontoloe,Sipakainga,Usman Nyengka,7305090408720001,,,,,18,90,648000,5310000,5958000
 1281,Sulawesi Selatan,Takalar,Galesong,Kalenna Bontongape,Nirannuang,Abd.Azis,7305050503700001,,,,,13,65,468000,3835000,4303000
 1282,Sulawesi Selatan,Takalar,Galesong,Kalenna Bontongape,Sejahtera,Nyampa Dg.Bella,7305091606620001,,,,,13,65,468000,3835000,4303000
 1283,Sulawesi Selatan,Takalar,Galesong,Kalenna Bontongape,Timbuseng,Yusuf Dg.Erang,7305091611710001,,,,,15,75,540000,4425000,4965000
 1284,Sulawesi Selatan,Takalar,Galesong,Kalukuang,Baji Pamai,Nurdin,7305091905850001,,,,,13,65,468000,3835000,4303000
 1285,Sulawesi Selatan,Takalar,Galesong,Kalukuang,Jempang,Nadir Dg.Nambung,7305090107730003,,,,,13,65,468000,3835000,4303000
-1286,Sulawesi Selatan,Takalar,Galesong,Kampung Beru,Kampung Beru,Hamid Dg.Tawang,7305090107720036,,,,,15,75,540000,4425000,4965000
-1287,Sulawesi Selatan,Takalar,Galesong,Pa’lalakkang,Baji Areng,Kalalla Awing,7305090302710001,,,,,14,70,504000,4130000,4634000
-1288,Sulawesi Selatan,Takalar,Galesong,Pa’lalakkang,Serealia,H.Hayyong Awing,7305060107580003,,,,,17,85,612000,5015000,5627000
+1286,Sulawesi Selatan,Takalar,Galesong,Galesong Baru,Kampung Beru,Hamid Dg.Tawang,7305090107720036,,,,,15,75,540000,4425000,4965000
+1287,Sulawesi Selatan,Takalar,Galesong,Pa'lalakkang,Baji Areng,Kalalla Awing,7305090302710001,,,,,14,70,504000,4130000,4634000
+1288,Sulawesi Selatan,Takalar,Galesong,Pa'lalakkang,Serealia,H.Hayyong Awing,7305060107580003,,,,,17,85,612000,5015000,5627000
 1289,Sulawesi Selatan,Takalar,Galesong,Parambambe,Pemuda Tani Cipta Karya,Muh.Aswar ,7305092406940001,,,,,13,65,468000,3835000,4303000
 1290,Sulawesi Selatan,Takalar,Galesong,Parangmata,Jaya Ballaparang,Kaharuddin Dg.Laja,7305050101710005,,,,,15,75,540000,4425000,4965000
 1291,Sulawesi Selatan,Takalar,Galesong,Parangmata,Malewai,Muhammad ,7305093123140013,,,,,14,70,504000,4130000,4634000
 1292,Sulawesi Selatan,Takalar,Galesong,Parangmata,Mekar Jaya,Hasan Basri,7305091202630003,,,,,15,75,540000,4425000,4965000
 1293,Sulawesi Selatan,Takalar,Galesong,Parangmata,Pattupuanta,Darwis Dg Sijaya,7305090101087001,,,,,16,80,576000,4720000,5296000
-1294,Sulawesi Selatan,Takalar,Galesong,Parasangan Beru,Bonto Kanang I,Dr.Sijaya,7305060107660060,,,,,15,75,540000,4425000,4965000
-1295,Sulawesi Selatan,Takalar,Galesong,Parasangan Beru,Bonto Kanang II,Abd.Halim Dg.Lawa,7305090807690001,,,,,21,105,756000,6195000,6951000
-1296,Sulawesi Selatan,Takalar,Galesong,Parasangan Beru,Nirannuang,Muh.Syarif Malik,7305092810820001,,,,,14,70,504000,4130000,4634000
-1297,Sulawesi Selatan,Takalar,Galesong,Tarembang,Nipangngapassi,Muddin Dg.Tompo,7305050107660180,,,,,15,75,540000,4425000,4965000
-1298,Sulawesi Selatan,Takalar,Galesong Utara,Aeng Batu batu,Jonggo Batu,Abdullah,7305062704760001,,,,,14,70,504000,4130000,4634000
+1294,Sulawesi Selatan,Takalar,Galesong,Pa'rasangang Beru,Bonto Kanang I,Dr.Sijaya,7305060107660060,,,,,15,75,540000,4425000,4965000
+1295,Sulawesi Selatan,Takalar,Galesong,Pa'rasangang Beru,Bonto Kanang II,Abd.Halim Dg.Lawa,7305090807690001,,,,,21,105,756000,6195000,6951000
+1296,Sulawesi Selatan,Takalar,Galesong,Pa'rasangang Beru,Nirannuang,Muh.Syarif Malik,7305092810820001,,,,,14,70,504000,4130000,4634000
+1297,Sulawesi Selatan,Takalar,Galesong,Bontoloe,Nipangngapassi,Muddin Dg.Tompo,7305050107660180,,,,,15,75,540000,4425000,4965000
+1298,Sulawesi Selatan,Takalar,Galesong Utara,Aeng Batu Batu,Jonggo Batu,Abdullah,7305062704760001,,,,,14,70,504000,4130000,4634000
 1299,Sulawesi Selatan,Takalar,Galesong Utara,Bontolanra,Lambere Kalu,M.Idrus Sigollo,7305060906690001,,,,,13,65,468000,3835000,4303000
 1300,Sulawesi Selatan,Takalar,Galesong Utara,Bontolanra,Kwt Berkah,Nurmawati,7305064505750001,,,,,13,65,468000,3835000,4303000
 1301,Sulawesi Selatan,Takalar,Galesong Utara,Bontolebang,Abbulosibatang,Lebu Dg Gassing,7305060107800451,,,,,16,80,576000,4720000,5296000
 1302,Sulawesi Selatan,Takalar,Galesong Utara,Bontolebang,Talaka,Muhtar Dg Nyampa,7305060209680001,,,,,13,65,468000,3835000,4303000
-1303,Sulawesi Selatan,Takalar,Galesong Utara,Kaballokang Pakkabba,Lompo Labba,Rahman Tika,7305063112610026,,,,,14,70,504000,4130000,4634000
-1304,Sulawesi Selatan,Takalar,Galesong Utara,Kaballokang Pakkabba,Pakkabba,Rajasan Dg Punna,7305063112630006,,,,,14,70,504000,4130000,4634000
-1305,Sulawesi Selatan,Takalar,Galesong Utara,Kaballokang Pakkabba,Palette,Hama Dg Pasang,7305062011520001,,,,,14,70,504000,4130000,4634000
-1306,Sulawesi Selatan,Takalar,Galesong Utara,Kaballokang Pakkabba,Pangkajene,Muhammad Arip,7305061510870003,,,,,13,65,468000,3835000,4303000
-1307,Sulawesi Selatan,Takalar,Galesong Utara,Kaballokang Pakkabba,Sikarimanggi,Saharuddin Dg Nassa,7305061707820006,,,,,14,70,504000,4130000,4634000
+1303,Sulawesi Selatan,Takalar,Galesong Utara,Pakkabba,Lompo Labba,Rahman Tika,7305063112610026,,,,,14,70,504000,4130000,4634000
+1304,Sulawesi Selatan,Takalar,Galesong Utara,Pakkabba,Pakkabba,Rajasan Dg Punna,7305063112630006,,,,,14,70,504000,4130000,4634000
+1305,Sulawesi Selatan,Takalar,Galesong Utara,Pakkabba,Palette,Hama Dg Pasang,7305062011520001,,,,,14,70,504000,4130000,4634000
+1306,Sulawesi Selatan,Takalar,Galesong Utara,Pakkabba,Pangkajene,Muhammad Arip,7305061510870003,,,,,13,65,468000,3835000,4303000
+1307,Sulawesi Selatan,Takalar,Galesong Utara,Pakkabba,Sikarimanggi,Saharuddin Dg Nassa,7305061707820006,,,,,14,70,504000,4130000,4634000
 1308,Sulawesi Selatan,Takalar,Galesong Utara,Sampulungan,Abbulosibatang,Ahmad,7305063112780015,,,,,12,60,432000,3540000,3972000
 1309,Sulawesi Selatan,Takalar,Galesong Utara,Sampulungan,Daenga,Hamzah Dg Sijaya,7305060209650001,,,,,12,60,432000,3540000,3972000
 1310,Sulawesi Selatan,Takalar,Galesong Utara,Tamalate,Soreang,Abd Basir,7305062507700001,,,,,12,60,432000,3540000,3972000

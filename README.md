@@ -4,13 +4,14 @@ several programs of auto upload and submit form in PT Bina Agrosiwi Mandiri
 
 BUAT RUMAHAN KONTRAK
 
-- kampar
 - tana toraja
 - takalar
-- kbatu bara
 
 BUAT POKTAN YANG BELUM ADA
 
 - tana toraja
-- takalar
-- kbatu bara
+
+report kampar
+ada nama poktan sama
+Riau Kampar Tambang Tambang Bonca Umbai Asmidar 1401034102650004 9 45
+diganti menjadi Bonca Umbai II

@@ -44,9 +44,9 @@ class MultiChromeDriver:
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
-    def input(self, driver, prov_key, kab_key, kec_key, desa_key, kel_key):
+    def input(self, driver, prov_key, kab_key, kec_key, desa_key, kel_key, target_key):
         logging.info(
-            f"Trying write new poktan for kab: {kab_key}, kec: {kec_key}, desa: {desa_key}, kelompok: {kel_key}"
+            f"Trying write new report for kab: {kab_key}, kec: {kec_key}, desa: {desa_key}, kelompok: {kel_key}"
         )
 
         # INPUT PROVINSI ==========================
@@ -142,15 +142,15 @@ class MultiChromeDriver:
             EC.presence_of_element_located(
                 (
                     By.XPATH,
-                    f'//ul[@id="select2-desaid-results"]//li[text()="{desa_key.title()}"]',
+                    f'//ul[@id="select2-desaid-results"]//li[text()="{desa_key}"]',
                 )
             )
         )
         li_element.click()
 
-        # JENIS KELOMPOK ==========================
+        # KELOMPOK ==========================
         span_element = driver.find_element(
-            By.XPATH, '//span[@aria-labelledby="select2-jenisid-container"]'
+            By.XPATH, '//span[@aria-labelledby="select2-kelompokid-container"]'
         )
         span_element.click()
 
@@ -161,24 +161,28 @@ class MultiChromeDriver:
             )
         )
         # input kelompok key
-        search_input.send_keys("KELOMPOK PERTANIAN")
+        search_input.send_keys(kel_key)
         li_element = WebDriverWait(driver, 20).until(
             EC.presence_of_element_located(
                 (
                     By.XPATH,
-                    f'//ul[@id="select2-jenisid-results"]',
+                    f'//ul[@id="select2-kelompokid-results"]//li[text()="{kel_key}"]',
                 )
             )
         )
         li_element.click()
 
-        # NAMA POKTAN ==========================
-        driver.find_element(By.NAME, "kelompok").send_keys(kel_key)
+        # TARGET ==========================
+        # Temukan elemen input berdasarkan atribut 'name'
+        target_input = driver.find_element(By.NAME, "target")
+
+        # Masukkan nilai angka yang Anda inginkan
+        target_input.send_keys(target_key)
 
 
 def get_url(driver, site_url, index):
     driver.get(site_url)
-    print(f"Driver {index} getting url where title: {driver.title}")
+    print(f"Driver {index} title: {driver.title}")
 
 
 def submit_form(driver):
@@ -194,22 +198,22 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler("./log/poktan_maker.txt", mode="w"),
+        logging.FileHandler("./log/report_maker.txt", mode="w"),
         logging.StreamHandler(),
     ],
 )
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/cpcl_kampar.csv"
-    num_drivers = 2
+    csv_file = "./csv/cpcl_takalar.csv"
+    num_drivers = 1
     multi_driver = MultiChromeDriver(num_drivers)
 
-    email = "bast@binaagrosiwimandiri.com"
-    password = "Lapor"
-    url = "https://mpo.psp.pertanian.go.id/v.5/satker/kelompok_penerima/create"
-
     try:
+        email = "bast@binaagrosiwimandiri.com"
+        password = "Lapor"
+        url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/create_distribusi?delegasiid=2486"
+
         for index in range(num_drivers):
             driver = multi_driver.get_driver(index)
             multi_driver.login(driver, email, password)
@@ -229,6 +233,7 @@ if __name__ == "__main__":
                         row["Kecamatan"],
                         row["Desa"],
                         row["kelompok"],
+                        row["target"],
                     )
                 )
 
@@ -260,6 +265,7 @@ if __name__ == "__main__":
                             temp_data[k][2],  # kec
                             temp_data[k][3],  # desa
                             temp_data[k][4],  # kelompok
+                            temp_data[k][5],  # target
                         )
 
                     # mengosongkan data sementara dan threads
