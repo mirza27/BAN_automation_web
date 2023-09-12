@@ -90,7 +90,7 @@ class driverChrome:
 
                     links = row.find_all("a")
                     if len(links) >= 2:
-                        link_ubah = links[1]
+                        link_ubah = links[0]  # mengambil link ubah atau lapor
                         href_ubah = link_ubah["href"]
                         # situs = href_ubah.replace("/empty", "/spasial/create")
 
@@ -110,7 +110,7 @@ class driverChrome:
         # Simpan data dalam file CSV
         with open(filename, "w", newline="", encoding="utf-8") as csvfile:
             csv_writer = csv.writer(csvfile)
-            csv_writer.writerow(["no", "nomor", "situs", "poktan", "data_kolom_tiga"])
+            csv_writer.writerow(["no", "nomor", "situs", "poktan", "desa"])
             for idx, (
                 nomor,
                 formatted_nomor,

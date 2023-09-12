@@ -1,0 +1,51 @@
+2023-09-12 09:21:46,360 [INFO] Removing poktan: Baddo Kambara, desa: Towata
+2023-09-12 09:21:48,621 [INFO] Removing poktan: Bayang Lompo, desa: Towata
+2023-09-12 09:21:51,216 [INFO] Removing poktan: Julukanaya, desa: Manongkoki
+2023-09-12 09:21:53,509 [INFO] Removing poktan: Mawar Pannaraka, desa: Palleko
+2023-09-12 09:21:56,305 [INFO] Removing poktan: Sikamasseang, desa: Mattompodale
+2023-09-12 09:21:58,426 [INFO] Removing poktan: Sipakatau, desa: Barugaya
+2023-09-12 09:22:00,622 [INFO] Removing poktan: Berupopoloe, desa: Barangmamase
+2023-09-12 09:22:03,139 [INFO] Removing poktan: Boddonga, desa: Barangmamase
+2023-09-12 09:22:05,327 [INFO] Removing poktan: Bontosunggu, desa: Bentang
+2023-09-12 09:22:07,417 [INFO] Removing poktan: Papparappakanta, desa: Bentang
+2023-09-12 09:22:09,896 [INFO] Removing poktan: Passaribattanganta, desa: Bentang
+2023-09-12 09:22:12,394 [INFO] Removing poktan: Tubarua, desa: Bentang
+2023-09-12 09:22:14,487 [INFO] Removing poktan: Cambaya, desa: Bontokassi
+2023-09-12 09:22:17,410 [INFO] Removing poktan: Balang, desa: Bontomarannu
+2023-09-12 09:22:19,558 [INFO] Removing poktan: Kayu Jawaya, desa: Bontomarannu
+2023-09-12 09:22:21,760 [INFO] Removing poktan: Panrannuangku, desa: Kadatong
+2023-09-12 09:22:23,745 [INFO] Removing poktan: Harapan Jaya, desa: Kale Bentang
+2023-09-12 09:22:25,763 [INFO] Removing poktan: Maminasata, desa: Kale Bentang
+2023-09-12 09:22:27,907 [INFO] Removing poktan: Jaya Abadi, desa: Kalukubodo
+2023-09-12 09:22:30,102 [INFO] Removing poktan: Kalukubodo, desa: Kalukubodo
+2023-09-12 09:22:32,222 [INFO] Removing poktan: Sikarannuang, desa: Kalukubodo
+2023-09-12 09:22:34,446 [INFO] Removing poktan: Bontoa Permai, desa: Mangindara
+2023-09-12 09:22:36,740 [INFO] Removing poktan: Maminasata  II, desa: Mangindara
+2023-09-12 09:22:39,900 [INFO] Removing poktan: Dengilau, desa: Sawakong
+2023-09-12 09:22:42,431 [INFO] Removing poktan: Minasanta, desa: Sawakong
+2023-09-12 09:22:44,702 [INFO] Removing poktan: Sawakong Toa, desa: Sawakong
+2023-09-12 09:22:47,075 [INFO] Removing poktan: Bina Tani, desa: Tarowang
+2023-09-12 09:22:49,318 [INFO] Removing poktan: Pattarowanta II, desa: Tarowang
+2023-09-12 09:22:53,306 [INFO] Removing poktan: Sinar Kunjungmange, desa: Popo
+2023-09-12 09:22:55,659 [INFO] Removing poktan: Salamaka, desa: Boddia
+2023-09-12 09:22:57,748 [INFO] Removing poktan: Damai, desa: Bontoloe
+2023-09-12 09:23:00,176 [INFO] Removing poktan: Kanatojengku, desa: Bontoloe
+2023-09-12 09:23:02,937 [INFO] Removing poktan: Sipakainga, desa: Bontoloe
+2023-09-12 09:23:05,219 [INFO] Removing poktan: Nirannuang, desa: Kalenna Bontongape
+2023-09-12 09:23:07,539 [INFO] Removing poktan: Sejahtera, desa: Kalenna Bontongape
+2023-09-12 09:23:09,906 [INFO] Removing poktan: Timbuseng, desa: Kalenna Bontongape
+2023-09-12 09:23:11,747 [INFO] Removing poktan: Baji Pamai, desa: Kalukuang
+2023-09-12 09:23:13,866 [INFO] Removing poktan: Jempang, desa: Kalukuang
+2023-09-12 09:23:15,874 [INFO] Removing poktan: Kampung Beru, desa: Galesong Baru
+2023-09-12 09:23:18,279 [INFO] Removing poktan: Baji Areng, desa: Pa'lalakkang
+2023-09-12 09:23:20,872 [INFO] Removing poktan: Serealia, desa: Pa'lalakkang
+2023-09-12 09:23:23,404 [INFO] Removing poktan: Pemuda Tani Cipta Karya, desa: Parambambe
+2023-09-12 09:23:26,174 [INFO] Removing poktan: Jaya Ballaparang, desa: Parangmata
+2023-09-12 09:23:28,632 [INFO] Removing poktan: Malewai, desa: Parangmata
+2023-09-12 09:23:30,986 [INFO] Removing poktan: Mekar Jaya, desa: Parangmata
+2023-09-12 09:23:33,140 [INFO] Removing poktan: Pattupuanta, desa: Parangmata
+2023-09-12 09:23:35,394 [INFO] Removing poktan: Bonto Kanang I, desa: Pa'rasangang Beru
+2023-09-12 09:23:37,756 [INFO] Removing poktan: Bonto Kanang II, desa: Pa'rasangang Beru
+2023-09-12 09:23:39,984 [INFO] Removing poktan: Nirannuang, desa: Pa'rasangang Beru
+2023-09-12 09:23:43,281 [INFO] Removing poktan: Nipangngapassi, desa: Bontoloe
+2023-09-12 09:23:45,221 [INFO] Removing poktan: Jonggo Batu, desa: Aeng Batu Batu

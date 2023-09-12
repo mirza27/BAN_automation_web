@@ -71,7 +71,7 @@ def extract_data_from_html(url, out_name):
 
                     links = row.find_all("a")
                     if len(links) >= 2:
-                        link_ubah = links[1]
+                        link_ubah = links[0]  # ambil link ubah atau lapor
                         href_ubah = link_ubah["href"]
                         # situs = href_ubah.replace("/empty", "/spasial/create")
 
@@ -89,7 +89,7 @@ def extract_data_from_html(url, out_name):
         # Simpan data dalam file CSV
         with open(out_name, "w", newline="", encoding="utf-8") as csvfile:
             csv_writer = csv.writer(csvfile)
-            csv_writer.writerow(["no", "nomor", "situs", "poktan", "data_kolom_tiga"])
+            csv_writer.writerow(["no", "nomor", "situs", "poktan", "desa"])
             for idx, (
                 nomor,
                 formatted_nomor,
