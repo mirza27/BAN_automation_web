@@ -5,7 +5,8 @@ from selenium.webdriver.common.by import By
 import logging
 from selenium.webdriver.support.ui import Select
 import time
-import os
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 class MultiChromeDriver:
@@ -42,11 +43,16 @@ class MultiChromeDriver:
         login_button.click()
 
     def input(self, driver):
-        time.sleep(2)
+        select_element = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "is_ada_pengembalian"))
+        )
 
         # memilih jenis dokumen upload
-        jenis_dok = Select(driver.find_element(By.NAME, "is_ada _pengembalian"))
-        jenis_dok.select_by_value("0")  # memilih jenis dokumen upload
+        # jenis_dok = Select(driver.find_element(By.NAME, "is_ada _pengembalian"))
+        select = Select(select_element)
+
+        # Pilih option dengan value '0'
+        select.select_by_value("0")
 
 
 def get_url(driver, site_url, index):
@@ -55,7 +61,6 @@ def get_url(driver, site_url, index):
 
 
 def submit_form(driver):
-    global total_uploads
     # Submit the form
     submit_button = driver.find_element(
         By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning'
@@ -75,11 +80,9 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/.csv"
-    num_drivers = 1  # Ganti sesuai kebutuhan
+    csv_file = "./csv/link_kampar.csv"
+    num_drivers = 10  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
-    tanggal = "27-06-2023"
-    invoice_path = "C:/Users/ramad/OneDrive/Dokumen/BAN_auto/"
 
     try:
         email = "bast@binaagrosiwimandiri.com"
@@ -89,7 +92,6 @@ if __name__ == "__main__":
             driver = multi_driver.get_driver(index)
             multi_driver.login(driver, email, password)
 
-        data = []
         threads = []
         with open(csv_file, "r") as file:
             csv_reader = csv.DictReader(file)
@@ -122,7 +124,6 @@ if __name__ == "__main__":
                         multi_driver.input(
                             multi_driver.get_driver(k),
                         )
-                        print("mengisi driver ke", k, "dengan", temp_data[k][1])
                         logging.info(
                             f"Filled form for situs: {temp_data[k][0]}, dengan tidak"
                         )

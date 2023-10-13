@@ -222,7 +222,7 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/cpcl_takalar.csv"
+    csv_file = "./csv/cpcl_tanah_laut.csv"
     num_drivers = 1
     multi_driver = MultiChromeDriver(num_drivers)
 

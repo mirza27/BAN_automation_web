@@ -1,1 +1,163 @@
-2023-09-12 09:57:28,765 [INFO] Trying write new report for kab: Takalar, kec: Galesong Utara, desa: Tamasaju, kelompok: Kampung Parang
+2023-10-08 15:43:12,180 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Rukun Tani
+2023-10-08 15:43:18,993 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Bangun Bersama 1
+2023-10-08 15:43:24,871 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Bangun Bersama 2
+2023-10-08 15:43:31,255 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Karya Makmur
+2023-10-08 15:43:37,022 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Agro Lestari
+2023-10-08 15:43:43,186 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Karya Tani Makmur
+2023-10-08 15:43:49,362 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Gunung Makmur, kelompok: Gapoktan Sumber Rezeki
+2023-10-08 15:43:56,391 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Batilai, kelompok: Bangkal
+2023-10-08 15:44:02,533 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Banua lawas, kelompok: Sinar Jaya Tani
+2023-10-08 15:44:10,330 [INFO] Trying write new report for kab: Tanah Laut, kec: Takisung, desa: Batilai, kelompok: Batu Balai
+2023-10-08 15:44:16,146 [INFO] Trying write new report for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Tani Manuntung
+2023-10-08 15:44:22,495 [INFO] Trying write new report for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Hidup Baru
+2023-10-08 15:44:28,214 [INFO] Trying write new report for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Mandiri
+2023-10-08 15:44:34,151 [INFO] Trying write new report for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Tambak Lurus 1
+2023-10-08 15:44:39,761 [INFO] Trying write new report for kab: Tanah Laut, kec: Tambang Ulang, desa: Gunung Raja, kelompok: Tani Mulya
+2023-10-08 15:44:45,459 [INFO] Trying write new report for kab: Tanah Laut, kec: Tambang Ulang, desa: Gunung Raja, kelompok: Karya Mulya
+2023-10-08 15:44:51,239 [INFO] Trying write new report for kab: Tanah Laut, kec: Tambang Ulang, desa: Sungai Pinang, kelompok: Kemuning
+2023-10-08 15:44:57,166 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Maju Bersama
+2023-10-08 15:45:04,371 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Damai Sejahtera
+2023-10-08 15:45:10,701 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Karya Tani
+2023-10-08 15:45:17,468 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Bajuin, kelompok: Bunga Berseri
+2023-10-08 15:45:23,243 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Ketapang, kelompok: Semangat Muda
+2023-10-08 15:45:29,900 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo I
+2023-10-08 15:45:36,711 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo II
+2023-10-08 15:45:42,516 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo III
+2023-10-08 15:45:50,423 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Rukun Makmur
+2023-10-08 15:45:57,375 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Sumber Makmur
+2023-10-08 15:46:03,275 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Galam, kelompok: Harapan Masa
+2023-10-08 15:46:09,057 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Sido Mulyo
+2023-10-08 15:46:16,373 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Setia Kawan
+2023-10-08 15:46:22,787 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Tanjung Berbunga
+2023-10-08 15:46:28,985 [INFO] Trying write new report for kab: Tanah Laut, kec: Bajuin, desa: Tirta Jaya, kelompok: Bukit Bengkiluk
+2023-10-08 15:46:34,917 [INFO] Trying write new report for kab: Tanah Laut, kec: Panyipatan, desa: Panyipatan, kelompok: Bina Bersama
+2023-10-08 15:46:40,632 [INFO] Trying write new report for kab: Tanah Laut, kec: Panyipatan, desa: Batu Tungku, kelompok: Minak Jinggo
+2023-10-08 15:46:48,505 [INFO] Trying write new report for kab: Tanah Laut, kec: Panyipatan, desa: Kandangan Baru, kelompok: Karya Baru
+2023-10-08 15:46:55,179 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Bunga Padi 2
+2023-10-08 15:47:01,122 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Suka Maju II
+2023-10-08 15:47:07,138 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Tani Harapan
+2023-10-08 15:47:14,716 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Buran
+2023-10-08 15:47:28,148 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Tambak Batung
+2023-10-08 15:47:34,277 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Sikat
+2023-10-08 15:47:42,738 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Brasau
+2023-10-08 15:47:49,363 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Ubudiyah
+2023-10-08 15:47:55,094 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Sumber Rejeki
+2023-10-08 15:48:00,969 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Giat Usaha
+2023-10-08 15:48:07,019 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Sumber Makmur
+2023-10-08 15:48:13,224 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Anggang Muda
+2023-10-08 15:48:19,132 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Suka Bersatu
+2023-10-08 15:48:25,238 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Berkat Bersama
+2023-10-08 15:48:31,296 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Bina Usaha
+2023-10-08 15:48:37,401 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Segar Utama
+2023-10-08 15:48:43,057 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Teluk Paku
+2023-10-08 15:48:50,039 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Sumber Rejeki
+2023-10-08 15:48:56,989 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Karya Utama
+2023-10-08 15:49:02,590 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Bina Sejahtera
+2023-10-08 15:49:08,705 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Suka Maju
+2023-10-08 15:49:15,416 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Karya Bersama
+2023-10-08 15:49:20,994 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Ujung Baru, kelompok: Berkat Pelita
+2023-10-08 15:49:27,923 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Ujung Baru, kelompok: Mari Membangun
+2023-10-08 15:49:33,950 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Budi Karya
+2023-10-08 15:49:39,857 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Tani Agung
+2023-10-08 15:49:46,827 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Tani Abadi
+2023-10-08 15:49:52,753 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Nyiur Sawit
+2023-10-08 15:49:58,872 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Harapan Bersama
+2023-10-08 15:50:04,462 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Tunas Harapan
+2023-10-08 15:50:10,879 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Tri Darma
+2023-10-08 15:50:17,501 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Mekar Sari
+2023-10-08 15:50:24,339 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Benua Raya, kelompok: Mupakat
+2023-10-08 15:50:30,097 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Benua Raya, kelompok: Siam Saba
+2023-10-08 15:50:35,827 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Bunga Padi I
+2023-10-08 15:50:41,496 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Sido Mulyo
+2023-10-08 15:50:47,662 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Terang Bulan
+2023-10-08 15:50:54,387 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Barokah
+2023-10-08 15:51:00,317 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Tani Jaya
+2023-10-08 15:51:06,141 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Tunas Muda
+2023-10-08 15:51:11,924 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Suka Maju
+2023-10-08 15:51:17,962 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Alam Subur
+2023-10-08 15:51:23,677 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Karya Sentosa
+2023-10-08 15:51:30,679 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Karya Baru
+2023-10-08 15:51:37,461 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Harapan Sehat
+2023-10-08 15:51:43,181 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Danau Puyau Makmur
+2023-10-08 15:51:48,884 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Kencur
+2023-10-08 15:51:54,780 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Asahan Jaya
+2023-10-08 15:52:01,266 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Al Hijrah
+2023-10-08 15:52:06,963 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Teluk Marjaya
+2023-10-08 15:52:13,795 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Ainul Yakin
+2023-10-08 15:52:19,563 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Pulo Mas
+2023-10-08 15:52:26,045 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Berkat Mufakat
+2023-10-08 15:52:32,799 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Pandahan, kelompok: Muda Berkarya
+2023-10-08 15:52:39,723 [INFO] Trying write new report for kab: Tanah Laut, kec: Bati Bati, desa: Pandahan, kelompok: Tani Membangun
+2023-10-08 15:52:45,413 [INFO] Trying write new report for kab: Tanah Laut, kec: Batu Ampar, desa: Bluru, kelompok: Muda Tani
+2023-10-08 15:52:51,118 [INFO] Trying write new report for kab: Tanah Laut, kec: Batu Ampar, desa: Bluru, kelompok: Madu Sari
+2023-10-08 15:52:56,736 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Mandiri Sejahtera
+2023-10-08 15:53:03,421 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Karya Maju
+2023-10-08 15:53:09,199 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Putri Mayang
+2023-10-08 15:53:15,300 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Cinta Maju
+2023-10-08 15:53:21,350 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Siam Arjuna
+2023-10-08 15:53:27,131 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Mayang Maurai
+2023-10-08 15:53:33,236 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Bina Bersama
+2023-10-08 15:53:38,849 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Berkat Mupakat
+2023-10-08 15:53:44,863 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Siam Saba
+2023-10-08 15:53:50,716 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Sumber Rejeki
+2023-10-08 15:53:56,484 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Tani
+2023-10-08 15:54:02,510 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Makmur
+2023-10-08 15:54:09,554 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Sumber Tani
+2023-10-08 15:54:15,416 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Unus Mayang
+2023-10-08 15:54:21,381 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Suka Maju
+2023-10-08 15:54:27,386 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karang Dukuh
+2023-10-08 15:54:33,294 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Bersama
+2023-10-08 15:54:38,978 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Banih Mutiara
+2023-10-08 15:54:45,410 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Siam Birik
+2023-10-08 15:54:51,166 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Membangun Bersama
+2023-10-08 15:54:57,013 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Arjuna
+2023-10-08 15:55:03,428 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Rindang Pelita
+2023-10-08 15:55:09,199 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Setia Kawan
+2023-10-08 15:55:14,737 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Sumber Tani
+2023-10-08 15:55:20,506 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Mayang Berseri
+2023-10-08 15:55:26,352 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Harapan Baru
+2023-10-08 15:55:31,924 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Tani Makmur
+2023-10-08 15:55:37,713 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Harapan Baru
+2023-10-08 15:55:43,553 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Karya Membangun
+2023-10-08 15:55:49,422 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Damai Bersama
+2023-10-08 15:55:55,207 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Ruhui Maju
+2023-10-08 15:56:01,379 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Rakat Swarga
+2023-10-08 15:56:08,333 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Sinar Giat
+2023-10-08 15:56:14,179 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Karya Murni
+2023-10-08 15:56:19,971 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Mupakat
+2023-10-08 15:56:25,849 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Hemat Karya
+2023-10-08 15:56:32,228 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Hemat Membangun
+2023-10-08 15:56:38,759 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Pemuda Membangun
+2023-10-08 15:56:45,821 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Harapan Bahagia
+2023-10-08 15:56:51,563 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Berkat Bersama
+2023-10-08 15:56:57,359 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Keong Mas
+2023-10-08 15:57:03,210 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Sungai Rasau, kelompok: Sumber Makmur
+2023-10-08 15:57:08,884 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Kurau Utara, kelompok: Sehat Subur
+2023-10-08 15:57:15,295 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Kurau Utara, kelompok: Harapan Bersama
+2023-10-08 15:57:21,015 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Gawi Sabumi
+2023-10-08 15:57:28,672 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Suka Makmur
+2023-10-08 15:57:42,180 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Suka Maju
+2023-10-08 15:57:48,098 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Sumber Rezeki
+2023-10-08 15:57:53,854 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Banih Manguning
+2023-10-08 15:58:00,196 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Tuntung Pandang
+2023-10-08 15:58:05,871 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Murni
+2023-10-08 15:58:11,771 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Sumber Tani
+2023-10-08 15:58:17,864 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Mandiri
+2023-10-08 15:58:23,855 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Harapan Tani
+2023-10-08 15:58:29,521 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Terobos Tani
+2023-10-08 15:58:35,569 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tunas 45
+2023-10-08 15:58:41,520 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Gawi Manuntung
+2023-10-08 15:58:47,245 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Karya Tani
+2023-10-08 15:58:52,774 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Waja Sampai Keputing
+2023-10-08 15:58:58,679 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Pelita Tani
+2023-10-08 15:59:05,604 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Maju
+2023-10-08 15:59:11,998 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Suka Maju
+2023-10-08 15:59:18,213 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Pelita Jaya
+2023-10-08 15:59:24,392 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Indra Sila
+2023-10-08 15:59:31,223 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Berkat Tani
+2023-10-08 15:59:39,112 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Bekat Bersama
+2023-10-08 15:59:47,044 [INFO] Trying write new report for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Mekar Tani
+2023-10-08 15:59:53,060 [INFO] Trying write new report for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Maju Jaya
+2023-10-08 15:59:59,658 [INFO] Trying write new report for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Tani Makmur
+2023-10-08 16:00:05,760 [INFO] Trying write new report for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Berkah
+2023-10-08 16:00:11,910 [INFO] Trying write new report for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Maju Bersama

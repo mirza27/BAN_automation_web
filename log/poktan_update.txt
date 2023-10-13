@@ -1,16 +1,7 @@
-2023-09-09 12:19:00,354 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Cakura, kelompok: Tamalanrea
-2023-09-09 12:19:15,103 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Cakura, kelompok: Bungung Biraeng I
-2023-09-09 12:19:30,060 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Cakura, kelompok: Panrannuanta
-2023-09-09 12:19:44,921 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Lantang, kelompok: Lemo Lasaya I
-2023-09-09 12:19:59,247 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Tala Lompo
-2023-09-09 12:20:13,798 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Timbusu
-2023-09-09 12:20:28,301 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Balinapara
-2023-09-09 12:20:42,657 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Batuniandara
-2023-09-09 12:20:57,354 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Bontokadieng
-2023-09-09 12:21:11,658 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Arung - Arung
-2023-09-09 12:21:25,958 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Bontotangnga
-2023-09-09 12:21:40,179 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Moncongkomba, kelompok: Kalappo
-2023-09-09 12:21:54,714 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Pattene, kelompok: Masunggua
-2023-09-09 12:22:09,050 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Pattene, kelompok: Minasa Sunggu
-2023-09-09 12:22:23,335 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Pattene, kelompok: Ajjulukana
-2023-09-09 12:22:37,629 [INFO] Trying check poktan for kab: Takalar, kec: Polombangkeng Selatan, desa: Su'rulangi, kelompok: Bungung Batua
+2023-09-26 18:40:10,614 [INFO] Trying check poktan for kab: Tapanuli Selatan, kec: Sayur Matinggi, desa: Bulu Gading, kelompok: Bersama
+2023-09-26 18:40:27,376 [INFO] Succes update poktan kelompok: Bersama
+2023-09-26 18:40:27,823 [INFO] Trying check poktan for kab: Tapanuli Selatan, kec: Sayur Matinggi, desa: Bulu Gading, kelompok: Mawar
+2023-09-26 18:40:43,133 [INFO] Succes update poktan kelompok: Mawar
+2023-09-26 18:40:43,503 [INFO] Trying check poktan for kab: Tapanuli Selatan, kec: Sayur Matinggi, desa: Silaiya Tanjung Leuk, kelompok: Dolok Gon Gonan
+2023-09-26 18:40:59,122 [INFO] Succes update poktan kelompok: Dolok Gon Gonan
+2023-09-26 18:40:59,506 [INFO] Trying check poktan for kab: Tapanuli Selatan, kec: Sayur Matinggi, desa: Silaiya Tanjung Leuk, kelompok: Pekarangan

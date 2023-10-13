@@ -1,4 +1,225 @@
-2023-09-12 00:05:09,562 [INFO] Trying write new poktan for kab: Takalar, kec: Pattallassang, desa: Salaka, kelompok: Biring Je'Ne
-2023-09-12 00:05:15,238 [INFO] Trying write new poktan for kab: Takalar, kec: Pattallassang, desa: Salaka, kelompok: Salaka II
-2023-09-12 00:05:22,072 [INFO] Trying write new poktan for kab: Takalar, kec: Pattallassang, desa: Salaka, kelompok: Al-Qamar
-2023-09-12 00:05:22,221 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/50971bde0298ddb823db9256f0cbacb4
+2023-10-08 15:07:47,578 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sarang Halang, kelompok: Begading Jaya
+2023-10-08 15:07:53,645 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ambungan, kelompok: Gunung Kapur
+2023-10-08 15:07:59,827 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ambungan, kelompok: Barokah Bersama
+2023-10-08 15:08:06,596 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ambungan, kelompok: Tekad
+2023-10-08 15:08:12,331 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Bumi Jaya, kelompok: Karya Tani
+2023-10-08 15:08:18,116 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Guntung Besar, kelompok: Kayuh Baimbai
+2023-10-08 15:08:23,514 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Guntung Besar, kelompok: Harapan Baru
+2023-10-08 15:08:29,062 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Guntung Besar, kelompok: Sepakat Bersama
+2023-10-08 15:08:35,402 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Usaha Karya Tani
+2023-10-08 15:08:42,141 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Belabar Sejahtera
+2023-10-08 15:08:47,813 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Harapan Bersama
+2023-10-08 15:08:53,481 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Hadil Jingah Lantang
+2023-10-08 15:09:00,332 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Angsau, kelompok: Sejahtera Bersama
+2023-10-08 15:09:06,098 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Katunun Harapan
+2023-10-08 15:09:12,177 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Makmur
+2023-10-08 15:09:18,026 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Harapan Baru
+2023-10-08 15:09:23,127 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Kerjasama
+2023-10-08 15:09:29,334 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Jakasuma
+2023-10-08 15:09:35,778 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Usaha Baru Bersama
+2023-10-08 15:09:41,799 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Sinar Membangun
+2023-10-08 15:09:47,815 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Telaga Bersatu
+2023-10-08 15:09:53,123 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Mekar Tani
+2023-10-08 15:09:59,583 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Bina Karya
+2023-10-08 15:10:04,764 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Sumber Harapan Makmur
+2023-10-08 15:10:11,094 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Kwt Maju Bersama
+2023-10-08 15:10:16,327 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Cinta Maju
+2023-10-08 15:10:21,735 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Tamban Baru
+2023-10-08 15:10:27,123 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Rahmad Ibu
+2023-10-08 15:10:33,944 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Mekar Sari
+2023-10-08 15:10:39,177 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Awang Batuah
+2023-10-08 15:10:44,280 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Maju Bersama
+2023-10-08 15:10:49,970 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Lestari
+2023-10-08 15:10:55,865 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Sejahtera
+2023-10-08 15:11:01,723 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Santol I
+2023-10-08 15:11:07,385 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Kembang Manggis
+2023-10-08 15:11:13,398 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Karya Bersama
+2023-10-08 15:11:19,022 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Makmur Bersama
+2023-10-08 15:11:24,634 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Mekar Sari
+2023-10-08 15:11:29,784 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Teratai
+2023-10-08 15:11:35,897 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pemuda, kelompok: Sri Rezeki
+2023-10-08 15:11:42,164 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pemuda, kelompok: Rakat Mufakat
+2023-10-08 15:11:47,912 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pemuda, kelompok: Usaha Mandiri
+2023-10-08 15:11:53,990 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sungai Riam, kelompok: Lok Dampar
+2023-10-08 15:11:59,348 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sungai Riam, kelompok: Mekar Tani
+2023-10-08 15:12:04,207 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sungai Riam, kelompok: Citra Tani
+2023-10-08 15:12:09,281 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panjaratan, kelompok: Sumber Karya
+2023-10-08 15:12:16,195 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panjaratan, kelompok: Cipta Karya
+2023-10-08 15:12:23,930 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panjaratan, kelompok: Harapan Baru
+2023-10-08 15:12:29,098 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Tungkaran, kelompok: Maju Bersama
+2023-10-08 15:12:35,099 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Tungkaran, kelompok: Karya Tani Baru
+2023-10-08 15:12:41,140 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Kampung Baru, kelompok: Tri Jaya
+2023-10-08 15:12:46,581 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sumber Mulia, kelompok: Karya Usaha
+2023-10-08 15:12:52,147 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sumber Mulia, kelompok: Bina Karya Bakti
+2023-10-08 15:12:57,058 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sumber Mulia, kelompok: Bersemi
+2023-10-08 15:13:03,054 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Suka Maju
+2023-10-08 15:13:08,246 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Berkat Mufakat
+2023-10-08 15:13:13,265 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Mandiri
+2023-10-08 15:13:18,210 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Penampa Tani
+2023-10-08 15:13:25,452 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Pandak Kuning
+2023-10-08 15:13:31,149 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Sumber Rezeki
+2023-10-08 15:13:39,006 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Rukun Karya
+2023-10-08 15:13:45,814 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Mekar Tani
+2023-10-08 15:13:52,453 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Rukun Tani
+2023-10-08 15:13:58,767 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Bangun Bersama 1
+2023-10-08 15:14:04,341 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Bangun Bersama 2
+2023-10-08 15:14:09,492 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Karya Makmur
+2023-10-08 15:14:15,270 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Agro Lestari
+2023-10-08 15:14:20,922 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Karya Tani Makmur
+2023-10-08 15:14:26,966 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Gunung Makmur, kelompok: Gapoktan Sumber Rezeki
+2023-10-08 15:14:32,390 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Batilai, kelompok: Bangkal
+2023-10-08 15:14:37,467 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Banua lawas, kelompok: Sinar Jaya Tani
+2023-10-08 15:14:42,651 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Batilai, kelompok: Batu Balai
+2023-10-08 15:14:48,179 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Tani Manuntung
+2023-10-08 15:14:53,735 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Hidup Baru
+2023-10-08 15:14:59,609 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Mandiri
+2023-10-08 15:15:06,698 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Tambak Lurus 1
+2023-10-08 15:15:12,146 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Gunung Raja, kelompok: Tani Mulya
+2023-10-08 15:15:17,510 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Gunung Raja, kelompok: Karya Mulya
+2023-10-08 15:15:22,744 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Sungai Pinang, kelompok: Kemuning
+2023-10-08 15:15:28,449 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Maju Bersama
+2023-10-08 15:15:33,313 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Damai Sejahtera
+2023-10-08 15:15:40,491 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Karya Tani
+2023-10-08 15:15:45,651 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Bajuin, kelompok: Bunga Berseri
+2023-10-08 15:15:50,966 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Ketapang, kelompok: Semangat Muda
+2023-10-08 15:15:56,793 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo I
+2023-10-08 15:16:02,044 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo II
+2023-10-08 15:16:07,970 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo III
+2023-10-08 15:16:12,938 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Rukun Makmur
+2023-10-08 15:16:18,310 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Sumber Makmur
+2023-10-08 15:16:23,511 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Galam, kelompok: Harapan Masa
+2023-10-08 15:16:28,541 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Sido Mulyo
+2023-10-08 15:16:33,445 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Setia Kawan
+2023-10-08 15:16:38,470 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Tanjung Berbunga
+2023-10-08 15:16:44,076 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tirta Jaya, kelompok: Bukit Bengkiluk
+2023-10-08 15:16:50,647 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Panyipatan, desa: Panyipatan, kelompok: Bina Bersama
+2023-10-08 15:16:55,895 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Panyipatan, desa: Batu Tungku, kelompok: Minak Jinggo
+2023-10-08 15:17:01,280 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Panyipatan, desa: Kandangan Baru, kelompok: Karya Baru
+2023-10-08 15:17:06,167 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Bunga Padi 2
+2023-10-08 15:17:11,329 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Suka Maju II
+2023-10-08 15:17:16,787 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Tani Harapan
+2023-10-08 15:17:22,403 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Buran
+2023-10-08 15:17:28,202 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Tambak Batung
+2023-10-08 15:17:33,739 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Sikat
+2023-10-08 15:17:38,906 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Brasau
+2023-10-08 15:17:45,137 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Ubudiyah
+2023-10-08 15:17:50,921 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Sumber Rejeki
+2023-10-08 15:17:56,096 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Giat Usaha
+2023-10-08 15:18:01,310 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Sumber Makmur
+2023-10-08 15:18:07,549 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Anggang Muda
+2023-10-08 15:18:13,259 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Suka Bersatu
+2023-10-08 15:18:18,995 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Berkat Bersama
+2023-10-08 15:18:24,255 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Bina Usaha
+2023-10-08 15:18:29,984 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Segar Utama
+2023-10-08 15:18:35,553 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Teluk Paku
+2023-10-08 15:18:41,366 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Sumber Rejeki
+2023-10-08 15:18:48,148 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Karya Utama
+2023-10-08 15:18:53,551 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Bina Sejahtera
+2023-10-08 15:18:58,990 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Suka Maju
+2023-10-08 15:19:04,533 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Karya Bersama
+2023-10-08 15:19:09,828 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung Baru, kelompok: Berkat Pelita
+2023-10-08 15:19:15,594 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung Baru, kelompok: Mari Membangun
+2023-10-08 15:19:21,112 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Budi Karya
+2023-10-08 15:19:26,867 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Tani Agung
+2023-10-08 15:19:32,077 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Tani Abadi
+2023-10-08 15:19:37,239 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Nyiur Sawit
+2023-10-08 15:19:42,899 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Harapan Bersama
+2023-10-08 15:19:48,348 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Tunas Harapan
+2023-10-08 15:19:54,999 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Tri Darma
+2023-10-08 15:20:00,503 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Mekar Sari
+2023-10-08 15:20:06,064 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Benua Raya, kelompok: Mupakat
+2023-10-08 15:20:11,279 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Benua Raya, kelompok: Siam Saba
+2023-10-08 15:20:16,481 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Bunga Padi I
+2023-10-08 15:20:21,721 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Sido Mulyo
+2023-10-08 15:20:27,206 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Terang Bulan
+2023-10-08 15:20:32,818 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Barokah
+2023-10-08 15:20:37,973 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Tani Jaya
+2023-10-08 15:20:43,594 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Tunas Muda
+2023-10-08 15:20:49,773 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Suka Maju
+2023-10-08 15:20:54,863 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Alam Subur
+2023-10-08 15:21:00,503 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Karya Sentosa
+2023-10-08 15:21:07,217 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Karya Baru
+2023-10-08 15:21:12,667 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Harapan Sehat
+2023-10-08 15:21:18,043 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Danau Puyau Makmur
+2023-10-08 15:21:23,150 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Kencur
+2023-10-08 15:21:28,306 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Asahan Jaya
+2023-10-08 15:21:33,447 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Al Hijrah
+2023-10-08 15:21:39,055 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Teluk Marjaya
+2023-10-08 15:21:45,654 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Ainul Yakin
+2023-10-08 15:21:51,378 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Pulo Mas
+2023-10-08 15:21:57,058 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Berkat Mufakat
+2023-10-08 15:22:02,269 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Pandahan, kelompok: Muda Berkarya
+2023-10-08 15:22:07,593 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Pandahan, kelompok: Tani Membangun
+2023-10-08 15:22:13,034 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Batu Ampar, desa: Bluru, kelompok: Muda Tani
+2023-10-08 15:22:17,943 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Batu Ampar, desa: Bluru, kelompok: Madu Sari
+2023-10-08 15:22:22,968 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Mandiri Sejahtera
+2023-10-08 15:22:28,505 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Karya Maju
+2023-10-08 15:22:35,906 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Putri Mayang
+2023-10-08 15:22:42,769 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Cinta Maju
+2023-10-08 15:22:48,063 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Siam Arjuna
+2023-10-08 15:22:54,888 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Mayang Maurai
+2023-10-08 15:23:00,715 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Bina Bersama
+2023-10-08 15:23:06,388 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Berkat Mupakat
+2023-10-08 15:23:11,803 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Siam Saba
+2023-10-08 15:23:16,826 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Sumber Rejeki
+2023-10-08 15:23:21,838 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Tani
+2023-10-08 15:23:27,572 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Makmur
+2023-10-08 15:23:32,756 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Sumber Tani
+2023-10-08 15:23:38,056 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Unus Mayang
+2023-10-08 15:23:43,199 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Suka Maju
+2023-10-08 15:23:48,174 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karang Dukuh
+2023-10-08 15:23:53,122 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Bersama
+2023-10-08 15:23:58,413 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Banih Mutiara
+2023-10-08 15:24:03,341 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Siam Birik
+2023-10-08 15:24:08,567 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Membangun Bersama
+2023-10-08 15:24:14,230 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Arjuna
+2023-10-08 15:24:20,358 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Rindang Pelita
+2023-10-08 15:24:26,954 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Setia Kawan
+2023-10-08 15:24:32,568 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Sumber Tani
+2023-10-08 15:24:38,550 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Mayang Berseri
+2023-10-08 15:24:43,821 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Harapan Baru
+2023-10-08 15:24:49,194 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Tani Makmur
+2023-10-08 15:24:54,380 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Harapan Baru
+2023-10-08 15:24:59,708 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Karya Membangun
+2023-10-08 15:25:05,313 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Damai Bersama
+2023-10-08 15:25:10,695 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Ruhui Maju
+2023-10-08 15:25:15,805 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Rakat Swarga
+2023-10-08 15:25:21,767 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Sinar Giat
+2023-10-08 15:25:26,565 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Karya Murni
+2023-10-08 15:25:32,328 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Mupakat
+2023-10-08 15:25:37,383 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Hemat Karya
+2023-10-08 15:25:42,258 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Hemat Membangun
+2023-10-08 15:25:48,462 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Pemuda Membangun
+2023-10-08 15:25:53,382 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Harapan Bahagia
+2023-10-08 15:25:58,847 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Berkat Bersama
+2023-10-08 15:26:03,523 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Keong Mas
+2023-10-08 15:26:08,414 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Sungai Rasau, kelompok: Sumber Makmur
+2023-10-08 15:26:13,555 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Kurau Utara, kelompok: Sehat Subur
+2023-10-08 15:26:19,128 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Kurau Utara, kelompok: Harapan Bersama
+2023-10-08 15:26:24,286 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Gawi Sabumi
+2023-10-08 15:26:29,609 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Suka Makmur
+2023-10-08 15:26:34,797 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Suka Maju
+2023-10-08 15:26:40,069 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Sumber Rezeki
+2023-10-08 15:26:45,412 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Banih Manguning
+2023-10-08 15:26:50,610 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Tuntung Pandang
+2023-10-08 15:26:56,396 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Murni
+2023-10-08 15:27:02,863 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Sumber Tani
+2023-10-08 15:27:09,659 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Mandiri
+2023-10-08 15:27:15,200 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Harapan Tani
+2023-10-08 15:27:20,358 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Terobos Tani
+2023-10-08 15:27:25,494 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tunas 45
+2023-10-08 15:27:31,824 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Gawi Manuntung
+2023-10-08 15:27:36,973 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Karya Tani
+2023-10-08 15:27:42,798 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Waja Sampai Keputing
+2023-10-08 15:27:49,712 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Pelita Tani
+2023-10-08 15:27:55,386 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Maju
+2023-10-08 15:28:01,512 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Suka Maju
+2023-10-08 15:28:06,688 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Pelita Jaya
+2023-10-08 15:28:14,179 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Indra Sila
+2023-10-08 15:28:19,119 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Berkat Tani
+2023-10-08 15:28:26,855 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Bekat Bersama
+2023-10-08 15:28:33,562 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Mekar Tani
+2023-10-08 15:28:39,429 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Maju Jaya
+2023-10-08 15:28:44,696 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Tani Makmur
+2023-10-08 15:28:49,863 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Berkah
+2023-10-08 15:28:55,130 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Maju Bersama

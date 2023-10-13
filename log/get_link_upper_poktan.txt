@@ -1,0 +1,47 @@
+2023-10-08 15:42:38,899 [INFO] Trying check poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur
+2023-10-08 15:42:55,707 [INFO] Success update for poktan : Rukun Tani
+2023-10-08 15:43:01,134 [INFO] Trying check poktan for kab: Tanah Laut, kec: Takisung, desa: Gunung Makmur
+2023-10-08 15:43:20,800 [INFO] Trying check poktan for kab: Tanah Laut, kec: Takisung, desa: Batilai
+2023-10-08 15:43:38,017 [INFO] Success update for poktan : Sepakat
+2023-10-08 15:43:44,441 [INFO] Trying check poktan for kab: Tanah Laut, kec: Takisung, desa: Banua lawas
+2023-10-08 15:44:04,061 [INFO] Trying check poktan for kab: Tanah Laut, kec: Takisung, desa: Batilai
+2023-10-08 15:44:23,466 [INFO] Trying check poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari
+2023-10-08 15:44:43,993 [INFO] Trying check poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Gunung Raja
+2023-10-08 15:45:03,423 [INFO] Trying check poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Sungai Pinang
+2023-10-08 15:45:22,803 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar
+2023-10-08 15:45:42,213 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bajuin, desa: Bajuin
+2023-10-08 15:46:01,679 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bajuin, desa: Ketapang
+2023-10-08 15:46:20,961 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit
+2023-10-08 15:46:40,499 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bajuin, desa: Galam
+2023-10-08 15:47:00,980 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bajuin, desa: Tanjung
+2023-10-08 15:47:20,260 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bajuin, desa: Tirta Jaya
+2023-10-08 15:47:39,634 [INFO] Trying check poktan for kab: Tanah Laut, kec: Panyipatan, desa: Panyipatan
+2023-10-08 15:47:59,289 [INFO] Trying check poktan for kab: Tanah Laut, kec: Panyipatan, desa: Batu Tungku
+2023-10-08 15:48:18,601 [INFO] Trying check poktan for kab: Tanah Laut, kec: Panyipatan, desa: Kandangan Baru
+2023-10-08 15:48:38,322 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah
+2023-10-08 15:48:57,740 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung
+2023-10-08 15:49:17,317 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang
+2023-10-08 15:49:36,721 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang
+2023-10-08 15:49:56,773 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati
+2023-10-08 15:50:16,215 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang
+2023-10-08 15:50:35,661 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung Baru
+2023-10-08 15:50:54,916 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru
+2023-10-08 15:51:14,283 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan
+2023-10-08 15:51:33,912 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Benua Raya
+2023-10-08 15:51:53,245 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait
+2023-10-08 15:52:12,811 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat
+2023-10-08 15:52:32,103 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung
+2023-10-08 15:52:51,470 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bati Bati, desa: Pandahan
+2023-10-08 15:53:11,066 [INFO] Trying check poktan for kab: Tanah Laut, kec: Batu Ampar, desa: Bluru
+2023-10-08 15:53:27,545 [INFO] Success update for poktan : Karya Maju
+2023-10-08 15:53:33,030 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas
+2023-10-08 15:53:52,745 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah
+2023-10-08 15:54:12,050 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk
+2023-10-08 15:54:31,385 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam
+2023-10-08 15:54:50,811 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas
+2023-10-08 15:55:10,208 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka
+2023-10-08 15:55:29,667 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Sungai Rasau
+2023-10-08 15:55:49,182 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Kurau Utara
+2023-10-08 15:56:08,487 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan
+2023-10-08 15:56:27,962 [INFO] Trying check poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik
+2023-10-08 15:56:47,481 [INFO] Trying check poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya

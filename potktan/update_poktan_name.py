@@ -150,7 +150,7 @@ class MultiChromeDriver:
             EC.presence_of_element_located(
                 (
                     By.XPATH,
-                    f'//ul[@id="select2-desaid-results"]//li[text()="{desa_key.title()}"]',
+                    f'//ul[@id="select2-desaid-results"]//li[text()="{desa_key}"]',
                 )
             )
         )
@@ -163,7 +163,9 @@ class MultiChromeDriver:
         driver.execute_script(
             "arguments[0].value = arguments[1]", search_input, kel_key
         )
-        # time.sleep(3)
+        # driver.execute_script(
+        #     "arguments[0].dispatchEvent(new Event('change'))", search_input
+        # )
         search_input.send_keys(Keys.RETURN)
         time.sleep(10)
 
@@ -185,13 +187,15 @@ def edit_poktan(driver, kel_key):
     # Mencari semua elemen <tr> dengan class "odd" atau "even"
     rows = soup.find_all("tr", class_=["odd", "even"])
 
-    if len(rows) <= 2:
+    if len(rows) >= 1:
         for row in rows:
             tds = row.find_all("td")
 
             kelompok = tds[1].text.strip()
             if (
-                kelompok == kel_key.upper() or kelompok == kel_key.lower()
+                kelompok == kel_key.upper()
+                or kelompok == kel_key.lower()
+                or kelompok == kel_key.title()
             ):  # jika poktan kapital
                 links = row.find_all("a")
                 link = links[0]["href"]
@@ -208,15 +212,21 @@ def edit_poktan(driver, kel_key):
                 # Dapatkan nilai (value) dari elemen input
                 nik_input = driver.find_element(By.NAME, "nik")
                 nik_value = nik_input.get_attribute("value")
-                if nik_value[0] == "'" or nik_value[0] == "`":
-                    nik_input.clear()
-                    nik_input.send_keys(nik_value[1:])
+                if nik_value != "":
+                    if nik_value[0] == "'" or nik_value[0] == "`":
+                        nik_input.clear()
+                        nik_input.send_keys(nik_value[1:])
+                else:
+                    nik_input.send_keys(nik_value)
 
                 tlp_input = driver.find_element(By.NAME, "notelp")
                 tlp_value = tlp_input.get_attribute("value")
-                if tlp_value[0] == "'" or tlp_value[0] == "`":
-                    tlp_input.clear()
-                    tlp_input.send_keys(tlp_value[1:])
+                if tlp_value != "":
+                    if tlp_value[0] == "'" or tlp_value[0] == "`":
+                        tlp_input.clear()
+                        tlp_input.send_keys(tlp_value[1:])
+                else:
+                    tlp_input.send_keys(tlp_value)
 
                 submit_form(driver)
                 logging.info(f"Succes update poktan kelompok: {kel_key}")
@@ -247,7 +257,7 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/cpcl_takalar.csv"
+    csv_file = "./csv/cpcl_tapanuli_selatan.csv"
     num_drivers = 1
     multi_driver = MultiChromeDriver(num_drivers)
 

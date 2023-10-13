@@ -52,7 +52,7 @@ def extract_data_from_html(file_path, out_name):
 
 
 # Contoh penggunaan: ganti dengan path file HTML yang sesuai
-file_path = "./html/takalar.html"
-out_name = "./csv/takalar_ubah.csv"
+file_path = "./html/report_hapus.html"
+out_name = "./csv/report_hapus.csv"
 
 extract_data_from_html(file_path, out_name)

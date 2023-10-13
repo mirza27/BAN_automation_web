@@ -95,11 +95,9 @@ def extract_data_from_html(url, out_name):
                 formatted_nomor,
                 situs,
                 poktan,
-                data_kolom_tiga,
+                desa,
             ) in enumerate(data, start=1):
-                csv_writer.writerow(
-                    [nomor, formatted_nomor, situs, poktan, data_kolom_tiga]
-                )
+                csv_writer.writerow([nomor, formatted_nomor, situs, poktan, desa])
 
     except FileNotFoundError:
         print("File not found.")
