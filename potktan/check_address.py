@@ -65,14 +65,14 @@ def login(driver, email, password):
 email = "bast@binaagrosiwimandiri.com"
 password = "Lapor"
 
-with open("./csv/address_not_found.csv", "w", newline="") as not_found_csv_file:
+with open("./csv/address_not_found2.csv", "w", newline="") as not_found_csv_file:
     not_found_csv_writer = csv.writer(not_found_csv_file)
 
     # Menulis header
     not_found_csv_writer.writerow(["No", "Kecamatan", "Desa"])
 
     # Baca data dari file CSV
-    with open("./csv/cpcl_tanah_laut.csv", "r") as csv_file:
+    with open("./csv/cpcl_serdang.csv", "r") as csv_file:
         csv_reader = csv.DictReader(csv_file)
         not_found_desa_set = set()  # Set untuk menyimpan desa yang tidak ditemukan
 

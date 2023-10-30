@@ -4,11 +4,7 @@ several programs of auto upload and submit form in PT Bina Agrosiwi Mandiri
 
 BUAT RUMAHAN KONTRAK
 
-- pemalang
-
 BUAT POKTAN YANG BELUM ADA
-
-- pemalang
 
 REPORT KAMPAR :
 ada nama poktan sama
@@ -36,3 +32,10 @@ REPORT TAPANULI SELATAN:
 REPORT CILACAP
 2840, poktan sama dengan 2836 (Mekar Berkah jadi Berkah II)
 2827, poktan sama dengan 2823 (guyup rukun 1 jadi guyup rukun 3)
+
+REPORT KARO
+963, poktan sama dengan 960 (Gelora Tani jadi Gelora Tani II)
+460, poktan sama dengan 459 (Rulih Adi Mejingkat II jadi Rulih Adi Mejingkat I)
+
+REPORT KARO
+1434, poktan tidak ada

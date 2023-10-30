@@ -3,7 +3,7 @@ import threading
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import logging
-from selenium.webdriver.support.ui import Select
+
 import time
 import os
 from selenium.webdriver.support.ui import WebDriverWait
@@ -44,45 +44,54 @@ class MultiChromeDriver:
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
-    def input(self, driver, nomor_sk):
-        time.sleep(2)
-
-        # tambah spp
-        button = self.driver.find_element(
-            By.CSS_SELECTOR,
-            'button[data-toggle="modal"][data-target="#my_modal"]',
+    def input(self, driver, nomor_sk, sk_id):
+        # tambah sk
+        button = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located(
+                (
+                    By.CSS_SELECTOR,
+                    'a[data-toggle="modal"][data-target="#my_modal"]',
+                )
+            )
         )
         button.click()
 
         # menyiapkan kolom search
-        search_input = WebDriverWait(driver, 5).until(
+        search_input = WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'input[type="search"]'))
         )
 
-        self.driver.execute_script(
+        driver.execute_script(
             "arguments[0].value = arguments[1]", search_input, nomor_sk
         )
-        time.sleep(3)
+        time.sleep(2)
         search_input.send_keys(Keys.RETURN)
-        time.sleep(3)
 
         xpath_selector = (
             f'//tr[contains(.//span, "{nomor_sk}") and (@class="odd" or @class="even")]'
         )
-        row = self.driver.find_element(By.XPATH, xpath_selector)
+        row = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located(
+                (
+                    By.XPATH,
+                    xpath_selector,
+                )
+            )
+        )
 
         # Temukan elemen <button> di dalam baris dan klik
-        radio = row.find_element(By.CSS_SELECTOR, "input[type='radio']")
+        radio = WebDriverWait(row, 20).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, f'label[for="{sk_id}"]'))
+        )
         radio.click()
 
 
-def get_url(driver, site_url, index):
-    driver.get(site_url.replace("/empty", "/sk/create"))
-    print(f"Driver {index} title: {driver.title}")
+def get_url(driver, site_url):
+    driver.get(site_url.replace("/empty", "/sk"))
+    print(f"Driver title: {driver.title}")
 
 
 def submit_form(driver):
-    global total_uploads
     # Submit the form
     submit_button = driver.find_element(
         By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning'
@@ -102,10 +111,12 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/link_bondowoso.csv"
-    num_drivers = 1  # Ganti sesuai kebutuhan
+    csv1 = "./csv/link_ponorogo.csv"
+    num_drivers = 8  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
-    sk_file = "dasd"  # sesuai element htmlnya
+    sk_file = "173.A.PROD/KPTS/SR.340/B.5/9/2023"
+    skid = "skid_3596"
+
     try:
         email = "bast@binaagrosiwimandiri.com"
         password = "Lapor"
@@ -114,14 +125,13 @@ if __name__ == "__main__":
             driver = multi_driver.get_driver(index)
             multi_driver.login(driver, email, password)
 
-        data = []
         threads = []
-        with open(csv_file, "r") as file:
+        with open(csv1, "r") as file:
             csv_reader = csv.DictReader(file)
             temp_data = []
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
-                temp_data.append((row["situs"]))
+                temp_data.append(row["situs"])
 
                 #  jika sudah kelipatan sebanyak num_driver
                 if (index + 1) % num_drivers == 0:
@@ -131,8 +141,7 @@ if __name__ == "__main__":
                             target=get_url,
                             args=(
                                 multi_driver.get_driver(j),  # mengambil driver ke
-                                temp_data[j][0],
-                                j,
+                                temp_data[j],
                             ),
                         )
                         threads.append(thread)
@@ -147,10 +156,10 @@ if __name__ == "__main__":
                         multi_driver.input(
                             multi_driver.get_driver(k),
                             sk_file,  # temp_data[k][1],  # nomor_spp
+                            skid,
                         )
-                        print("mengisi driver ke", k, "dengan", temp_data[k][1])
                         logging.info(
-                            f"Filled form for situs: {temp_data[k][0]}, sk file :{sk_file} "
+                            f"Filled form for situs: {temp_data[k]}, sk file :{sk_file} "
                         )
 
                     # mengosongkan data sementara dan threads

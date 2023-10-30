@@ -172,6 +172,7 @@ class MultiChromeDriver:
             )
         )
         # input kelompok key
+        time.sleep(1)
         search_input.send_keys("KELOMPOK PERTANIAN")
         li_element = WebDriverWait(driver, 20).until(
             EC.presence_of_element_located(
@@ -222,7 +223,7 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/cpcl_tanah_laut.csv"
+    csv_file = "./csv/cpcl_ponorogo.csv"
     num_drivers = 1
     multi_driver = MultiChromeDriver(num_drivers)
 

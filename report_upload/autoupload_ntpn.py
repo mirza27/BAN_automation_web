@@ -80,8 +80,8 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/link_kampar.csv"
-    num_drivers = 10  # Ganti sesuai kebutuhan
+    csv_file = "./csv/link_karo.csv"
+    num_drivers = 13  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
 
     try:

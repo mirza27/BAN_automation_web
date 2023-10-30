@@ -32,9 +32,21 @@ class driverChrome:
         )
         login_button.click()
 
-    def get_100(self, url):
+    def get_100(self, url, percentage):
         # Buka URL menggunakan Selenium
         self.driver.get(url)
+
+        # menyiapkan kolom search
+        search_input = WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'input[type="search"]'))
+        )
+
+        self.driver.execute_script(
+            "arguments[0].value = arguments[1]", search_input, percentage
+        )
+        time.sleep(2)
+        search_input.send_keys(Keys.RETURN)
+        time.sleep(2)
 
         # mengakses 100 baris pada tabel
         select_element = self.driver.find_element(By.NAME, "kt_datatable_length")
@@ -48,13 +60,29 @@ class driverChrome:
         # menyimpan halaman
         self.page = self.driver.page_source
 
+    def get_item_number(self):
+        div_element = WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.ID, "kt_datatable_info"))
+        )
+
+        div_text = div_element.text
+
+        start = div_text.find("of ") + len("of ")
+        end = div_text.find(" entries")
+        if start != -1 and end != -1:
+            number = div_text[start:end]
+            number = int((int(number) / 100) + 1)
+            print("Halaman yang diambil:", number)
+        else:
+            print("Tidak ada angka halaman yang ditemukan.")
+
+        return number
+
     def next_page(self):
         next = WebDriverWait(self.driver, 20).until(
             EC.element_to_be_clickable((By.LINK_TEXT, "Next"))
         )
         next.click()
-
-        print("berada di halaman", self.page_number)
         element = WebDriverWait(self.driver, 20).until(
             EC.presence_of_element_located(
                 (
@@ -63,13 +91,12 @@ class driverChrome:
                 )
             )
         )
-        # menunggu sampai ada elemen angka bilang sebelumnya
         WebDriverWait(self.driver, 20).until(EC.staleness_of(element))
 
         # menyimpan halaman
         self.page = self.driver.page_source
 
-    def get_link(self):
+    def get_link(self, percentage):
         soup = BeautifulSoup(self.page, "html.parser")
         rows = soup.find_all("tr", class_=["odd", "even"])
 
@@ -79,11 +106,12 @@ class driverChrome:
             tds = row.find_all("td")
             if len(tds) >= 3:
                 desa = tds[2].text.strip()  # Mengambil teks dari kolom ke-3
+                persen = tds[6].text.strip()  # Mengambil teks dari kolom ke-7
 
                 nomor_td = row.find("td", class_="dt-right dtr-control")
                 poktan_td = row.find("span", class_="bg-warning- font-weight-bold")
 
-                if nomor_td:  # jika syarat
+                if nomor_td and persen == percentage:  # jika syarat
                     nomor = nomor_td.text.strip()
                     poktans = poktan_td.text.strip()
 
@@ -105,25 +133,28 @@ class driverChrome:
 
 
 if __name__ == "__main__":
-    url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/detail_kegiatan?delegasiid=2482"
+    url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/detail_kegiatan?delegasiid=2487"
     email = "bast@binaagrosiwimandiri.com"
     password = "Lapor"
-    out_name = "./csv/link_batu_bara.csv"
+    out_name = "./csv/link_tana_toraja2.csv"
     page_max = 2
+    percentage = "15%"
 
     try:
         Chrome = driverChrome()
 
         Chrome.login(email, password)
 
-        Chrome.get_100(url)
-        Chrome.get_link()
+        Chrome.get_100(url, percentage=percentage)
+        page_max = Chrome.get_item_number()  # inisiasisi berdasarkan jumlah
+
+        Chrome.get_link(percentage)
 
         while Chrome.page_number < page_max:
             Chrome.page_number += 1
             Chrome.next_page()
 
-            Chrome.get_link()
+            Chrome.get_link(percentage)
 
         # menulis ke csv
         with open(out_name, "w", newline="", encoding="utf-8") as csvfile:

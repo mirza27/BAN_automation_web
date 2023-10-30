@@ -52,7 +52,7 @@ class driverChrome:
         )
 
         # INPUT PROVINSI ==========================
-        span_element = WebDriverWait(self.driver, 20).until(
+        span_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.XPATH, '//span[@aria-labelledby="select2-provid-container"]')
             )
@@ -61,7 +61,7 @@ class driverChrome:
         span_element.click()
 
         # prepare seacrh bar
-        search_input = WebDriverWait(self.driver, 20).until(
+        search_input = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, 'input[class="select2-search__field"][type="search"]')
             )
@@ -69,7 +69,7 @@ class driverChrome:
 
         # input prov key
         search_input.send_keys(prov_key)
-        li_element = WebDriverWait(self.driver, 20).until(
+        li_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (
                     By.XPATH,
@@ -80,7 +80,7 @@ class driverChrome:
         li_element.click()
 
         # KABUPATEN ==========================
-        span_element = WebDriverWait(self.driver, 20).until(
+        span_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.XPATH, '//span[@aria-labelledby="select2-kabid-container"]')
             )
@@ -88,14 +88,14 @@ class driverChrome:
         span_element.click()
 
         # prepare seacrh bar
-        search_input = WebDriverWait(self.driver, 20).until(
+        search_input = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, 'input[class="select2-search__field"][type="search"]')
             )
         )
         # input kab key
         search_input.send_keys(kab_key)
-        li_element = WebDriverWait(self.driver, 20).until(
+        li_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (
                     By.XPATH,
@@ -106,7 +106,7 @@ class driverChrome:
         li_element.click()
 
         # KECAMATAN ==========================
-        span_element = WebDriverWait(self.driver, 20).until(
+        span_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.XPATH, '//span[@aria-labelledby="select2-kecid-container"]')
             )
@@ -114,14 +114,14 @@ class driverChrome:
         span_element.click()
 
         # prepare seacrh bar
-        search_input = WebDriverWait(self.driver, 20).until(
+        search_input = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, 'input[class="select2-search__field"][type="search"]')
             )
         )
         # input kec key
         search_input.send_keys(kec_key)
-        li_element = WebDriverWait(self.driver, 20).until(
+        li_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (
                     By.XPATH,
@@ -132,7 +132,7 @@ class driverChrome:
         li_element.click()
 
         # DESA ==========================
-        span_element = WebDriverWait(self.driver, 20).until(
+        span_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.XPATH, '//span[@aria-labelledby="select2-desaid-container"]')
             )
@@ -140,14 +140,14 @@ class driverChrome:
         span_element.click()
 
         # prepare seacrh bar
-        search_input = WebDriverWait(self.driver, 20).until(
+        search_input = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, 'input[class="select2-search__field"][type="search"]')
             )
         )
         # input desa key
         search_input.send_keys(desa_key)
-        li_element = WebDriverWait(self.driver, 20).until(
+        li_element = WebDriverWait(self.driver, 30).until(
             EC.presence_of_element_located(
                 (
                     By.XPATH,
@@ -168,7 +168,7 @@ class driverChrome:
         # Mencari semua elemen <tr> dengan class "odd" atau "even"
         rows = soup.find_all("tr", class_=["odd", "even"])
 
-        if len(rows) > 1:
+        if len(rows) >= 1:
             for row in rows:
                 tds = row.find_all("td")  # mengambil data 1 baris
 
@@ -195,7 +195,7 @@ class driverChrome:
             link = i[1]
 
             self.driver.get(link)
-            poktan = WebDriverWait(self.driver, 20).until(
+            poktan = WebDriverWait(self.driver, 30).until(
                 EC.presence_of_element_located((By.NAME, "kelompok"))
             )
 
@@ -247,7 +247,7 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/cpcl_tanah_laut.csv"
+    csv_file = "./csv/cpcl_klaten.csv"
     num_drivers = 1
     email = "bast@binaagrosiwimandiri.com"
     password = "Lapor"

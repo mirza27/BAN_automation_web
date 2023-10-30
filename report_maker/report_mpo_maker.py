@@ -205,14 +205,14 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/cpcl_tanah_laut.csv"
+    csv_file = "./csv/cpcl_karo.csv"
     num_drivers = 1
     multi_driver = MultiChromeDriver(num_drivers)
 
     try:
         email = "bast@binaagrosiwimandiri.com"
         password = "Lapor"
-        url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/create_distribusi?delegasiid=2485"
+        url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/create_distribusi?delegasiid=3028"
 
         for index in range(num_drivers):
             driver = multi_driver.get_driver(index)

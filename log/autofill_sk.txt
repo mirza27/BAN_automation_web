@@ -1,0 +1,8 @@
+2023-10-30 00:10:32,960 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104896/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 
+2023-10-30 00:10:35,712 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104897/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 
+2023-10-30 00:10:38,485 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104898/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 
+2023-10-30 00:10:41,228 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104899/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 
+2023-10-30 00:10:44,495 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104900/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 
+2023-10-30 00:10:47,248 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104901/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 
+2023-10-30 00:10:50,009 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104902/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 
+2023-10-30 00:10:52,778 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104903/empty, sk file :173.A.PROD/KPTS/SR.340/B.5/9/2023 

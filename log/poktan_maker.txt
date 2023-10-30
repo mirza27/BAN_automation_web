@@ -1,225 +1,630 @@
-2023-10-08 15:07:47,578 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sarang Halang, kelompok: Begading Jaya
-2023-10-08 15:07:53,645 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ambungan, kelompok: Gunung Kapur
-2023-10-08 15:07:59,827 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ambungan, kelompok: Barokah Bersama
-2023-10-08 15:08:06,596 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ambungan, kelompok: Tekad
-2023-10-08 15:08:12,331 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Bumi Jaya, kelompok: Karya Tani
-2023-10-08 15:08:18,116 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Guntung Besar, kelompok: Kayuh Baimbai
-2023-10-08 15:08:23,514 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Guntung Besar, kelompok: Harapan Baru
-2023-10-08 15:08:29,062 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Guntung Besar, kelompok: Sepakat Bersama
-2023-10-08 15:08:35,402 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Usaha Karya Tani
-2023-10-08 15:08:42,141 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Belabar Sejahtera
-2023-10-08 15:08:47,813 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Harapan Bersama
-2023-10-08 15:08:53,481 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Ujung Batu, kelompok: Hadil Jingah Lantang
-2023-10-08 15:09:00,332 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Angsau, kelompok: Sejahtera Bersama
-2023-10-08 15:09:06,098 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Katunun Harapan
-2023-10-08 15:09:12,177 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Makmur
-2023-10-08 15:09:18,026 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Harapan Baru
-2023-10-08 15:09:23,127 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Kerjasama
-2023-10-08 15:09:29,334 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Jakasuma
-2023-10-08 15:09:35,778 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Usaha Baru Bersama
-2023-10-08 15:09:41,799 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Sinar Membangun
-2023-10-08 15:09:47,815 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Telaga Bersatu
-2023-10-08 15:09:53,123 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Mekar Tani
-2023-10-08 15:09:59,583 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Bina Karya
-2023-10-08 15:10:04,764 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Sumber Harapan Makmur
-2023-10-08 15:10:11,094 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Telaga, kelompok: Kwt Maju Bersama
-2023-10-08 15:10:16,327 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Cinta Maju
-2023-10-08 15:10:21,735 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Tamban Baru
-2023-10-08 15:10:27,123 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Rahmad Ibu
-2023-10-08 15:10:33,944 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Mekar Sari
-2023-10-08 15:10:39,177 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Awang Batuah
-2023-10-08 15:10:44,280 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Maju Bersama
-2023-10-08 15:10:49,970 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Lestari
-2023-10-08 15:10:55,865 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pelaihari, kelompok: Sejahtera
-2023-10-08 15:11:01,723 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Santol I
-2023-10-08 15:11:07,385 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Kembang Manggis
-2023-10-08 15:11:13,398 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Karya Bersama
-2023-10-08 15:11:19,022 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Makmur Bersama
-2023-10-08 15:11:24,634 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Mekar Sari
-2023-10-08 15:11:29,784 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panggung, kelompok: Teratai
-2023-10-08 15:11:35,897 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pemuda, kelompok: Sri Rezeki
-2023-10-08 15:11:42,164 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pemuda, kelompok: Rakat Mufakat
-2023-10-08 15:11:47,912 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Pemuda, kelompok: Usaha Mandiri
-2023-10-08 15:11:53,990 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sungai Riam, kelompok: Lok Dampar
-2023-10-08 15:11:59,348 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sungai Riam, kelompok: Mekar Tani
-2023-10-08 15:12:04,207 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sungai Riam, kelompok: Citra Tani
-2023-10-08 15:12:09,281 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panjaratan, kelompok: Sumber Karya
-2023-10-08 15:12:16,195 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panjaratan, kelompok: Cipta Karya
-2023-10-08 15:12:23,930 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Panjaratan, kelompok: Harapan Baru
-2023-10-08 15:12:29,098 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Tungkaran, kelompok: Maju Bersama
-2023-10-08 15:12:35,099 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Tungkaran, kelompok: Karya Tani Baru
-2023-10-08 15:12:41,140 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Kampung Baru, kelompok: Tri Jaya
-2023-10-08 15:12:46,581 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sumber Mulia, kelompok: Karya Usaha
-2023-10-08 15:12:52,147 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sumber Mulia, kelompok: Bina Karya Bakti
-2023-10-08 15:12:57,058 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Pelaihari, desa: Sumber Mulia, kelompok: Bersemi
-2023-10-08 15:13:03,054 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Suka Maju
-2023-10-08 15:13:08,246 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Berkat Mufakat
-2023-10-08 15:13:13,265 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Mandiri
-2023-10-08 15:13:18,210 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Penampa Tani
-2023-10-08 15:13:25,452 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Pandak Kuning
-2023-10-08 15:13:31,149 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Pagatan Besar, kelompok: Sumber Rezeki
-2023-10-08 15:13:39,006 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Rukun Karya
-2023-10-08 15:13:45,814 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Mekar Tani
-2023-10-08 15:13:52,453 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Rukun Tani
-2023-10-08 15:13:58,767 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Bangun Bersama 1
-2023-10-08 15:14:04,341 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Bangun Bersama 2
-2023-10-08 15:14:09,492 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Karya Makmur
-2023-10-08 15:14:15,270 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Agro Lestari
-2023-10-08 15:14:20,922 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Sumber Makmur, kelompok: Karya Tani Makmur
-2023-10-08 15:14:26,966 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Gunung Makmur, kelompok: Gapoktan Sumber Rezeki
-2023-10-08 15:14:32,390 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Batilai, kelompok: Bangkal
-2023-10-08 15:14:37,467 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Banua lawas, kelompok: Sinar Jaya Tani
-2023-10-08 15:14:42,651 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Takisung, desa: Batilai, kelompok: Batu Balai
-2023-10-08 15:14:48,179 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Tani Manuntung
-2023-10-08 15:14:53,735 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Hidup Baru
-2023-10-08 15:14:59,609 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Mandiri
-2023-10-08 15:15:06,698 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Pulau Sari, kelompok: Tambak Lurus 1
-2023-10-08 15:15:12,146 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Gunung Raja, kelompok: Tani Mulya
-2023-10-08 15:15:17,510 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Gunung Raja, kelompok: Karya Mulya
-2023-10-08 15:15:22,744 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Tambang Ulang, desa: Sungai Pinang, kelompok: Kemuning
-2023-10-08 15:15:28,449 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Maju Bersama
-2023-10-08 15:15:33,313 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Damai Sejahtera
-2023-10-08 15:15:40,491 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Sungai Bakar, kelompok: Karya Tani
-2023-10-08 15:15:45,651 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Bajuin, kelompok: Bunga Berseri
-2023-10-08 15:15:50,966 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Ketapang, kelompok: Semangat Muda
-2023-10-08 15:15:56,793 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo I
-2023-10-08 15:16:02,044 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo II
-2023-10-08 15:16:07,970 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Margo Mulyo III
-2023-10-08 15:16:12,938 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Rukun Makmur
-2023-10-08 15:16:18,310 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Kunyit, kelompok: Sumber Makmur
-2023-10-08 15:16:23,511 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Galam, kelompok: Harapan Masa
-2023-10-08 15:16:28,541 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Sido Mulyo
-2023-10-08 15:16:33,445 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Setia Kawan
-2023-10-08 15:16:38,470 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tanjung, kelompok: Tanjung Berbunga
-2023-10-08 15:16:44,076 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bajuin, desa: Tirta Jaya, kelompok: Bukit Bengkiluk
-2023-10-08 15:16:50,647 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Panyipatan, desa: Panyipatan, kelompok: Bina Bersama
-2023-10-08 15:16:55,895 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Panyipatan, desa: Batu Tungku, kelompok: Minak Jinggo
-2023-10-08 15:17:01,280 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Panyipatan, desa: Kandangan Baru, kelompok: Karya Baru
-2023-10-08 15:17:06,167 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Bunga Padi 2
-2023-10-08 15:17:11,329 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Suka Maju II
-2023-10-08 15:17:16,787 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Tani Harapan
-2023-10-08 15:17:22,403 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Nusa Indah, kelompok: Buran
-2023-10-08 15:17:28,202 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Tambak Batung
-2023-10-08 15:17:33,739 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Sikat
-2023-10-08 15:17:38,906 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Kampung, kelompok: Brasau
-2023-10-08 15:17:45,137 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Ubudiyah
-2023-10-08 15:17:50,921 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Sumber Rejeki
-2023-10-08 15:17:56,096 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Giat Usaha
-2023-10-08 15:18:01,310 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Padang, kelompok: Sumber Makmur
-2023-10-08 15:18:07,549 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Anggang Muda
-2023-10-08 15:18:13,259 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Suka Bersatu
-2023-10-08 15:18:18,995 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Liang Anggang, kelompok: Berkat Bersama
-2023-10-08 15:18:24,255 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Bina Usaha
-2023-10-08 15:18:29,984 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Segar Utama
-2023-10-08 15:18:35,553 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Teluk Paku
-2023-10-08 15:18:41,366 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Sumber Rejeki
-2023-10-08 15:18:48,148 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bati-Bati, kelompok: Karya Utama
-2023-10-08 15:18:53,551 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Bina Sejahtera
-2023-10-08 15:18:58,990 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Suka Maju
-2023-10-08 15:19:04,533 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Banyu Irang, kelompok: Karya Bersama
-2023-10-08 15:19:09,828 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung Baru, kelompok: Berkat Pelita
-2023-10-08 15:19:15,594 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung Baru, kelompok: Mari Membangun
-2023-10-08 15:19:21,112 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Budi Karya
-2023-10-08 15:19:26,867 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Tani Agung
-2023-10-08 15:19:32,077 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Tani Abadi
-2023-10-08 15:19:37,239 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait Baru, kelompok: Nyiur Sawit
-2023-10-08 15:19:42,899 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Harapan Bersama
-2023-10-08 15:19:48,348 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Tunas Harapan
-2023-10-08 15:19:54,999 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Tri Darma
-2023-10-08 15:20:00,503 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Sambangan, kelompok: Mekar Sari
-2023-10-08 15:20:06,064 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Benua Raya, kelompok: Mupakat
-2023-10-08 15:20:11,279 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Benua Raya, kelompok: Siam Saba
-2023-10-08 15:20:16,481 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Bunga Padi I
-2023-10-08 15:20:21,721 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Sido Mulyo
-2023-10-08 15:20:27,206 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Terang Bulan
-2023-10-08 15:20:32,818 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Barokah
-2023-10-08 15:20:37,973 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Tani Jaya
-2023-10-08 15:20:43,594 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Kait-kait, kelompok: Tunas Muda
-2023-10-08 15:20:49,773 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Suka Maju
-2023-10-08 15:20:54,863 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Alam Subur
-2023-10-08 15:21:00,503 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Karya Sentosa
-2023-10-08 15:21:07,217 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Karya Baru
-2023-10-08 15:21:12,667 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Harapan Sehat
-2023-10-08 15:21:18,043 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Danau Puyau Makmur
-2023-10-08 15:21:23,150 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Kencur
-2023-10-08 15:21:28,306 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Bentok Darat, kelompok: Asahan Jaya
-2023-10-08 15:21:33,447 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Al Hijrah
-2023-10-08 15:21:39,055 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Teluk Marjaya
-2023-10-08 15:21:45,654 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Ainul Yakin
-2023-10-08 15:21:51,378 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Pulo Mas
-2023-10-08 15:21:57,058 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Ujung, kelompok: Berkat Mufakat
-2023-10-08 15:22:02,269 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Pandahan, kelompok: Muda Berkarya
-2023-10-08 15:22:07,593 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bati Bati, desa: Pandahan, kelompok: Tani Membangun
-2023-10-08 15:22:13,034 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Batu Ampar, desa: Bluru, kelompok: Muda Tani
-2023-10-08 15:22:17,943 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Batu Ampar, desa: Bluru, kelompok: Madu Sari
-2023-10-08 15:22:22,968 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Mandiri Sejahtera
-2023-10-08 15:22:28,505 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Karya Maju
-2023-10-08 15:22:35,906 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Putri Mayang
-2023-10-08 15:22:42,769 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Cinta Maju
-2023-10-08 15:22:48,063 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Siam Arjuna
-2023-10-08 15:22:54,888 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Mayang Maurai
-2023-10-08 15:23:00,715 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Bina Bersama
-2023-10-08 15:23:06,388 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Atas, kelompok: Berkat Mupakat
-2023-10-08 15:23:11,803 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Siam Saba
-2023-10-08 15:23:16,826 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Sumber Rejeki
-2023-10-08 15:23:21,838 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Tani
-2023-10-08 15:23:27,572 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Makmur
-2023-10-08 15:23:32,756 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Sumber Tani
-2023-10-08 15:23:38,056 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Unus Mayang
-2023-10-08 15:23:43,199 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Suka Maju
-2023-10-08 15:23:48,174 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karang Dukuh
-2023-10-08 15:23:53,122 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Karya Bersama
-2023-10-08 15:23:58,413 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Banih Mutiara
-2023-10-08 15:24:03,341 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Siam Birik
-2023-10-08 15:24:08,567 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Birayang Bawah, kelompok: Membangun Bersama
-2023-10-08 15:24:14,230 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Arjuna
-2023-10-08 15:24:20,358 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Rindang Pelita
-2023-10-08 15:24:26,954 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Setia Kawan
-2023-10-08 15:24:32,568 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Sumber Tani
-2023-10-08 15:24:38,550 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Mayang Berseri
-2023-10-08 15:24:43,821 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Harapan Baru
-2023-10-08 15:24:49,194 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Suruk, kelompok: Tani Makmur
-2023-10-08 15:24:54,380 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Harapan Baru
-2023-10-08 15:24:59,708 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Karya Membangun
-2023-10-08 15:25:05,313 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Damai Bersama
-2023-10-08 15:25:10,695 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Ruhui Maju
-2023-10-08 15:25:15,805 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Rakat Swarga
-2023-10-08 15:25:21,767 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Gayam, kelompok: Sinar Giat
-2023-10-08 15:25:26,565 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Karya Murni
-2023-10-08 15:25:32,328 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Mupakat
-2023-10-08 15:25:37,383 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Hemat Karya
-2023-10-08 15:25:42,258 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Labuan Amas, kelompok: Hemat Membangun
-2023-10-08 15:25:48,462 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Pemuda Membangun
-2023-10-08 15:25:53,382 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Harapan Bahagia
-2023-10-08 15:25:58,847 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Berkat Bersama
-2023-10-08 15:26:03,523 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Maluka, kelompok: Keong Mas
-2023-10-08 15:26:08,414 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Sungai Rasau, kelompok: Sumber Makmur
-2023-10-08 15:26:13,555 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Kurau Utara, kelompok: Sehat Subur
-2023-10-08 15:26:19,128 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Kurau Utara, kelompok: Harapan Bersama
-2023-10-08 15:26:24,286 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Gawi Sabumi
-2023-10-08 15:26:29,609 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Suka Makmur
-2023-10-08 15:26:34,797 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Suka Maju
-2023-10-08 15:26:40,069 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Sumber Rezeki
-2023-10-08 15:26:45,412 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Banih Manguning
-2023-10-08 15:26:50,610 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Bumi Harapan, kelompok: Tuntung Pandang
-2023-10-08 15:26:56,396 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Murni
-2023-10-08 15:27:02,863 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Sumber Tani
-2023-10-08 15:27:09,659 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Mandiri
-2023-10-08 15:27:15,200 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Harapan Tani
-2023-10-08 15:27:20,358 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Terobos Tani
-2023-10-08 15:27:25,494 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tunas 45
-2023-10-08 15:27:31,824 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Gawi Manuntung
-2023-10-08 15:27:36,973 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Karya Tani
-2023-10-08 15:27:42,798 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Waja Sampai Keputing
-2023-10-08 15:27:49,712 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Pelita Tani
-2023-10-08 15:27:55,386 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Tani Maju
-2023-10-08 15:28:01,512 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Suka Maju
-2023-10-08 15:28:06,688 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Pelita Jaya
-2023-10-08 15:28:14,179 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Indra Sila
-2023-10-08 15:28:19,119 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Berkat Tani
-2023-10-08 15:28:26,855 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Bekat Bersama
-2023-10-08 15:28:33,562 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Bumi Makmur, desa: Handil Babirik, kelompok: Mekar Tani
-2023-10-08 15:28:39,429 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Maju Jaya
-2023-10-08 15:28:44,696 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Tani Makmur
-2023-10-08 15:28:49,863 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Berkah
-2023-10-08 15:28:55,130 [INFO] Trying write new poktan for kab: Tanah Laut, kec: Kintap, desa: Mekar Raya, kelompok: Maju Bersama
+2023-10-21 12:56:55,697 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Babadan, kelompok: Rukun Santoso
+2023-10-21 12:57:02,066 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Bareng, kelompok: Tunggalsari
+2023-10-21 12:57:08,243 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Cekok, kelompok: Rukun Makmur Jaya
+2023-10-21 12:57:14,436 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Gupolo, kelompok: Sri Makmur
+2023-10-21 12:57:21,525 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Japan, kelompok: Ngudi Berkah Lestari
+2023-10-21 12:57:27,793 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Kadipaten, kelompok: Sandang Pangan
+2023-10-21 12:57:34,544 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Kertosari, kelompok: Kerto Raharjo
+2023-10-21 12:57:41,460 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Lembah, kelompok: Lembah Makmur
+2023-10-21 12:57:48,868 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Ngunut, kelompok: Rukun Sejahtera Abadi
+2023-10-21 12:57:55,101 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Patihan Wetan, kelompok: Margo Makmur
+2023-10-21 12:58:02,580 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Polorejo, kelompok: Rukun Makmur
+2023-10-21 12:58:09,442 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Pondok, kelompok: Tani Lancar
+2023-10-21 12:58:16,395 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Purwosari, kelompok: Rukun Makmur
+2023-10-21 12:58:23,625 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Sukosari, kelompok: Rukun Makmur
+2023-10-21 12:58:30,457 [INFO] Trying write new poktan for kab: Ponorogo, kec: Babadan, desa: Trisono, kelompok: Sumber
+2023-10-21 12:58:36,687 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Badegan, kelompok: Sumber Agung
+2023-10-21 12:58:42,837 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Bandaralim, kelompok: Bandar Tani
+2023-10-21 12:58:49,680 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Biting, kelompok: Tri Manunggal
+2023-10-21 12:58:55,831 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Dayakan, kelompok: Subur
+2023-10-21 12:59:03,253 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Kapuran, kelompok: Margo Mulyo
+2023-10-21 12:59:09,164 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Karangan, kelompok: Tani Manunggal
+2023-10-21 12:59:15,786 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Karangjoho, kelompok: Rukun Makmur
+2023-10-21 12:59:21,812 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Tanjunggunung, kelompok: Tanjung Tani
+2023-10-21 12:59:30,106 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Tanjungrejo, kelompok: Maju Mapan
+2023-10-21 12:59:36,988 [INFO] Trying write new poktan for kab: Ponorogo, kec: Badegan, desa: Watubonang, kelompok: Rukun Makmur
+2023-10-21 12:59:44,105 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Bajang, kelompok: Margo Tani Utomo
+2023-10-21 12:59:50,907 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Balong, kelompok: Daya Tani
+2023-10-21 12:59:57,394 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Bulak, kelompok: Jaya Makmur
+2023-10-21 13:00:05,134 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Bulu Kidul, kelompok: Sadono Makmur
+2023-10-21 13:00:12,810 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Dadapan, kelompok: Sido Mulyo
+2023-10-21 13:00:19,525 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Jalen, kelompok: Sri Mulyo Asih
+2023-10-21 13:00:25,884 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Karangan, kelompok: Tani Maju
+2023-10-21 13:00:33,071 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Karangmojo, kelompok: Sedyo Utomo
+2023-10-21 13:00:39,863 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Karangpatihan, kelompok: Umbul Rejo
+2023-10-21 13:00:46,985 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Muneng, kelompok: Sri Rejeki
+2023-10-21 13:00:53,998 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Ngampel, kelompok: Gawe Mulyo
+2023-10-21 13:01:00,076 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Ngendut, kelompok: Margo Sakti
+2023-10-21 13:01:06,866 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Ngraket, kelompok: Mugi Rahayu
+2023-10-21 13:01:12,910 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Ngumpul, kelompok: Subur Makmur
+2023-10-21 13:01:19,185 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Pandak, kelompok: Jaya Abadi
+2023-10-21 13:01:25,885 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Purworejo, kelompok: Krido Tani Makmur
+2023-10-21 13:01:32,884 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Sedarat, kelompok: Maju Makmur
+2023-10-21 13:01:41,036 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Singkil, kelompok: Tani Mukti
+2023-10-21 13:01:48,161 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Sumberejo, kelompok: Rejo Mulyo
+2023-10-21 13:01:55,135 [INFO] Trying write new poktan for kab: Ponorogo, kec: Balong, desa: Tatung, kelompok: Nuju Manunggal
+2023-10-21 13:02:01,587 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Bancar, kelompok: Sumber Tani Maju
+2023-10-21 13:02:08,028 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Bedikulon, kelompok: Gemar Makmur
+2023-10-21 13:02:14,354 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Bediwetan, kelompok: Utama
+2023-10-21 13:02:20,827 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Bekare, kelompok: Bekare Makmur
+2023-10-21 13:02:27,765 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Belang, kelompok: Rukun Makmur
+2023-10-21 13:02:34,164 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Bungkal, kelompok: Bungkal Manunggal
+2023-10-21 13:02:41,265 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Bungu, kelompok: Subur Makmur
+2023-10-21 13:02:47,478 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Kalisat, kelompok: Maju Makmur
+2023-10-21 13:02:53,935 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Ketonggo, kelompok: Loh Jinawi
+2023-10-21 13:03:00,912 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Koripan, kelompok: Tani Makmur
+2023-10-21 13:03:07,453 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Kunti, kelompok: Wijoyo Makmur
+2023-10-21 13:03:14,068 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Kupuk, kelompok: Mukti Lestari
+2023-10-21 13:03:20,109 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Kwajon, kelompok: Dewi Sri
+2023-10-21 13:03:26,798 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Munggu, kelompok: Rukun Makaryo
+2023-10-21 13:03:34,638 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Nambak, kelompok: Nambak Makmur
+2023-10-21 13:03:41,814 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Padas, kelompok: Mawar
+2023-10-21 13:03:48,128 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Pager, kelompok: Ngudi Mulyo
+2023-10-21 13:03:54,960 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Pelem, kelompok: Giri Karso
+2023-10-21 13:04:01,102 [INFO] Trying write new poktan for kab: Ponorogo, kec: Bungkal, desa: Sambilawang, kelompok: Catur Manunggal
+2023-10-21 13:04:07,296 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Blembem, kelompok: Margo Rukun
+2023-10-21 13:04:14,166 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Bringinan, kelompok: Makmur Jaya
+2023-10-21 13:04:21,631 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Bulu Lor, kelompok: Surya Tani
+2023-10-21 13:04:28,442 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Jambon, kelompok: Mulyo Sejahtera
+2023-10-21 13:04:34,817 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Jonggol, kelompok: Sido Makmur
+2023-10-21 13:04:40,921 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Karanglo Kidul, kelompok: Mekar Jaya
+2023-10-21 13:04:47,738 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Krebet, kelompok: Tani Mulyo
+2023-10-21 13:04:55,532 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Menang, kelompok: Rukun Tani
+2023-10-21 13:05:01,738 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Poko, kelompok: Harapan Makmur
+2023-10-21 13:05:08,488 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Pulosari, kelompok: Manunggal Sari
+2023-10-21 13:05:14,609 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Sendang, kelompok: Sendang Makmur
+2023-10-21 13:05:20,903 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Sidoharjo, kelompok: Tekat Mandiri
+2023-10-21 13:05:27,240 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jambon, desa: Srandil, kelompok: Argo Limo
+2023-10-21 13:05:34,100 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Jenangan, kelompok: Suko Mulyo
+2023-10-21 13:05:41,235 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Jimbe, kelompok: Sumber Makmur
+2023-10-21 13:05:49,678 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Mrican, kelompok: Tani Maju
+2023-10-21 13:05:56,296 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Nglayang, kelompok: Rejeki Mulyo
+2023-10-21 13:06:03,390 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Ngrupit, kelompok: Suka Tani Subur
+2023-10-21 13:06:10,620 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Panjeng, kelompok: Kerto Makmur
+2023-10-21 13:06:17,509 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Paringan, kelompok: Gemah Ripah
+2023-10-21 13:06:24,318 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Pintu, kelompok: Tani Mukti
+2023-10-21 13:06:31,365 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Plalangan, kelompok: Ngudi Makmur
+2023-10-21 13:06:37,519 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Sedah, kelompok: Sido Mukti
+2023-10-21 13:06:44,131 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Semanding, kelompok: Sri Sedono Mulyo
+2023-10-21 13:06:50,313 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Setono, kelompok: Tirto Mulyo
+2023-10-21 13:06:56,462 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Singosaren, kelompok: Mulyo Sari
+2023-10-21 13:07:03,237 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Sraten, kelompok: Karya Jaya
+2023-10-21 13:07:10,537 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jenangan, desa: Wates, kelompok: Harapan Makmur
+2023-10-21 13:07:18,607 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Coper, kelompok: Coper Manunggal
+2023-10-21 13:07:27,056 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Jetis, kelompok: Jetis Manunggal
+2023-10-21 13:07:34,261 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Josari, kelompok: Sri Mukti
+2023-10-21 13:07:40,729 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Karanggebang, kelompok: Manunggal
+2023-10-21 13:07:46,898 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Kradenan, kelompok: Kukuh Stiyo Makaryo
+2023-10-21 13:07:53,043 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Kutu Kulon, kelompok: Manunggal
+2023-10-21 13:07:59,772 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Kutu Wetan, kelompok: Kutuwetan Manunggal
+2023-10-21 13:08:05,919 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Mojomati, kelompok: Manunggal Jaya
+2023-10-21 13:08:12,094 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Mojorejo, kelompok: Tri Mulyo
+2023-10-21 13:08:18,865 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Ngasinan, kelompok: Ngudi Maju
+2023-10-21 13:08:26,191 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Tegalsari, kelompok: Ronggo Warsito
+2023-10-21 13:08:33,211 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Turi, kelompok: Sido Makmur
+2023-10-21 13:08:40,061 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Winong, kelompok: Winong Manunggal
+2023-10-21 13:08:46,624 [INFO] Trying write new poktan for kab: Ponorogo, kec: Jetis, desa: Wonoketro, kelompok: Subur Manunggal
+2023-10-21 13:08:55,848 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Bringin, kelompok: Karya Tani
+2023-10-21 13:09:03,417 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Carat, kelompok: Sri Katon
+2023-10-21 13:09:10,129 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Ciluk, kelompok: Sri Makmur
+2023-10-21 13:09:17,428 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Gabel, kelompok: Sumber Mulyo
+2023-10-21 13:09:24,275 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Kauman, kelompok: Sari Mukti
+2023-10-21 13:09:34,779 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Maron, kelompok: Sumber Makmur
+2023-10-21 13:09:41,375 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Nglarangan, kelompok: Tani Makmur
+2023-10-21 13:09:48,738 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Ngrandu, kelompok: Ngrandu Makmur
+2023-10-21 13:09:55,973 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Nongkodono, kelompok: Mekar Tani
+2023-10-21 13:10:02,251 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Pengkol, kelompok: Keling Makmur
+2023-10-21 13:10:08,934 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Plosojenar, kelompok: Mulya Tani
+2023-10-21 13:10:16,161 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Semanding, kelompok: Margo Eling
+2023-10-21 13:10:22,695 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Sukosari, kelompok: Sukomaju
+2023-10-21 13:10:30,424 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Somoroto, kelompok: Mekar Sari
+2023-10-21 13:10:37,229 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Tegalombo, kelompok: Rukun Makmur
+2023-10-21 13:10:45,632 [INFO] Trying write new poktan for kab: Ponorogo, kec: Kauman, desa: Tosanan, kelompok: Sumber Barokah
+2023-10-21 13:10:52,146 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Bajang, kelompok: Harapan Utama
+2023-10-21 13:10:58,788 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Candi, kelompok: Lestari Wibowo
+2023-10-21 13:11:06,544 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Gandu, kelompok: Sedyo Makmur
+2023-10-21 13:11:13,186 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Gontor, kelompok: Sido Mukti
+2023-10-21 13:11:19,773 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Jabung, kelompok: Tani Lestari
+2023-10-21 13:11:27,957 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Joresan, kelompok: Sido Maju
+2023-10-21 13:11:34,415 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Kaponan, kelompok: Karya Manunggal
+2023-10-21 13:11:41,277 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Mlarak, kelompok: Sido Rukun
+2023-10-21 13:11:47,765 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Nglumpang, kelompok: Mitra Tani
+2023-10-21 13:11:55,086 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Ngrukem, kelompok: Makmur Abadi
+2023-10-21 13:12:02,047 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Serangan, kelompok: Pelem Bebek
+2023-10-21 13:12:08,374 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Siwalan, kelompok: Loh Jinawi
+2023-10-21 13:12:14,859 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Suren, kelompok: Tri Joyo
+2023-10-21 13:12:21,811 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Totokan, kelompok: Restu Aji
+2023-10-21 13:12:29,018 [INFO] Trying write new poktan for kab: Ponorogo, kec: Mlarak, desa: Tugu, kelompok: Margo Rukun
+2023-10-21 13:12:36,784 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngebel, desa: Gondowido, kelompok: Gemah Ripah
+2023-10-21 13:12:43,928 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngebel, desa: Ngrogung, kelompok: Agung Lestari
+2023-10-21 13:12:51,411 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngebel, desa: Talun, kelompok: Margo Talun Mulyo
+2023-10-21 13:12:58,508 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngebel, desa: Wagir Lor, kelompok: Argo Mulyo
+2023-10-21 13:13:05,136 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Baosan Kidul, kelompok: Giri Makmur
+2023-10-21 13:13:11,922 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Baosan Lor, kelompok: Wono Asri
+2023-10-21 13:13:18,631 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Binade, kelompok: Bina Tani
+2023-10-21 13:13:25,259 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Cepoko, kelompok: Cepoko Mulyo
+2023-10-21 13:13:33,793 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Gedangan, kelompok: Majumakmur
+2023-10-21 13:13:40,223 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Ngrayun, kelompok: Argo Mulyo
+2023-10-21 13:13:46,625 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Sendang, kelompok: Giri Mulyo
+2023-10-21 13:13:55,060 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Temon, kelompok: Tirto Mulyo
+2023-10-21 13:14:01,876 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ngrayun, desa: Wonodadi, kelompok: Wono Mulyo
+2023-10-21 13:14:08,106 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Beduri, kelompok: Margo Mulyo
+2023-10-21 13:14:14,149 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Brotonegaran, kelompok: Sari Makmur
+2023-10-21 13:14:20,240 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Jingglong, kelompok: Maju Berkah
+2023-10-21 13:14:27,173 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Kauman, kelompok: Cokronegoro
+2023-10-21 13:14:35,282 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Keniten, kelompok: Ronggoniti
+2023-10-21 13:14:42,381 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Kepatihan, kelompok: Sari Tani
+2023-10-21 13:14:48,581 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Mangkujayan, kelompok: Makmur Santoso
+2023-10-21 13:14:55,774 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Paju, kelompok: Paju Makmur
+2023-10-21 13:15:02,514 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Pinggirsari, kelompok: Sari Makmur
+2023-10-21 13:15:09,298 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Purbosuman, kelompok: Purbo Manunggal
+2023-10-21 13:15:17,000 [INFO] Trying write new poktan for kab: Ponorogo, kec: Ponorogo, desa: Tonatan, kelompok: Jaya Mulya
+2023-10-21 13:15:24,317 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pudak, desa: Bareng, kelompok: Nggayuh Makmur
+2023-10-21 13:15:31,162 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Banaran, kelompok: Sejahtera
+2023-10-21 13:15:37,957 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Bedrug, kelompok: Ngudi Mulyo
+2023-10-21 13:15:44,363 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Bekiring, kelompok: Cahaya Mandiri
+2023-10-21 13:15:50,764 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Karangpatihan, kelompok: Karang Makmur
+2023-10-21 13:15:57,533 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Kesugihan, kelompok: Nggayuh Makmur
+2023-10-21 13:16:03,619 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Munggung, kelompok: Subur Waluyo
+2023-10-21 13:16:12,171 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Patik, kelompok: Patik Mulya
+2023-10-21 13:16:18,969 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Plunturan, kelompok: Sekar Arum
+2023-10-21 13:16:25,741 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Pomahan, kelompok: Margo Makmur
+2023-10-21 13:16:31,846 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Pulung, kelompok: Pulung Mukti
+2023-10-21 13:16:39,497 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Pulung Merdiko, kelompok: Jayengrono
+2023-10-21 13:16:45,635 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Serag, kelompok: Mukti Wibowo
+2023-10-21 13:16:52,483 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Sidoharjo, kelompok: Margo Rejeki
+2023-10-21 13:16:59,842 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Singgahan, kelompok: Hibrida
+2023-10-21 13:17:05,906 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Tegalrejo, kelompok: Manunggal
+2023-10-21 13:17:12,631 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Wagir Kidul, kelompok: Warga Makmur
+2023-10-21 13:17:18,717 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Wayang, kelompok: Argo Wilis
+2023-10-21 13:17:25,304 [INFO] Trying write new poktan for kab: Ponorogo, kec: Pulung, desa: Wotan, kelompok: Subur Makmur
+2023-10-21 13:17:31,946 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Bancangan, kelompok: Rukun Santosa
+2023-10-21 13:17:39,680 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Bangsalan, kelompok: Wahyu Makmur
+2023-10-21 13:17:47,102 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Bedingin, kelompok: Tani Makmur
+2023-10-21 13:17:54,140 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Besuki, kelompok: Tani Maju
+2023-10-21 13:18:00,743 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Bulu, kelompok: Subur Makmur
+2023-10-21 13:18:07,345 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Campurejo, kelompok: Rukun Makmur
+2023-10-21 13:18:13,998 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Campursari, kelompok: Tani Rukun
+2023-10-21 13:18:20,493 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Gajah, kelompok: Kontag Makmur
+2023-10-21 13:18:26,667 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Jrakah, kelompok: Jrakah Makmur
+2023-10-21 13:18:33,507 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Kemuning, kelompok: Dewi Sri
+2023-10-21 13:18:39,809 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Maguwan, kelompok: Mangun Tani
+2023-10-21 13:18:46,900 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Ngadisanan, kelompok: Tri Manunggal
+2023-10-21 13:18:52,948 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Nglewan, kelompok: Margo Mulyo
+2023-10-21 13:19:00,257 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Sambit, kelompok: Terus Maju
+2023-10-21 13:19:07,156 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Wilangan, kelompok: Subur Jaya
+2023-10-21 13:19:13,292 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sambit, desa: Wringinanom, kelompok: Margo Utomo
+2023-10-21 13:19:19,328 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Carangrejo, kelompok: Sido Mulyo
+2023-10-21 13:19:26,075 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Gelangkulon, kelompok: Sumber Kamulyan
+2023-10-21 13:19:32,757 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Glinggang, kelompok: Barokah
+2023-10-21 13:19:39,216 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Jenangan, kelompok: Masdenasa
+2023-10-21 13:19:46,518 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Karangwaluh, kelompok: Makmur
+2023-10-21 13:19:53,511 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Kunti, kelompok: Margo Mulyo
+2023-10-21 13:19:59,633 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Nglurup, kelompok: Tani Makmur
+2023-10-21 13:20:06,303 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Pagerukir, kelompok: Pager Gumolong
+2023-10-21 13:20:13,032 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Pohijo, kelompok: Rukun Makmur
+2023-10-21 13:20:19,174 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Ringinputih, kelompok: Tani Mukti
+2023-10-21 13:20:25,876 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Sampung, kelompok: Tani Lestari
+2023-10-21 13:20:32,739 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sampung, desa: Tulung, kelompok: Margo Mulyo
+2023-10-21 13:20:39,239 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Bondrang, kelompok: Bondrang Makmur
+2023-10-21 13:20:46,006 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Grogol, kelompok: Maju Terus
+2023-10-21 13:20:53,038 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Ketro, kelompok: Tri Mulya
+2023-10-21 13:20:59,245 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Kori, kelompok: Tri Manunggal
+2023-10-21 13:21:05,843 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Ngindeng, kelompok: Tani Luhur
+2023-10-21 13:21:11,999 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Pangkal, kelompok: Manunggal Jaya
+2023-10-21 13:21:18,397 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Prayungan, kelompok: Jaya Makmur
+2023-10-21 13:21:24,865 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Sawoo, kelompok: Sunan Kumbul
+2023-10-21 13:21:31,854 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Sriti, kelompok: Panggah Tani
+2023-10-21 13:21:38,048 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Temon, kelompok: Bayangkaki Makmur
+2023-10-21 13:21:44,120 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Tempuran, kelompok: Lestari Makmur
+2023-10-21 13:21:52,240 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Tugurejo, kelompok: Dwi Makmur
+2023-10-21 13:21:58,919 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Tumpak Pelem, kelompok: Rukun Tani
+2023-10-21 13:22:05,476 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sawoo, desa: Tumpuk, kelompok: Rukun Tani
+2023-10-21 13:22:11,841 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Beton, kelompok: Maju Makmur
+2023-10-21 13:22:18,143 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Brahu, kelompok: Margo Rukun
+2023-10-21 13:22:25,341 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Demangan, kelompok: Demang Jaya
+2023-10-21 13:22:31,653 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Jarak, kelompok: Sido Makmur
+2023-10-21 13:22:38,079 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Kepuhrubuh, kelompok: Manteb Abadi
+2023-10-21 13:22:44,926 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Madusari, kelompok: Sari Makmur
+2023-10-21 13:22:51,038 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Mangunsuman, kelompok: Kusumo Dani
+2023-10-21 13:22:58,319 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Manuk, kelompok: Rukun Makmur
+2023-10-21 13:23:06,090 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Ngabar, kelompok: Berkah Tani
+2023-10-21 13:23:12,880 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Patihan Kidul, kelompok: Gotama Mandiri
+2023-10-21 13:23:19,304 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Pijeran, kelompok: Sumber Tani
+2023-10-21 13:23:25,727 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Ronosentanan, kelompok: Sido Mulyo
+2023-10-21 13:23:32,274 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Ronowijayan, kelompok: Wijaya
+2023-10-21 13:23:39,040 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Sawuh, kelompok: Maju Bareng
+2023-10-21 13:23:45,707 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Sekaran, kelompok: Enggal Jaya Makmur
+2023-10-21 13:23:52,164 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Siman, kelompok: Budi Luhur
+2023-10-21 13:23:59,350 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Tajug, kelompok: Tri Tunggal Makmur
+2023-10-21 13:24:06,288 [INFO] Trying write new poktan for kab: Ponorogo, kec: Siman, desa: Tranjang, kelompok: Tani Makmur
+2023-10-21 13:24:12,774 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Broto, kelompok: Subur Makmur
+2023-10-21 13:24:18,947 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Caluk, kelompok: Makmur
+2023-10-21 13:24:26,521 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Crabak, kelompok: Sido Dadi
+2023-10-21 13:24:33,026 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Duri, kelompok: Ngudi Makmur
+2023-10-21 13:24:40,173 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Galak, kelompok: Tani Waras
+2023-10-21 13:24:46,481 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Gundik, kelompok: Catur Manunggal
+2023-10-21 13:24:52,648 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Janti, kelompok: Among Tani
+2023-10-21 13:25:00,110 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Jebeng, kelompok: Sumber Tani
+2023-10-21 13:25:07,667 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Kambeng, kelompok: Setyo Rukun
+2023-10-21 13:25:15,657 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Menggare, kelompok: Gemah Ripah
+2023-10-21 13:25:22,128 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Mojopitu, kelompok: Rukun Santoso
+2023-10-21 13:25:29,115 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Nailan, kelompok: Mulya Jaya
+2023-10-21 13:25:35,888 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Ngilo-Ilo, kelompok: Mitra Usaha Tani
+2023-10-21 13:25:42,856 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Ngloning, kelompok: Bali Rukun
+2023-10-21 13:25:50,093 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Plancungan, kelompok: Sido Rukun
+2023-10-21 13:25:56,997 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Senepo, kelompok: Ngudi Makmur
+2023-10-21 13:26:04,381 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Simo, kelompok: Binta Tani
+2023-10-21 13:26:11,579 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Slahung, kelompok: Santoso Makmur
+2023-10-21 13:26:19,441 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Truneng, kelompok: Sumber Mulyo
+2023-10-21 13:26:26,929 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Tugurejo, kelompok: Among Kismo
+2023-10-21 13:26:34,777 [INFO] Trying write new poktan for kab: Ponorogo, kec: Slahung, desa: Wates, kelompok: Lestari Mulyo
+2023-10-21 13:26:42,732 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sooko, desa: Bedoho, kelompok: Tani Manunggal
+2023-10-21 13:26:49,099 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sooko, desa: Jurug, kelompok: Bina Tani
+2023-10-21 13:26:57,737 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sooko, desa: Klepu, kelompok: Klepu Manunggal
+2023-10-21 13:27:04,337 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sooko, desa: Ngadirojo, kelompok: Arjo Bawono
+2023-10-21 13:27:11,635 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sooko, desa: Sooko, kelompok: Sooko Makmur
+2023-10-21 13:27:18,401 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sooko, desa: Suru, kelompok: Sumber Makmur
+2023-10-21 13:27:26,165 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Bangunrejo, kelompok: Bangun Tani
+2023-10-21 13:27:32,859 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Gandukepuh, kelompok: Rukun Tani
+2023-10-21 13:27:40,125 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Gegeran, kelompok: Kamboja
+2023-10-21 13:27:48,353 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Gelang Lor, kelompok: Bumilang Sejahtera
+2023-10-21 13:27:54,996 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Kedungbanteng, kelompok: Mitra Asih
+2023-10-21 13:28:01,791 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Lengkong, kelompok: Jaya Makmur
+2023-10-21 13:28:08,345 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Nampan, kelompok: Sari Tani
+2023-10-21 13:28:15,396 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Prajegan, kelompok: Tunas Mulya
+2023-10-21 13:28:23,077 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Serangan, kelompok: Fajar Rejeki
+2023-10-21 13:28:29,860 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Sidorejo, kelompok: Bina Mandiri
+2023-10-21 13:28:36,548 [INFO] Trying write new poktan for kab: Ponorogo, kec: Sukorejo, desa: Sukorejo, kelompok: Suko Dadi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    2023-10-21 12:56:49,734 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh Gugung, kelompok: Juma Pulo
+2023-10-21 12:56:56,944 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Lepar
+2023-10-21 12:57:04,072 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Simokul-Okul
+2023-10-21 12:57:12,078 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Bulan Gugong
+2023-10-21 12:57:18,686 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Lau Perenden
+2023-10-21 12:57:25,580 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Kendit Kenjahe
+2023-10-21 12:57:31,940 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Lau Batu
+2023-10-21 12:57:38,501 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Nagor
+2023-10-21 12:57:45,052 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Pola Ketik
+2023-10-21 12:57:51,697 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Uruk Ndoholi
+2023-10-21 12:57:58,214 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Uruk Tekang
+2023-10-21 12:58:06,270 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Bintang Meriah, kelompok: Bagerih
+2023-10-21 12:58:13,073 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Juma Jering
+2023-10-21 12:58:22,188 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Sembara Berneh
+2023-10-21 12:58:30,520 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Sampaharu
+2023-10-21 12:58:38,241 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Rusip
+2023-10-21 12:58:44,381 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Kacudan
+2023-10-21 12:58:50,634 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Saringgemit
+2023-10-21 12:58:56,935 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Pancor Damak
+2023-10-21 12:59:03,723 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Juma Tinjo
+2023-10-21 12:59:10,400 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Sumbah Lau Beski
+2023-10-21 12:59:17,555 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Kedatun
+2023-10-21 12:59:23,765 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Lau Pudan
+2023-10-21 12:59:30,391 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Kuta Pinang
+2023-10-21 12:59:38,166 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Pejerango Lau Ngeli
+2023-10-21 12:59:44,845 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Sumbah Gugung
+2023-10-21 12:59:51,148 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Nisipi
+2023-10-21 12:59:57,983 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Sumbah Berneh
+2023-10-21 13:00:05,046 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Sembara Gugung
+2023-10-21 13:00:11,243 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kutabuluh, kelompok: Pola Singa
+2023-10-21 13:00:17,344 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Gunung Meriah, kelompok: Uruk Pacinta
+2023-10-21 13:00:24,889 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Gunung Meriah, kelompok: Urok Tonggal
+2023-10-21 13:00:31,068 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Gunung Meriah, kelompok: Banjar Mbelang
+2023-10-21 13:00:37,705 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Gunung Meriah, kelompok: Paya Nderket
+2023-10-21 13:00:47,822 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Gunung Meriah, kelompok: Juma Deleng
+2023-10-21 13:00:54,375 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Buah Raya, kelompok: Beturah
+2023-10-21 13:01:01,451 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Buah Raya, kelompok: Kuta Tualah
+2023-10-21 13:01:09,114 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Buah Raya, kelompok: Sinalsal
+2023-10-21 13:01:17,682 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Buah Raya, kelompok: Ersam
+2023-10-21 13:01:26,334 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Buah Raya, kelompok: Simulgap
+2023-10-21 13:01:33,059 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Buah Raya, kelompok: Rimo Kayu
+2023-10-21 13:01:39,131 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Pola Tebu, kelompok: Lau Gerogoh
+2023-10-21 13:01:46,563 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Pola Tebu, kelompok: Pande Bayang
+2023-10-21 13:01:53,076 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Pola Tebu, kelompok: Lau Angkat
+2023-10-21 13:01:59,486 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Pola Tebu, kelompok: Rumah Kuta
+2023-10-21 13:02:06,077 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Pola Tebu, kelompok: Rambah Ingul
+2023-10-21 13:02:12,249 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Pola Tebu, kelompok: Rambah Galoh
+2023-10-21 13:02:18,492 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kuta Male, kelompok: Juma Baling-baling
+2023-10-21 13:02:24,737 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kuta Male, kelompok: Juma Lau Ngalam
+2023-10-21 13:02:30,949 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kuta Male, kelompok: Juma Lau Riman
+2023-10-21 13:02:38,495 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kuta Male, kelompok: Juma Paya Gugung
+2023-10-21 13:02:44,701 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kuta Male, kelompok: Lau Butar
+2023-10-21 13:02:50,883 [INFO] Trying write new poktan for kab: Karo, kec: Kutabuluh, desa: Kuta Male, kelompok: Pacike
+2023-10-21 13:02:57,186 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Jumpa Rejeki
+2023-10-21 13:03:03,583 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Paya Paku
+2023-10-21 13:03:10,493 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Rumah Pengulun
+2023-10-21 13:03:17,053 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Sangap Encari
+2023-10-21 13:03:26,071 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Bina Usaha
+2023-10-21 13:03:33,000 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Tunas Jadi Batang
+2023-10-21 13:03:40,424 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Andiko Ulina
+2023-10-21 13:03:46,526 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Ajar Bancina
+2023-10-21 13:03:54,597 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Rudang Mayang
+2023-10-21 13:04:00,850 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Harapan Jaya
+2023-10-21 13:04:07,531 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Aglonema
+2023-10-21 13:04:14,724 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Bunga Jadi Buah
+2023-10-21 13:04:21,722 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka, kelompok: Seh Jilena
+2023-10-21 13:04:28,033 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Maju Bersama
+2023-10-21 13:04:35,326 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Mandiri Sejahtera
+2023-10-21 13:04:41,669 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Rumah Pilihen Simalem
+2023-10-21 13:04:48,467 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Maju Bersama Abadi
+2023-10-21 13:04:56,284 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Ersinalsal
+2023-10-21 13:05:02,954 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Sinergi Fajar Harapan
+2023-10-21 13:05:11,429 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Lit Malemna
+2023-10-21 13:05:17,555 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Srikandi
+2023-10-21 13:05:24,109 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Mbayak, kelompok: Maju Bersama Sejati
+2023-10-21 13:05:31,250 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Sipilihen, kelompok: Juma Sempulen Angin
+2023-10-21 13:05:37,936 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Sipilihen, kelompok: Karya Bersama
+2023-10-21 13:05:44,608 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Sipilihen, kelompok: Silindung Bulan Jabu Nderket
+2023-10-21 13:05:51,576 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Sipilihen, kelompok: Simulih Karaben
+2023-10-21 13:05:58,163 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Sipilihen, kelompok: Bina Tani
+2023-10-21 13:06:05,848 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Suka Sipilihen, kelompok: Mbuah Page
+2023-10-21 13:06:13,381 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Lambar, kelompok: Mawar
+2023-10-21 13:06:19,523 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Lambar, kelompok: Melati
+2023-10-21 13:06:25,688 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Juma Luning
+2023-10-21 13:06:32,180 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Sepopo
+2023-10-21 13:06:38,321 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Radu Namaken Kekelengen
+2023-10-21 13:06:44,808 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Arih Ersada
+2023-10-21 13:06:51,229 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Juma Kenjahe
+2023-10-21 13:06:57,575 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Maju Bersama
+2023-10-21 13:07:03,884 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Sada Perarih
+2023-10-21 13:07:11,485 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Goxen
+2023-10-21 13:07:19,443 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Em'Praninta
+2023-10-21 13:07:26,199 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Mejuah-juah
+2023-10-21 13:07:32,563 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Sempakata
+2023-10-21 13:07:39,389 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Rumah Rih
+2023-10-21 13:07:45,457 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Sierduhum
+2023-10-21 13:07:51,772 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Bunuraya, kelompok: Sada Nioga
+2023-10-21 13:07:58,879 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Mulawari, kelompok: Sumber Jaya
+2023-10-21 13:08:06,688 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Mulawari, kelompok: Gotong Royong
+2023-10-21 13:08:13,195 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Mulawari, kelompok: Ula Rayung
+2023-10-21 13:08:20,626 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Mulawari, kelompok: Maju Bersama
+2023-10-21 13:08:28,057 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Mulawari, kelompok: Mitra Karya Bersama
+2023-10-21 13:08:34,906 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Mulawari, kelompok: Erguna
+2023-10-21 13:08:41,643 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Arih Ersada
+2023-10-21 13:08:48,769 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Harapan Jaya
+2023-10-21 13:08:55,780 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Sempakata
+2023-10-21 13:09:03,081 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Dame Tani
+2023-10-21 13:09:09,781 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Harapan Tani
+2023-10-21 13:09:15,947 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Kata Ersada
+2023-10-21 13:09:22,421 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Rejekinta
+2023-10-21 13:09:29,305 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Jore Tani
+2023-10-21 13:09:37,058 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Hidup Baru
+2023-10-21 13:09:43,488 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Tigapanah, kelompok: Sepenggejapen
+2023-10-21 13:09:50,699 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Leparsamura, kelompok: Juma Baris II
+2023-10-21 13:09:58,567 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Leparsamura, kelompok: Juma Serningen
+2023-10-21 13:10:05,145 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Leparsamura, kelompok: Juma Gerat
+2023-10-21 13:10:11,218 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Leparsamura, kelompok: Juma Tumande
+2023-10-21 13:10:17,697 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Dalan Lau Simomo
+2023-10-21 13:10:24,386 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Singa Jaya
+2023-10-21 13:10:31,066 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Guna Tani
+2023-10-21 13:10:37,859 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Arih Ersada
+2023-10-21 13:10:44,915 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Beras Pati
+2023-10-21 13:10:51,371 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Biak Kuliki
+2023-10-21 13:10:57,913 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: WT Gunanta Ras
+2023-10-21 13:11:04,883 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Lau Piga
+2023-10-21 13:11:11,463 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Marsima
+2023-10-21 13:11:18,959 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Singa, kelompok: Juma Kenjahe
+2023-10-21 13:11:25,601 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Wanita Tani
+2023-10-21 13:11:33,531 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Sangap Encari
+2023-10-21 13:11:39,707 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Pelangi
+2023-10-21 13:11:46,237 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Arih Ersada
+2023-10-21 13:11:52,515 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Merga Silima
+2023-10-21 13:11:59,377 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Ora Et Labora
+2023-10-21 13:12:05,864 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Mari Ras Seha
+2023-10-21 13:12:12,384 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Salit, kelompok: Juma Salit
+2023-10-21 13:12:19,283 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Sukadame, kelompok: Sada Arihta
+2023-10-21 13:12:26,583 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Sukadame, kelompok: Srikandi
+2023-10-21 13:12:32,998 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Sukadame, kelompok: Buah Meramis
+2023-10-21 13:12:40,150 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Sukadame, kelompok: Sada Nioga
+2023-10-21 13:12:46,737 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Sukadame, kelompok: Teman Meriah
+2023-10-21 13:12:54,386 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Sukadame, kelompok: Bunga Encole
+2023-10-21 13:13:01,227 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Lau Ngelbuh
+2023-10-21 13:13:08,286 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Biak Kuliki
+2023-10-21 13:13:15,217 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Ajikinayan
+2023-10-21 13:13:21,845 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Juma Kenjahe
+2023-10-21 13:13:28,373 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Sendalanen
+2023-10-21 13:13:35,444 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Tambusen
+2023-10-21 13:13:42,332 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Ujung Suka
+2023-10-21 13:13:49,471 [INFO] Trying write new poktan for kab: Karo, kec: Tigapanah, desa: Kutambelin, kelompok: Juma Paya
+2023-10-21 13:13:55,925 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Perbaji, kelompok: Arih Ersada
+2023-10-21 13:14:03,807 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Perbaji, kelompok: Ulih Sabar
+2023-10-21 13:14:11,141 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Perbaji, kelompok: Sabah Berneh
+2023-10-21 13:14:18,591 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Perbaji, kelompok: Ulih Latih
+2023-10-21 13:14:25,840 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Perbaji, kelompok: Terpadu
+2023-10-21 13:14:32,836 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Perbaji, kelompok: Gunanta Ras
+2023-10-21 13:14:39,728 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Perbaji, kelompok: Juma Gugung
+2023-10-21 13:14:46,334 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Juma Tualah
+2023-10-21 13:14:54,387 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Juma Bekerah
+2023-10-21 13:15:01,877 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Taka Empat
+2023-10-21 13:15:08,882 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Ola Kisat
+2023-10-21 13:15:15,826 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Juma Saburak
+2023-10-21 13:15:22,207 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Erkaliaga
+2023-10-21 13:15:28,820 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Pandaken
+2023-10-21 13:15:35,601 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Sada Nioga
+2023-10-21 13:15:42,246 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Lau Bentayan
+2023-10-21 13:15:49,223 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Jalontih
+2023-10-21 13:15:56,230 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Arih Ersada
+2023-10-21 13:16:04,746 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Sukatendel, kelompok: Sikuning - Kuningan
+2023-10-21 13:16:11,467 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Kenjahe I
+2023-10-21 13:16:19,619 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Gerat Mbergo
+2023-10-21 13:16:25,929 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Buah
+2023-10-21 13:16:33,381 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Bangun Mulia II
+2023-10-21 13:16:40,906 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Cingkam
+2023-10-21 13:16:47,111 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Kenjahe III
+2023-10-21 13:16:53,652 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Kenjahe II
+2023-10-21 13:16:59,807 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Mbetong
+2023-10-21 13:17:06,377 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Bangun Mulia I
+2023-10-21 13:17:14,415 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Juma Kenjahe IV
+2023-10-21 13:17:21,396 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Terong Peren I
+2023-10-21 13:17:28,375 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Terong Peren II
+2023-10-21 13:17:34,997 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Jandimeriah, kelompok: Bangun Mulia III
+2023-10-21 13:17:41,790 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Sapolentik
+2023-10-21 13:17:47,896 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Lau Mangkok
+2023-10-21 13:17:55,085 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Juma Mbelang
+2023-10-21 13:18:01,324 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Juma Kepoh
+2023-10-21 13:18:07,533 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Lau Tambak Saribu
+2023-10-21 13:18:15,113 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Juma Ciger
+2023-10-21 13:18:22,312 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Juma Nangka
+2023-10-21 13:18:30,244 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Buah Periran
+2023-10-21 13:18:36,507 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Lau Banban
+2023-10-21 13:18:43,971 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Juma Kenjulu
+2023-10-21 13:18:51,530 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Juma Semebok
+2023-10-21 13:18:58,548 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Tiganderket, kelompok: Lau Tengguli
+2023-10-21 13:19:05,847 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Narigunung I, kelompok: Lau Jering
+2023-10-21 13:19:12,403 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Narigunung I, kelompok: Juma Pasar
+2023-10-21 13:19:19,988 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Narigunung I, kelompok: Dalan Tengah
+2023-10-21 13:19:26,236 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Narigunung I, kelompok: Lau Kormak
+2023-10-21 13:19:32,760 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Narigunung I, kelompok: Durin Sirulo
+2023-10-21 13:19:39,608 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Narigunung I, kelompok: Uruk Pelangkah
+2023-10-21 13:19:46,008 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Tanji Gugung
+2023-10-21 13:19:52,807 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Uruk Meganjang
+2023-10-21 13:19:59,323 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Lau Jering
+2023-10-21 13:20:05,623 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Uruk Berteng
+2023-10-21 13:20:11,785 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Juma Kenjulu
+2023-10-21 13:20:18,308 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Sari Lumut
+2023-10-21 13:20:25,243 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Uruk Gedang
+2023-10-21 13:20:31,384 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Penampen, kelompok: Romance
+2023-10-21 13:20:37,511 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Gunung Merlawan, kelompok: Ola Kisat
+2023-10-21 13:20:43,843 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Gunung Merlawan, kelompok: Arih Ersada
+2023-10-21 13:20:50,082 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Gunung Merlawan, kelompok: Eka Deba
+2023-10-21 13:20:57,741 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutakepar, kelompok: Juma Uruk Mbelin
+2023-10-21 13:21:03,917 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutakepar, kelompok: Juma Pusong-Pusong
+2023-10-21 13:21:10,514 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Urok
+2023-10-21 13:21:16,738 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Talin Kuta
+2023-10-21 13:21:22,881 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Suka Ribu
+2023-10-21 13:21:29,452 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Tambak
+2023-10-21 13:21:35,485 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Ciger
+2023-10-21 13:21:41,934 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Lepar
+2023-10-21 13:21:49,756 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Kenjulu
+2023-10-21 13:21:56,467 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Lau Dalih Simalem
+2023-10-21 13:22:03,238 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Sempinor
+2023-10-21 13:22:09,877 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Baluren Gedang
+2023-10-21 13:22:16,504 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutagaluh, kelompok: Juma Rakit
+2023-10-21 13:22:23,332 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Temburun, kelompok: Juma Lau Paya
+2023-10-21 13:22:29,777 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Temburun, kelompok: Juma Batu
+2023-10-21 13:22:36,461 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Temburun, kelompok: Juma Gugung
+2023-10-21 13:22:43,037 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Temburun, kelompok: Juma Njulu
+2023-10-21 13:22:49,719 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Berneh
+2023-10-21 13:22:56,543 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Polaraya
+2023-10-21 13:23:02,666 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Baluren
+2023-10-21 13:23:10,906 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Batu
+2023-10-21 13:23:17,182 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Tangga
+2023-10-21 13:23:24,041 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Singkut Nihan
+2023-10-21 13:23:30,937 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Deleng Susuk
+2023-10-21 13:23:37,300 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Garut
+2023-10-21 13:23:43,970 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Tampe
+2023-10-21 13:23:51,450 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Rambah Tampu
+2023-10-21 13:23:58,414 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Sekendit
+2023-10-21 13:24:10,715 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Bencirum
+2023-10-21 13:24:17,522 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Telong Ketik
+2023-10-21 13:24:24,213 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Susuk, kelompok: Juma Biru
+2023-10-21 13:24:30,822 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Pola Cimbang
+2023-10-21 13:24:37,765 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Jalungga
+2023-10-21 13:24:44,532 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Burun Tua
+2023-10-21 13:24:50,899 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Batu Keliat
+2023-10-21 13:24:58,022 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Lige - Lige
+2023-10-21 13:25:04,218 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Jaya Lestari
+2023-10-21 13:25:12,338 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Sireme
+2023-10-21 13:25:18,742 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Kutambaru, kelompok: Lau Mangkok
+2023-10-21 13:25:25,284 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Tagan Telu
+2023-10-21 13:25:31,628 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Mbergang
+2023-10-21 13:25:38,180 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Selendi
+2023-10-21 13:25:44,357 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Pulo
+2023-10-21 13:25:50,777 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Tanah  Gara
+2023-10-21 13:25:58,269 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Bakerah Mbelin
+2023-10-21 13:26:04,636 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Suki
+2023-10-21 13:26:11,365 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Kalimpon
+2023-10-21 13:26:17,779 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Uruk
+2023-10-21 13:26:24,101 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Pusong-pusong
+2023-10-21 13:26:32,096 [INFO] Trying write new poktan for kab: Karo, kec: Tiganderket, desa: Mardingding, kelompok: Juma Buah
+2023-10-21 13:26:41,031 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Moria IV
+2023-10-21 13:26:47,611 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Kenjahe
+2023-10-21 13:26:54,861 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Lau Tuba
+2023-10-21 13:27:02,513 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Melas
+2023-10-21 13:27:10,106 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Louning
+2023-10-21 13:27:16,419 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Sepang
+2023-10-21 13:27:22,659 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Uruk Puntung
+2023-10-21 13:27:29,060 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Reba
+2023-10-21 13:27:36,096 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Aisyah
+2023-10-21 13:27:42,414 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Sepandak
+2023-10-21 13:27:49,047 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Lau Buluh
+2023-10-21 13:27:55,993 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Simalem II
+2023-10-21 13:28:02,354 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Biak Rawan
+2023-10-21 13:28:09,084 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Rumah Nangka
+2023-10-21 13:28:15,286 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Uruk Perlamben
+2023-10-21 13:28:21,901 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Juma Lepar
+2023-10-21 13:28:28,908 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Beganding, kelompok: Arih Ersada
+2023-10-21 13:28:36,227 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Persoten
+2023-10-21 13:28:42,905 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Jalang
+2023-10-21 13:28:49,263 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Namo raya
+2023-10-21 13:28:55,731 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma simuk-muk
+2023-10-21 13:29:02,719 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Buah Sinuan
+2023-10-21 13:29:09,781 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Rakit
+2023-10-21 13:29:16,226 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Lepar I
+2023-10-21 13:29:22,423 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: 
+2023-10-21 13:29:28,771 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Lepar
+2023-10-21 13:29:39,161 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Nangbelawan, kelompok: Juma Kesumpat
+2023-10-21 13:29:45,453 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Arih Ersada
+2023-10-21 13:29:52,156 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Juma Tampe
+2023-10-21 13:29:59,112 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Simulih Karaben
+2023-10-21 13:30:06,792 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Juma Kenjulu I
+2023-10-21 13:30:14,083 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Juma Kenjulu II
+2023-10-21 13:30:21,218 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Juma Lau Gerat
+2023-10-21 13:30:28,367 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Juma Serasi
+2023-10-21 13:30:35,090 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Juma Sekula
+2023-10-21 13:30:41,265 [INFO] Trying write new poktan for kab: Karo, kec: Simpang Empat, desa: Sirumbia, kelompok: Juma Lau Bengkuang
+2023-10-21 13:30:48,059 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Lau Simomo, kelompok: Juma Berneh
+2023-10-21 13:30:54,673 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Lau Simomo, kelompok: Juma Kenjahe
+2023-10-21 13:31:00,889 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Lau Simomo, kelompok: Juma Kampung Baru
+2023-10-21 13:31:07,547 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Lau Simomo, kelompok: Juma Uruk
+2023-10-21 13:31:14,280 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Lau Simomo, kelompok: Juma Sosial
+2023-10-21 13:31:20,995 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Lau Simomo, kelompok: Juma Kesain Mbelang
+2023-10-21 13:31:28,305 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Sangap Encari
+2023-10-21 13:31:35,374 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Tengah
+2023-10-21 13:31:42,567 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Saringgetep
+2023-10-21 13:31:49,206 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Binara
+2023-10-21 13:31:55,651 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Begayo
+2023-10-21 13:32:01,810 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Tambak
+2023-10-21 13:32:08,035 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Tungkup
+2023-10-21 13:32:15,368 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Tenembuk
+2023-10-21 13:32:22,438 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Juma Eluk
+2023-10-21 13:32:36,957 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Rumah Selat
+2023-10-21 13:32:44,448 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Pola Munte
+2023-10-21 13:32:51,795 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Sada Nioga
+2023-10-21 13:32:58,879 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Lau Sianak
+2023-10-21 13:33:06,069 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Rudang Tani
+2023-10-21 13:33:12,390 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Buluh Duri
+2023-10-21 13:33:19,109 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Kerangen Kutajulu
+2023-10-21 13:33:26,057 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Kandibata, kelompok: Rembang Tengah
+2023-10-21 13:33:32,904 [INFO] Trying write new poktan for kab: Karo, kec: Kabanjahe, desa: Samura, kelompok: Tangan baju
+2023-10-21 13:33:40,256 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kem Kem, kelompok: Juma Deleng
+2023-10-21 13:33:46,576 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kem Kem, kelompok: Juma Kendit
+2023-10-21 13:33:52,730 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kem Kem, kelompok: Kerangen Telu-telu
+2023-10-21 13:33:59,368 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kem Kem, kelompok: Kemiri
+2023-10-21 13:34:05,872 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kem Kem, kelompok: Tongkoh
+2023-10-21 13:34:12,068 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Buah Leweh
+2023-10-21 13:34:19,063 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Dalan Kuda
+2023-10-21 13:34:25,702 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Uruk Kenas
+2023-10-21 13:34:33,047 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Uruk Jawi
+2023-10-21 13:34:39,264 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Kuta Jahe
+2023-10-21 13:34:46,378 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Tangger
+2023-10-21 13:34:52,588 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Napa
+2023-10-21 13:34:58,805 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Buloh Duri
+2023-10-21 13:35:05,634 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Paya Sulangat
+2023-10-21 13:35:12,612 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Perbesi, kelompok: Mondul
+2023-10-21 13:35:18,875 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuta Bangun, kelompok: Mbuah Page
+2023-10-21 13:35:25,344 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Simolap, kelompok: Pancur Timah
+2023-10-21 13:35:31,998 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuta Buara, kelompok: Paya Mbelang
+2023-10-21 13:35:38,806 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Suka Julu, kelompok: Paya Tereb
+2023-10-21 13:35:44,761 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kutambaru Punti, kelompok: Kuta Mbaru Punti I
+2023-10-21 13:35:52,962 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Batumamak, kelompok: Lau Tambak
+2023-10-21 13:36:00,496 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Limang, kelompok: Lau Kami
+2023-10-21 13:36:06,674 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Limang, kelompok: Kerenda
+2023-10-21 13:36:12,942 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Limang, kelompok: Kuta Jahe
+2023-10-21 13:36:19,910 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuta Gerat, kelompok: Kuta Gerat Simalem
+2023-10-21 13:36:26,929 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuta Gerat, kelompok: Lau Tepian Simalem
+2023-10-21 13:36:33,604 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuta Gerat, kelompok: Paya Jering
+2023-10-21 13:36:40,487 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuta Gerat, kelompok: Tongkeh Mbiring
+2023-10-21 13:36:46,940 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuta Gerat, kelompok: Uruk Pacinta
+2023-10-21 13:36:54,603 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Bunga Baru, kelompok: Paya Ingul
+2023-10-21 13:37:02,559 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Kuala, kelompok: Juma Buluh
+2023-10-21 13:37:08,831 [INFO] Trying write new poktan for kab: Karo, kec: Tigabinanga, desa: Gunung, kelompok: Batu Gale
