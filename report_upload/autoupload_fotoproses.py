@@ -5,12 +5,28 @@ from selenium.webdriver.common.by import By
 import logging
 from selenium.webdriver.support.ui import Select
 import time
+import base64
+from PIL import Image
+from io import BytesIO
+
+from bs4 import BeautifulSoup
+import csv
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+
+import base64
+from PIL import Image
+from io import BytesIO
 
 
 class MultiChromeDriver:
     def __init__(self, num_drivers=1):
         self.num_drivers = num_drivers
         self.drivers = []
+        self.login_status = False
 
         for _ in range(self.num_drivers):
             options = webdriver.ChromeOptions()
@@ -27,7 +43,8 @@ class MultiChromeDriver:
             driver.quit()
 
     def login(self, driver, email, password):
-        login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+        # while self.login_status == False:
+        login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         driver.get(login_url)
 
         email_input = driver.find_element(By.NAME, "email")
@@ -36,20 +53,53 @@ class MultiChromeDriver:
         password_input = driver.find_element(By.NAME, "password")
         password_input.send_keys(password)
 
+        captcha_input = input("Masukkan Captcha: ")
+
+        # Masukkan nilai ke dalam elemen input
+        captcha_textbox = driver.find_element(By.ID, "captcha")
+        captcha_textbox.send_keys(captcha_input)
+
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
+        # element_ulang = WebDriverWait(driver, 5).until(
+        #     EC.presence_of_element_located((By.NAME, "email"))
+        # )
+
+        # if element_ulang == False:
+        #     self.login_status == True
+
     def input(self, driver, img, progress, keterangan):
-        time.sleep(2)
-        progres_select = Select(driver.find_element(By.NAME, "progres"))
+        # try:
+        #     # Cek apakah elemen dengan class "modal-content" ada
+        #     modal_content = WebDriverWait(driver, 20).until(
+        #         EC.presence_of_element_located((By.CLASS_NAME, "modal-content"))
+        #     )
+        # except:
+        #     # Jika tidak, cari elemen dengan tautan yang sesuai dan klik
+        #     tambah_button = WebDriverWait(driver, 20).until(
+        #         EC.presence_of_element_located(
+        #             (By.XPATH, '//a[contains(@href, "foto_proses/create")]')
+        #         )
+        #     )
+        #     tambah_button.click()
+        time.sleep(5)
+        progres_select = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "progres"))
+        )
+        progres_select = Select(progres_select)
         progres_select.select_by_value(progress)
 
-        # isi file gambar
-        image_input = driver.find_element(By.NAME, "file_foto_proses")
+        # Menunggu elemen dengan menggunakan WebDriverWait
+        image_input = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "file_foto_proses"))
+        )
         image_input.send_keys(img)
 
-        # Isi textarea perihal
-        perihal_textarea = driver.find_element(By.NAME, "keterangan")
+        # Menunggu elemen dengan menggunakan WebDriverWait
+        perihal_textarea = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "keterangan"))
+        )
         perihal_textarea.send_keys(keterangan)
 
 
@@ -79,18 +129,18 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/link_bondowoso.csv"
+    csv_file = "./csv/link_karo2.csv"
     num_drivers = 1  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
     keterangan = "foto 50 persen"
     progress = "50"  # pilih "50" / "100"
     img_file = (
-        "C:/Users/ramad/OneDrive/Dokumen/BAN_autofill/img/foto_proses_50_bondowoso.jpg"
+        "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/karo/OC/foto distribusi 50.jpeg"
     )
 
     try:
         email = "bast@binaagrosiwimandiri.com"
-        password = "Lapor"
+        password = "L@por@n_"
 
         for index in range(num_drivers):
             driver = multi_driver.get_driver(index)
@@ -103,7 +153,7 @@ if __name__ == "__main__":
             temp_data = []
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
-                temp_data.append((row["situs"], row["image"]))
+                temp_data.append((row["situs"]), (row["poktan"]))
 
                 #  jika sudah kelipatan sebanyak num_driver
                 if (index + 1) % num_drivers == 0:
@@ -113,7 +163,7 @@ if __name__ == "__main__":
                             target=get_url,
                             args=(
                                 multi_driver.get_driver(j),  # mengambil driver ke
-                                temp_data[j][0],
+                                temp_data[j],
                                 j,
                             ),
                         )
@@ -134,7 +184,7 @@ if __name__ == "__main__":
                         )
                         print("mengisi driver ke", k, "dengan", temp_data[k][1])
                         logging.info(
-                            f"Filled form for situs: {temp_data[k][0]}, img_file: {temp_data[k][1]}"
+                            f"Filled form for situs: {temp_data[k][0]}, poktan : {temp_data[k][1]}"
                         )
 
                     # mengosongkan data sementara dan threads

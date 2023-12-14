@@ -59,7 +59,7 @@ class driverChrome:
             EC.presence_of_element_located(
                 (
                     By.XPATH,
-                    f'//a[@aria-controls="kt_datatable" and @data-dt-idx="{self.page_number-1}"]',
+                    f'//a[@aria-controls="kt_datatable" and text()="{self.page_number - 1}"]',
                 )
             )
         )
@@ -105,11 +105,11 @@ class driverChrome:
 
 
 if __name__ == "__main__":
-    url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/detail_kegiatan?delegasiid=2482"
+    url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/detail_kegiatan?delegasiid=3028"
     email = "bast@binaagrosiwimandiri.com"
     password = "Lapor"
-    out_name = "./csv/link_batu_bara.csv"
-    page_max = 2
+    out_name = "./csv/link_karo2.csv"
+    page_max = 11
 
     try:
         Chrome = driverChrome()

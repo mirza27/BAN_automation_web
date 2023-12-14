@@ -7,9 +7,7 @@ BUAT RUMAHAN KONTRAK
 BUAT POKTAN YANG BELUM ADA
 
 REPORT KAMPAR :
-ada nama poktan sama
-Riau Kampar Tambang Tambang Bonca Umbai Asmidar 1401034102650004 9 45
-diganti menjadi Bonca Umbai II
+347, poktan sama (Bonca Umbai jadi Bonca Umbai II)
 
 REPORT TAKALAR :
 1297, desa tidak exist (Galesong jadi bontoloe)
@@ -38,4 +36,4 @@ REPORT KARO
 460, poktan sama dengan 459 (Rulih Adi Mejingkat II jadi Rulih Adi Mejingkat I)
 
 REPORT KARO
-1434, poktan tidak ada
+1434, poktan tidak ada (jadi 'Sementara')

@@ -109,10 +109,10 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/link_tana_toraja2.csv"
+    csv_file = "./csv/link_ponorogo2.csv"
     # num_drivers = 1  # Ganti sesuai kebutuhan
-    spk_file = "48/PROD/PPK-PSP.05/KONTRAK/08/2023"  # sesuai element htmlnya
-    spk_id = "spkid_10029"
+    spk_file = "67/PROD/PPK-PSP.05/KONTRAK/09/2023"  # sesuai element htmlnya
+    spk_id = "spkid_10773"
 
     # Membuat parser argumen
     parser = argparse.ArgumentParser(description="Contoh penggunaan argumen.")

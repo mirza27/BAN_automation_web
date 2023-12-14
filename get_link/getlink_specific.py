@@ -9,6 +9,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.keys import Keys
 
+import base64
+from PIL import Image
+from io import BytesIO
+
 
 class driverChrome:
     def __init__(self):
@@ -18,7 +22,7 @@ class driverChrome:
         self.data = []  # link poktan dalam 1 desa
 
     def login(self, email, password):
-        login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+        login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         self.driver.get(login_url)
 
         email_input = self.driver.find_element(By.NAME, "email")
@@ -26,6 +30,37 @@ class driverChrome:
 
         password_input = self.driver.find_element(By.NAME, "password")
         password_input.send_keys(password)
+
+        # tes chactha
+        captcha_element = WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "captcha"))
+        )
+
+        # Dapatkan atribut 'src' dari elemen gambar Captcha
+        captcha_image_element = captcha_element.find_element(By.TAG_NAME, "img")
+        captcha_image_src = captcha_image_element.get_attribute("src")
+
+        # Ambil bagian base64 dari data URL
+        base64_image = captcha_image_src.split(",")[1]
+
+        # Dekode base64 menjadi data biner
+        binary_image = base64.b64decode(base64_image)
+
+        # Simpan data biner sebagai gambar (Opsional, hanya untuk pemeriksaan)
+        with open("captcha_image.png", "wb") as img_file:
+            img_file.write(binary_image)
+
+        # Gunakan PIL untuk membuka dan memproses gambar (Opsional)
+        image = Image.open(BytesIO(binary_image))
+
+        # Lakukan apa pun yang diperlukan dengan gambar, misalnya, tampilkan gambar
+        image.show()
+
+        captcha_input = input("Masukkan Captcha: ")
+
+        # Masukkan nilai ke dalam elemen input
+        captcha_textbox = self.driver.find_element(By.ID, "captcha")
+        captcha_textbox.send_keys(captcha_input)
 
         login_button = self.driver.find_element(
             By.CSS_SELECTOR, 'button[type="submit"]'
@@ -71,6 +106,8 @@ class driverChrome:
         end = div_text.find(" entries")
         if start != -1 and end != -1:
             number = div_text[start:end]
+            number = number.replace(",", "")  # jika ada koma
+            print(number)
             number = int((int(number) / 100) + 1)
             print("Halaman yang diambil:", number)
         else:
@@ -87,7 +124,7 @@ class driverChrome:
             EC.presence_of_element_located(
                 (
                     By.XPATH,
-                    f'//a[@aria-controls="kt_datatable" and @data-dt-idx="{self.page_number-1}"]',
+                    f'//a[@aria-controls="kt_datatable" and text()="{self.page_number - 1}"]',
                 )
             )
         )
@@ -133,12 +170,12 @@ class driverChrome:
 
 
 if __name__ == "__main__":
-    url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/detail_kegiatan?delegasiid=2487"
+    url = "https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/105466/detail_kegiatan?delegasiid=3028"
     email = "bast@binaagrosiwimandiri.com"
-    password = "Lapor"
-    out_name = "./csv/link_tana_toraja2.csv"
-    page_max = 2
-    percentage = "15%"
+    password = "L@por@n_"
+    out_name = "./csv/link_karo.csv"
+    page_max = 11
+    percentage = "31%"
 
     try:
         Chrome = driverChrome()

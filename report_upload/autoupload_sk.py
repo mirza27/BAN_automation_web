@@ -111,10 +111,10 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv1 = "./csv/link_ponorogo.csv"
-    num_drivers = 8  # Ganti sesuai kebutuhan
+    csv1 = "./csv/link_karo2.csv"
+    num_drivers = 13  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
-    sk_file = "173.A.PROD/KPTS/SR.340/B.5/9/2023"
+    sk_file = "173.A.PROD/KPTS/SR.340/B.5"
     skid = "skid_3596"
 
     try:

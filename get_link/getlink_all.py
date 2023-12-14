@@ -6,6 +6,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
+import base64
+from PIL import Image
+from io import BytesIO
+
 
 class driverChrome:
     def __init__(self):
@@ -15,7 +19,7 @@ class driverChrome:
         self.data = []  # Inisialisasi list untuk menyimpan data
 
     def login(self, email, password):
-        login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+        login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         self.driver.get(login_url)
 
         email_input = self.driver.find_element(By.NAME, "email")
@@ -23,6 +27,37 @@ class driverChrome:
 
         password_input = self.driver.find_element(By.NAME, "password")
         password_input.send_keys(password)
+
+        # tes chactha
+        captcha_element = WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "captcha"))
+        )
+
+        # Dapatkan atribut 'src' dari elemen gambar Captcha
+        captcha_image_element = captcha_element.find_element(By.TAG_NAME, "img")
+        captcha_image_src = captcha_image_element.get_attribute("src")
+
+        # Ambil bagian base64 dari data URL
+        base64_image = captcha_image_src.split(",")[1]
+
+        # Dekode base64 menjadi data biner
+        binary_image = base64.b64decode(base64_image)
+
+        # # Simpan data biner sebagai gambar (Opsional, hanya untuk pemeriksaan)
+        # with open("captcha_image.png", "wb") as img_file:
+        #     img_file.write(binary_image)
+
+        # # Gunakan PIL untuk membuka dan memproses gambar (Opsional)
+        # image = Image.open(BytesIO(binary_image))
+
+        # # Lakukan apa pun yang diperlukan dengan gambar, misalnya, tampilkan gambar
+        # image.show()
+
+        captcha_input = input("Masukkan Captcha: ")
+
+        # Masukkan nilai ke dalam elemen input
+        captcha_textbox = self.driver.find_element(By.ID, "captcha")
+        captcha_textbox.send_keys(captcha_input)
 
         login_button = self.driver.find_element(
             By.CSS_SELECTOR, 'button[type="submit"]'
@@ -90,7 +125,7 @@ class driverChrome:
 
                     links = row.find_all("a")
                     if len(links) >= 2:
-                        link_ubah = links[0]  # mengambil link ubah atau lapor
+                        link_ubah = links[1]  # mengambil link ubah atau lapor
                         href_ubah = link_ubah["href"]
                         # situs = href_ubah.replace("/empty", "/spasial/create")
 
@@ -124,9 +159,9 @@ class driverChrome:
 
 
 # Contoh penggunaan: ganti dengan path file HTML yang sesuai
-url_path = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/90656/detail_kegiatan?delegasiid=2120"
-out_name = "./csv/tes.csv"
-max_page = 2
+url_path = "https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/105466/detail_kegiatan?delegasiid=2483"
+out_name = "./csv/psp2/link_kuantan.csv"
+max_page = 4
 
 if __name__ == "__main__":
     try:
@@ -134,7 +169,7 @@ if __name__ == "__main__":
         Chrome_driver = driverChrome()
 
         email = "bast@binaagrosiwimandiri.com"
-        password = "Lapor"
+        password = "L@por@n_"
         Chrome_driver.login(email, password)  # login terlebih dahulu
 
         while Chrome_driver.page <= max_page:

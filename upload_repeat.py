@@ -3,10 +3,10 @@ import pandas as pd
 
 while True:
     # Baca CSV
-    df = pd.read_csv("csv/link_tana_toraja2.csv")
+    df = pd.read_csv("csv/link_ponorogo2.csv")
 
     # Periksa panjang CSV, jika 0
-    if len(df) == 0 & len(df) < 1:
+    if len(df) == 0:
         break  # Keluar dari perulangan jika kondisi terpenuhi
     elif len(df) <= 2:  # jika link csv kurang dari 3
         driver = str(len(df))

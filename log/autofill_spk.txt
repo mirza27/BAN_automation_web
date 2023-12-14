@@ -1,0 +1,9 @@
+2023-11-07 01:09:12,550 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104561/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:09:15,892 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104655/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:09:19,231 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104739/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:10:54,652 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104745/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:10:57,389 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104808/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:11:00,178 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104846/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:13:14,036 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104898/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:13:17,822 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104900/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
+2023-11-07 01:13:20,598 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5/pelaporan/104902/empty, spk file: 67/PROD/PPK-PSP.05/KONTRAK/09/2023
