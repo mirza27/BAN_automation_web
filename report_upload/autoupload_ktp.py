@@ -6,6 +6,8 @@ import logging
 from selenium.webdriver.support.ui import Select
 import time
 import os
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 class MultiChromeDriver:
@@ -28,7 +30,7 @@ class MultiChromeDriver:
             driver.quit()
 
     def login(self, driver, email, password):
-        login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+        login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         driver.get(login_url)
 
         email_input = driver.find_element(By.NAME, "email")
@@ -37,15 +39,27 @@ class MultiChromeDriver:
         password_input = driver.find_element(By.NAME, "password")
         password_input.send_keys(password)
 
+        captcha_input = input("Masukkan Captcha: ")
+
+        # Masukkan nilai ke dalam elemen input
+        captcha_textbox = driver.find_element(By.ID, "captcha")
+        captcha_textbox.send_keys(captcha_input)
+
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
     def input(self, driver, nama, nik, ktp_path):
-        time.sleep(2)
+        element_nama = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "nama"))
+        )
+        element_nama.clear()
+        element_nama.send_keys(nama)  # input nama ketua
 
-        driver.find_element(By.NAME, "nama").send_keys(nama)  # input nama ketua
-
-        driver.find_element(By.NAME, "nik").send_keys(nik)  # input nik
+        element_nik = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "nik"))
+        )
+        element_nik.clear()
+        element_nik.send_keys(nik)  # input nik
 
         image_input = driver.find_element(By.NAME, "file_ktp")  # input ktp
         image_input.send_keys(ktp_path)
@@ -77,14 +91,16 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/link_bondowoso.csv"
+    csv_file = "./csv/psp2/link_toraja_utara2.csv"
     num_drivers = 1  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
-    img_file = "C:/Users/ramad/OneDrive/Dokumen/BAN_autofill/img"
+    img_file = (
+        "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/toraja utara/KTP jpg version"
+    )
 
     try:
         email = "bast@binaagrosiwimandiri.com"
-        password = "Lapor"
+        password = "L@por@n_"
 
         for index in range(num_drivers):
             driver = multi_driver.get_driver(index)
@@ -97,9 +113,7 @@ if __name__ == "__main__":
             temp_data = []
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
-                temp_data.append(
-                    (row["situs"], row["nomor"], row["nama"], row["nik"], row["img"])
-                )
+                temp_data.append((row["situs"], row["image"], row["nama"], row["nik"]))
 
                 #  jika sudah kelipatan sebanyak num_driver
                 if (index + 1) % num_drivers == 0:
@@ -122,15 +136,17 @@ if __name__ == "__main__":
 
                     # mengisi inputan sesuai url tanpa thread / 1 persatu
                     for k in range(num_drivers):
+                        img_path = os.path.join(img_file, temp_data[k][1])
+
                         multi_driver.input(
                             multi_driver.get_driver(k),
                             temp_data[k][2],  # nama ketua
                             temp_data[k][3],  # nik
-                            os.path.join(img_file, temp_data[k][1]),  # file gambar ktp
+                            img_path,
                         )
-                        print("mengisi driver ke", k, "dengan", temp_data[k][4])
+                        print("mengisi driver ke", k, "dengan", temp_data[k][0])
                         logging.info(
-                            f"Filled form for situs: {temp_data[k][0]}, nama ketua: {temp_data[k][2]}, nik: {temp_data[k][3]}, ktp_image: {temp_data[k][4]}"
+                            f"Filled form for situs: {temp_data[k][0]}, nama ketua: {temp_data[k][2]}, nik: {temp_data[k][3]}, ktp_image: {temp_data[k][1]}"
                         )
 
                     # mengosongkan data sementara dan threads

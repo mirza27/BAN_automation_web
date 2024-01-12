@@ -1,0 +1,226 @@
+2024-01-05 17:13:35,856 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79238/empty', '1', 'Buttu Siendekan', '07-10-2023'), dengan file zip
+2024-01-05 17:13:42,932 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79239/empty', '2', 'Minanga', '07-10-2023'), dengan file zip
+2024-01-05 17:13:48,618 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79240/empty', '3', 'Suka Maju Itap', '07-10-2023'), dengan file zip
+2024-01-05 17:13:56,918 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79241/empty', '4', 'Lemo', '07-10-2023'), dengan file zip
+2024-01-05 17:14:05,695 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79242/empty', '5', 'Laun', '07-10-2023'), dengan file zip
+2024-01-05 17:14:13,417 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79243/empty', '6', 'Barana Mamali', '07-10-2023'), dengan file zip
+2024-01-05 17:14:21,957 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79244/empty', '7', 'Kalaka', '07-10-2023'), dengan file zip
+2024-01-05 17:14:30,362 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79245/empty', '8', 'Panura Tappan', '07-10-2023'), dengan file zip
+2024-01-05 17:14:36,836 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79246/empty', '9', 'Bombong', '07-10-2023'), dengan file zip
+2024-01-05 17:14:41,724 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79247/empty', '10', 'Sangkutu Banne', '07-10-2023'), dengan file zip
+2024-01-05 17:14:50,673 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79248/empty', '11', 'Sipanunduk Gotta', '07-10-2023'), dengan file zip
+2024-01-05 17:14:58,545 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79249/empty', '12', 'Buttu Borong', '07-10-2023'), dengan file zip
+2024-01-05 17:15:05,138 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79250/empty', '13', 'Rura Sikamase', '07-10-2023'), dengan file zip
+2024-01-05 17:15:11,148 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79251/empty', '14', 'Sangkutu Banne', '07-10-2023'), dengan file zip
+2024-01-05 17:15:18,096 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79252/empty', '15', 'Madandan', '07-10-2023'), dengan file zip
+2024-01-05 17:15:22,942 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79253/empty', '16', 'Palli', '07-10-2023'), dengan file zip
+2024-01-05 17:15:28,868 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79254/empty', '17', 'Salu Rea Bayo', '07-10-2023'), dengan file zip
+2024-01-05 17:15:37,815 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79255/empty', '18', 'Batupapan', '07-10-2023'), dengan file zip
+2024-01-05 17:15:43,853 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79256/empty', '19', 'Kandua Bersatu', '05-10-2023'), dengan file zip
+2024-01-05 17:15:51,383 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79257/empty', '20', 'Kandua Bangkit', '05-10-2023'), dengan file zip
+2024-01-05 17:15:58,943 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79258/empty', '21', 'Pemuda Kanan', '05-10-2023'), dengan file zip
+2024-01-05 17:16:05,849 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79259/empty', '22', 'Sangtiangkaran', '05-10-2023'), dengan file zip
+2024-01-05 17:16:14,604 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79260/empty', '23', 'Sangmairisan', '05-10-2023'), dengan file zip
+2024-01-05 17:16:21,416 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79261/empty', '24', 'Siendekan', '05-10-2023'), dengan file zip
+2024-01-05 17:16:25,484 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79262/empty', '25', 'Pada Tindo', '05-10-2023'), dengan file zip
+2024-01-05 17:16:32,847 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79263/empty', '26', 'Sangkederan', '05-10-2023'), dengan file zip
+2024-01-05 17:16:38,933 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79264/empty', '27', 'Rannuanta', '05-10-2023'), dengan file zip
+2024-01-05 17:16:42,979 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79265/empty', '28', 'Ratte Kole', '05-10-2023'), dengan file zip
+2024-01-05 17:16:48,092 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79266/empty', '29', 'Kalimbuang', '05-10-2023'), dengan file zip
+2024-01-05 17:16:55,064 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79267/empty', '30', 'Saruran Batu Jaya', '05-10-2023'), dengan file zip
+2024-01-05 17:16:58,909 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79268/empty', '31', 'Tombang Lokka', '05-10-2023'), dengan file zip
+2024-01-05 17:17:02,702 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79269/empty', '32', 'Tandung Bertani', '05-10-2023'), dengan file zip
+2024-01-05 17:17:07,358 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79270/empty', '33', 'Saro Mase', '05-10-2023'), dengan file zip
+2024-01-05 17:17:10,911 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79271/empty', '34', 'Sangulele', '05-10-2023'), dengan file zip
+2024-01-05 17:17:14,932 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79272/empty', '35', 'Sikamale', '05-10-2023'), dengan file zip
+2024-01-05 17:17:18,590 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79273/empty', '36', 'Tambolag', '05-10-2023'), dengan file zip
+2024-01-05 17:17:32,713 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79274/empty', '37', 'Kombo', '05-10-2023'), dengan file zip
+2024-01-05 17:17:43,952 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79275/empty', '38', 'Limbong', '05-10-2023'), dengan file zip
+2024-01-05 17:17:49,127 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79276/empty', '39', 'Koa', '05-10-2023'), dengan file zip
+2024-01-05 17:17:52,999 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79277/empty', '40', 'Kampung Baru', '05-10-2023'), dengan file zip
+2024-01-05 17:17:57,417 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79278/empty', '41', 'Limbong Barani', '05-10-2023'), dengan file zip
+2024-01-05 17:18:02,896 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79279/empty', '42', 'Sikamali Pulio', '05-10-2023'), dengan file zip
+2024-01-05 17:18:06,926 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79280/empty', '43', 'Ratte Dama', '05-10-2023'), dengan file zip
+2024-01-05 17:18:11,280 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79281/empty', '44', 'Subur Jaya Dama', '05-10-2023'), dengan file zip
+2024-01-05 17:18:25,588 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79282/empty', '45', 'Pa Kondo', '05-10-2023'), dengan file zip
+2024-01-05 17:18:36,608 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79283/empty', '46', 'Saro Mase', '05-10-2023'), dengan file zip
+2024-01-05 17:18:42,220 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79284/empty', '47', 'Mekar Danglu', '20-10-2023'), dengan file zip
+2024-01-05 17:18:48,254 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79285/empty', '48', 'Tondok Bangla', '20-10-2023'), dengan file zip
+2024-01-05 17:18:53,964 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79286/empty', '49', 'Ponian Jaya', '20-10-2023'), dengan file zip
+2024-01-05 17:19:00,287 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79287/empty', '50', 'Batu Menganga', '20-10-2023'), dengan file zip
+2024-01-05 17:19:04,923 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79288/empty', '51', 'Rante Dollok', '20-10-2023'), dengan file zip
+2024-01-05 17:19:10,303 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79289/empty', '52', 'Manda Sirampun', '20-10-2023'), dengan file zip
+2024-01-05 17:19:16,597 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79290/empty', '53', 'Sangkederan', '20-10-2023'), dengan file zip
+2024-01-05 17:19:20,414 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79291/empty', '54', 'Antam', '20-10-2023'), dengan file zip
+2024-01-05 17:19:24,882 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79292/empty', '55', "Rante Kesu'", '20-10-2023'), dengan file zip
+2024-01-05 17:19:29,177 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79293/empty', '56', 'Tanduk Bulan', '20-10-2023'), dengan file zip
+2024-01-05 17:19:32,377 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79294/empty', '57', 'PGM Sipalamban', '20-10-2023'), dengan file zip
+2024-01-05 17:19:36,795 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79295/empty', '58', 'Siangkaran', '20-10-2023'), dengan file zip
+2024-01-05 17:19:40,882 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79296/empty', '59', 'Sipatuo Bangkailan', '20-10-2023'), dengan file zip
+2024-01-05 17:19:45,037 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79297/empty', '60', 'Madoke Siangkaran', '20-10-2023'), dengan file zip
+2024-01-05 17:19:49,340 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79298/empty', '61', 'Kalian Bersama', '20-10-2023'), dengan file zip
+2024-01-05 17:19:54,038 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79299/empty', '62', 'Sedanan', '20-10-2023'), dengan file zip
+2024-01-05 17:19:58,794 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79300/empty', '63', 'Padang Leme', '20-10-2023'), dengan file zip
+2024-01-05 17:20:03,021 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79301/empty', '64', 'Malillin', '20-10-2023'), dengan file zip
+2024-01-05 17:20:07,102 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79302/empty', '65', 'Imanuel Pakambuan', '20-10-2023'), dengan file zip
+2024-01-05 17:20:12,708 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79303/empty', '66', 'Panada', '20-10-2023'), dengan file zip
+2024-01-05 17:20:15,820 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79304/empty', '67', 'Gema Tani', '20-10-2023'), dengan file zip
+2024-01-05 17:20:21,391 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79305/empty', '68', 'Pararra', '20-10-2023'), dengan file zip
+2024-01-05 17:20:26,437 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79306/empty', '69', 'Berkat Sangkutu', '20-10-2023'), dengan file zip
+2024-01-05 17:20:41,085 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79307/empty', '70', 'Tondon Siporannu', '20-10-2023'), dengan file zip
+2024-01-05 17:20:51,354 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79308/empty', '71', 'Maruang', '20-10-2023'), dengan file zip
+2024-01-05 17:20:55,798 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79309/empty', '72', 'Rarukan Utara', '20-10-2023'), dengan file zip
+2024-01-05 17:21:00,241 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79310/empty', '73', 'Moso II', '20-10-2023'), dengan file zip
+2024-01-05 17:21:04,799 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79311/empty', '74', 'Karrang Situru', '20-10-2023'), dengan file zip
+2024-01-05 17:21:08,936 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79312/empty', '75', 'Minanga Timur', '20-10-2023'), dengan file zip
+2024-01-05 17:21:13,514 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79313/empty', '76', 'Batunna Boyo', '20-10-2023'), dengan file zip
+2024-01-05 17:21:17,948 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79314/empty', '77', 'Misa Kada', '20-10-2023'), dengan file zip
+2024-01-05 17:21:21,716 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79315/empty', '78', 'Siangkaran', '20-10-2023'), dengan file zip
+2024-01-05 17:21:26,001 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79316/empty', '79', 'Bamba', '11-10-2023'), dengan file zip
+2024-01-05 17:21:31,133 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79317/empty', '80', 'Kosan', '11-10-2023'), dengan file zip
+2024-01-05 17:21:36,316 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79318/empty', '81', 'Salu Tallu', '11-10-2023'), dengan file zip
+2024-01-05 17:21:41,819 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79319/empty', '82', 'Salu Sitammu', '11-10-2023'), dengan file zip
+2024-01-05 17:21:45,104 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79320/empty', '83', 'Tiropadang', '11-10-2023'), dengan file zip
+2024-01-05 17:21:48,629 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79321/empty', '84', 'Tanete Lestari', '11-10-2023'), dengan file zip
+2024-01-05 17:21:55,264 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79322/empty', '85', 'Kamali', '11-10-2023'), dengan file zip
+2024-01-05 17:22:01,993 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79323/empty', '86', 'Milan', '11-10-2023'), dengan file zip
+2024-01-05 17:22:07,411 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79324/empty', '87', 'Maju Bersama', '11-10-2023'), dengan file zip
+2024-01-05 17:22:11,858 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79325/empty', '88', "To'Ao", '11-10-2023'), dengan file zip
+2024-01-05 17:22:16,270 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79326/empty', '89', 'Sanginaa', '11-10-2023'), dengan file zip
+2024-01-05 17:22:21,889 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79327/empty', '90', 'Bina Akrab', '11-10-2023'), dengan file zip
+2024-01-05 17:22:27,071 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79328/empty', '91', 'Usaha Agrobisnis Siguntu', '11-10-2023'), dengan file zip
+2024-01-05 17:22:35,088 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79329/empty', '92', 'Usaha Terpadu Tampo', '11-10-2023'), dengan file zip
+2024-01-05 17:22:39,196 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79330/empty', '93', 'Rante Tampo', '11-10-2023'), dengan file zip
+2024-01-05 17:22:44,558 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79331/empty', '94', 'Banne Marendeng', '11-10-2023'), dengan file zip
+2024-01-05 17:22:47,677 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79332/empty', '95', 'Ketapang', '11-10-2023'), dengan file zip
+2024-01-05 17:22:51,210 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79333/empty', '96', 'KWT Batu Bungga', '11-10-2023'), dengan file zip
+2024-01-05 17:22:56,855 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79334/empty', '97', 'KWT Birop', '11-10-2023'), dengan file zip
+2024-01-05 17:23:00,751 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79335/empty', '98', 'KWT Rante Situru', '11-10-2023'), dengan file zip
+2024-01-05 17:23:05,563 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79336/empty', '99', 'KWT Sikamali Babangan', '11-10-2023'), dengan file zip
+2024-01-05 17:23:09,552 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79337/empty', '100', 'Lea Raya', '11-10-2023'), dengan file zip
+2024-01-05 17:23:13,370 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79338/empty', '101', 'Rotani', '11-10-2023'), dengan file zip
+2024-01-05 17:23:17,737 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79339/empty', '102', 'Siangkaran', '11-10-2023'), dengan file zip
+2024-01-05 17:23:22,331 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79340/empty', '103', 'Situru Rante', '11-10-2023'), dengan file zip
+2024-01-05 17:23:27,635 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79341/empty', '104', 'Suka Maju', '11-10-2023'), dengan file zip
+2024-01-05 17:23:31,539 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79342/empty', '105', 'Taruna Tani', '11-10-2023'), dengan file zip
+2024-01-05 17:23:36,241 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79343/empty', '106', 'Kali Sosso Burake', '11-10-2023'), dengan file zip
+2024-01-05 17:23:48,859 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79344/empty', '107', 'Limbong', '11-10-2023'), dengan file zip
+2024-01-05 17:24:00,141 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79345/empty', '108', 'Rante', '11-10-2023'), dengan file zip
+2024-01-05 17:24:06,616 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79346/empty', '109', 'Sangkutu Banne', '11-10-2023'), dengan file zip
+2024-01-05 17:24:11,923 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79347/empty', '110', 'Situlak Lulangngan', '11-10-2023'), dengan file zip
+2024-01-05 17:24:16,156 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79348/empty', '111', 'Lempangan', '11-10-2023'), dengan file zip
+2024-01-05 17:24:20,575 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79349/empty', '112', 'Palipu', '11-10-2023'), dengan file zip
+2024-01-05 17:24:25,080 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79350/empty', '113', 'Palli Permai', '11-10-2023'), dengan file zip
+2024-01-05 17:24:28,551 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79351/empty', '114', 'Pama Sipaloloan', '11-10-2023'), dengan file zip
+2024-01-05 17:24:32,245 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79352/empty', '115', 'Tanete', '11-10-2023'), dengan file zip
+2024-01-05 17:24:35,578 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79353/empty', '116', 'Tedong Batu', '11-10-2023'), dengan file zip
+2024-01-05 17:24:39,041 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79354/empty', '117', 'Tongka Ka', '11-10-2023'), dengan file zip
+2024-01-05 17:24:44,912 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79355/empty', '118', 'Tunas Jaya', '11-10-2023'), dengan file zip
+2024-01-05 17:24:48,426 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79356/empty', '119', 'Melati', '11-10-2023'), dengan file zip
+2024-01-05 17:24:52,424 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79357/empty', '120', 'Siangkaran', '11-10-2023'), dengan file zip
+2024-01-05 17:24:56,057 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79358/empty', '121', 'Sikamali', '11-10-2023'), dengan file zip
+2024-01-05 17:24:59,959 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79359/empty', '122', 'Siporannu', '11-10-2023'), dengan file zip
+2024-01-05 17:25:04,242 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79360/empty', '123', 'Sitiroanan', '11-10-2023'), dengan file zip
+2024-01-05 17:25:08,678 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79361/empty', '124', 'Sumandidi', '11-10-2023'), dengan file zip
+2024-01-05 17:25:13,008 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79362/empty', '125', 'Dendo', '11-10-2023'), dengan file zip
+2024-01-05 17:25:17,198 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79363/empty', '126', 'Lika', '11-10-2023'), dengan file zip
+2024-01-05 17:25:21,871 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79364/empty', '127', 'Rante Botang', '11-10-2023'), dengan file zip
+2024-01-05 17:25:25,803 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79365/empty', '128', 'Tarra Botang', '11-10-2023'), dengan file zip
+2024-01-05 17:25:29,129 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79366/empty', '129', 'Marendeng Malia', '11-10-2023'), dengan file zip
+2024-01-05 17:25:33,308 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79367/empty', '130', 'Bendan Siangkaran', '11-10-2023'), dengan file zip
+2024-01-05 17:25:43,621 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79368/empty', '131', 'Duayan Situru', '11-10-2023'), dengan file zip
+2024-01-05 17:25:47,565 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79369/empty', '132', 'KWT Lestari Manggau', '11-10-2023'), dengan file zip
+2024-01-05 17:25:51,667 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79370/empty', '133', 'Parita Pangle', '11-10-2023'), dengan file zip
+2024-01-05 17:25:54,973 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79371/empty', '134', 'Tuan Palangka', '11-10-2023'), dengan file zip
+2024-01-05 17:25:58,724 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79372/empty', '135', 'Borong', '11-10-2023'), dengan file zip
+2024-01-05 17:26:02,624 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79373/empty', '136', 'Buntu Tarongko', '11-10-2023'), dengan file zip
+2024-01-05 17:26:06,192 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79374/empty', '137', 'Gurun Cinta Maju', '11-10-2023'), dengan file zip
+2024-01-05 17:26:10,678 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79375/empty', '138', 'Lestari', '11-10-2023'), dengan file zip
+2024-01-05 17:26:14,067 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79376/empty', '139', 'Pekaung', '11-10-2023'), dengan file zip
+2024-01-05 17:26:17,605 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79377/empty', '140', 'Rante Tarongko', '11-10-2023'), dengan file zip
+2024-01-05 17:26:21,414 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79378/empty', '141', 'Sangkutu Banne', '11-10-2023'), dengan file zip
+2024-01-05 17:26:25,037 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79379/empty', '142', 'Siallo', '11-10-2023'), dengan file zip
+2024-01-05 17:26:28,396 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79380/empty', '143', 'Sipanundu', '11-10-2023'), dengan file zip
+2024-01-05 17:26:32,433 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79381/empty', '144', 'Siporannu', '11-10-2023'), dengan file zip
+2024-01-05 17:26:38,055 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79382/empty', '145', 'Todang', '11-10-2023'), dengan file zip
+2024-01-05 17:26:50,276 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79383/empty', '146', "Siduruk Bala'ba", '11-10-2023'), dengan file zip
+2024-01-05 17:27:01,869 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79384/empty', '147', 'Sinar Palio', '11-10-2023'), dengan file zip
+2024-01-05 17:27:06,572 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79385/empty', '148', 'Rabek', '11-10-2023'), dengan file zip
+2024-01-05 17:27:10,786 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79386/empty', '149', 'Rantol', '11-10-2023'), dengan file zip
+2024-01-05 17:27:15,232 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79387/empty', '150', 'Sikamalik Mamabo', '11-10-2023'), dengan file zip
+2024-01-05 17:27:19,628 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79388/empty', '151', 'Harapan', '11-10-2023'), dengan file zip
+2024-01-05 17:27:25,067 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79389/empty', '152', 'Tunas Bangsa', '11-10-2023'), dengan file zip
+2024-01-05 17:27:32,096 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79390/empty', '153', 'Rano', '11-10-2023'), dengan file zip
+2024-01-05 17:27:37,174 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79391/empty', '154', 'Parumbian Bangkit', '11-10-2023'), dengan file zip
+2024-01-05 17:27:41,429 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79392/empty', '155', 'Malimongan', '11-10-2023'), dengan file zip
+2024-01-05 17:27:49,285 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79393/empty', '156', 'Atom Permai', '11-10-2023'), dengan file zip
+2024-01-05 17:27:54,118 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79394/empty', '157', 'Kalolok Bersatu', '11-10-2023'), dengan file zip
+2024-01-05 17:28:00,012 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79395/empty', '158', 'Karapa', '11-10-2023'), dengan file zip
+2024-01-05 17:28:04,865 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79396/empty', '159', 'Sipanundu Kalolok', '11-10-2023'), dengan file zip
+2024-01-05 17:28:11,683 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79397/empty', '160', 'Sirannuan', '11-10-2023'), dengan file zip
+2024-01-05 17:28:16,249 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79398/empty', '161', 'Taruna Tani', '11-10-2023'), dengan file zip
+2024-01-05 17:28:24,438 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79399/empty', '162', 'Tangnga Tondok', '27-10-2023'), dengan file zip
+2024-01-05 17:28:30,589 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79400/empty', '163', 'Tamporan', '27-10-2023'), dengan file zip
+2024-01-05 17:28:36,312 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79401/empty', '164', 'Pakepakan', '27-10-2023'), dengan file zip
+2024-01-05 17:28:42,220 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79402/empty', '165', 'Kendenan', '27-10-2023'), dengan file zip
+2024-01-05 17:28:47,859 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79403/empty', '166', 'Katapi', '27-10-2023'), dengan file zip
+2024-01-05 17:28:54,912 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79404/empty', '167', 'Kandeapi', '27-10-2023'), dengan file zip
+2024-01-05 17:29:16,913 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79405/empty', '168', 'Burau Tarrak', '27-10-2023'), dengan file zip
+2024-01-05 17:29:38,488 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79406/empty', '169', "Buntu Ba'tan", '27-10-2023'), dengan file zip
+2024-01-05 17:29:44,308 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79407/empty', '170', 'Tongkonan', '27-10-2023'), dengan file zip
+2024-01-05 17:30:02,519 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79408/empty', '171', "To'batata", '27-10-2023'), dengan file zip
+2024-01-05 17:30:12,548 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79409/empty', '172', 'Barua', '27-10-2023'), dengan file zip
+2024-01-05 17:30:17,863 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79410/empty', '173', 'Tumbubara', '27-10-2023'), dengan file zip
+2024-01-05 17:30:21,707 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79411/empty', '174', "Se'pon Sarong", '27-10-2023'), dengan file zip
+2024-01-05 17:30:25,472 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79412/empty', '175', 'Batualu Pasang', '27-10-2023'), dengan file zip
+2024-01-05 17:30:29,013 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79413/empty', '176', 'Bamba', '27-10-2023'), dengan file zip
+2024-01-05 17:30:35,899 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79414/empty', '177', 'AA, Bamba', '27-10-2023'), dengan file zip
+2024-01-05 17:30:39,480 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79415/empty', '178', 'Makula Siendekan', '27-10-2023'), dengan file zip
+2024-01-05 17:30:43,242 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79416/empty', '179', 'Lempangan', '27-10-2023'), dengan file zip
+2024-01-05 17:30:47,010 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79417/empty', '180', 'Sullukan', '27-10-2023'), dengan file zip
+2024-01-05 17:30:50,332 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79418/empty', '181', 'Sipanundu', '27-10-2023'), dengan file zip
+2024-01-05 17:30:54,614 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79419/empty', '182', 'Siporannu', '27-10-2023'), dengan file zip
+2024-01-05 17:30:59,141 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79420/empty', '183', "Ra'pa", '27-10-2023'), dengan file zip
+2024-01-05 17:31:03,004 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79421/empty', '184', 'Perang', '27-10-2023'), dengan file zip
+2024-01-05 17:31:06,703 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79422/empty', '185', 'Padang', '27-10-2023'), dengan file zip
+2024-01-05 17:31:10,818 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79423/empty', '186', "Kambelangi'", '27-10-2023'), dengan file zip
+2024-01-05 17:31:15,686 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79424/empty', '187', 'Buntu Tokesan', '27-10-2023'), dengan file zip
+2024-01-05 17:31:19,135 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79425/empty', '188', 'Lengke', '27-10-2023'), dengan file zip
+2024-01-05 17:31:22,894 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79426/empty', '189', 'Situru', '27-10-2023'), dengan file zip
+2024-01-05 17:31:26,341 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79427/empty', '190', 'Sipaele', '27-10-2023'), dengan file zip
+2024-01-05 17:31:30,284 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79428/empty', '191', 'Siangkaran', '27-10-2023'), dengan file zip
+2024-01-05 17:31:34,266 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79429/empty', '192', 'Padatengka', '27-10-2023'), dengan file zip
+2024-01-05 17:31:38,163 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79430/empty', '193', 'Mitra Sejahtera', '27-10-2023'), dengan file zip
+2024-01-05 17:31:42,924 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79431/empty', '194', 'KTH, Mentiro Tiku, T', '27-10-2023'), dengan file zip
+2024-01-05 17:31:47,041 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79432/empty', '195', 'Kombong', '27-10-2023'), dengan file zip
+2024-01-05 17:32:00,622 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79433/empty', '196', 'Buntu Asin', '27-10-2023'), dengan file zip
+2024-01-05 17:32:05,787 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79434/empty', '197', 'Siangkaran', '27-10-2023'), dengan file zip
+2024-01-05 17:32:09,919 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79435/empty', '198', 'Kondo', '27-10-2023'), dengan file zip
+2024-01-05 17:32:14,193 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79436/empty', '199', 'Kamiri', '27-10-2023'), dengan file zip
+2024-01-05 17:32:18,366 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79437/empty', '200', 'Songgo', '27-10-2023'), dengan file zip
+2024-01-05 17:32:22,310 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79438/empty', '201', 'Batakan Siolanan', '27-10-2023'), dengan file zip
+2024-01-05 17:32:26,657 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79439/empty', '202', 'Baibo', '27-10-2023'), dengan file zip
+2024-01-05 17:32:31,115 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79440/empty', '203', 'Garuda', '26-10-2023'), dengan file zip
+2024-01-05 17:32:34,536 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79441/empty', '204', 'Segitiga Emas', '26-10-2023'), dengan file zip
+2024-01-05 17:32:38,467 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79442/empty', '205', 'Makkareso', '26-10-2023'), dengan file zip
+2024-01-05 17:32:42,560 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79443/empty', '206', 'Sanik', '21-10-2023'), dengan file zip
+2024-01-05 17:32:46,297 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79444/empty', '207', 'Rumpun Petani Leppan', '21-10-2023'), dengan file zip
+2024-01-05 17:32:50,499 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79445/empty', '208', 'Situnduan Matangli', '21-10-2023'), dengan file zip
+2024-01-05 17:32:54,419 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79446/empty', '209', 'Siangkaran', '21-10-2023'), dengan file zip
+2024-01-05 17:32:57,912 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79447/empty', '210', 'Sangina', '21-10-2023'), dengan file zip
+2024-01-05 17:33:02,218 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79448/empty', '211', 'Kanan Datu', '21-10-2023'), dengan file zip
+2024-01-05 17:33:06,908 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79449/empty', '212', 'Sabara', '21-10-2023'), dengan file zip
+2024-01-05 17:33:11,594 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79450/empty', '213', 'Sanglombokan', '21-10-2023'), dengan file zip
+2024-01-05 17:33:16,273 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79451/empty', '214', 'Salu Silullung', '21-10-2023'), dengan file zip
+2024-01-05 17:33:19,740 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79452/empty', '215', 'Bulan', '21-10-2023'), dengan file zip
+2024-01-05 17:33:23,173 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79453/empty', '216', 'Sollongan', '24-10-2023'), dengan file zip
+2024-01-05 17:33:26,483 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79454/empty', '217', 'Bidoko', '24-10-2023'), dengan file zip
+2024-01-05 17:33:30,052 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79455/empty', '218', 'Supate Solo', '24-10-2023'), dengan file zip
+2024-01-05 17:33:34,034 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79456/empty', '219', 'Sangayoka Tallumanuk', '24-10-2023'), dengan file zip
+2024-01-05 17:33:38,095 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79457/empty', '220', 'Kole', '24-10-2023'), dengan file zip
+2024-01-05 17:33:42,181 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79458/empty', '221', 'Tondon Sapan', '24-10-2023'), dengan file zip
+2024-01-05 17:33:46,050 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79459/empty', '222', 'Liku Lepong', '24-10-2023'), dengan file zip
+2024-01-05 17:33:49,691 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79460/empty', '223', 'Kwt Harapan', '24-10-2023'), dengan file zip
+2024-01-05 17:33:53,744 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79461/empty', '224', 'Tallu Bulinna', '24-10-2023'), dengan file zip
+2024-01-05 17:33:56,968 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79462/empty', '225', "Pa'tondokan", '24-10-2023'), dengan file zip
+2024-01-05 17:34:00,711 [INFO] Filled form for situs: ('https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/79463/empty', '226', 'Salempanna', '26-10-2023'), dengan file zip

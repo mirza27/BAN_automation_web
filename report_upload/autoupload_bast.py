@@ -49,40 +49,38 @@ class MultiChromeDriver:
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
-    def input(self, driver, nomor, tanggal, nilai):
+    def input(self, driver, nomor, tanggal, nilai, file):
         nomor_element = WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.NAME, "nomor"))
         )
+        nomor_element.clear()
         nomor_element.send_keys(nomor)  # mengisi input nomor
 
         tanggal_element = WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.NAME, "tgl"))
         )
+        tanggal_element.clear()
         tanggal_element.send_keys(tanggal)  # mengisi input tanggal
 
         nilai_element = WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.NAME, "nilai"))
         )
         nilai_element.clear()
-        # nilai_element.send_keys(nilai)
         driver.execute_script(
             "arguments[0].value = arguments[0].value + arguments[1];",
             nilai_element,
             nilai,
         )
 
-        # driver.find_element(By.NAME, "file_bast").send_keys(
-        #     invoice
-        # )  # mengisi input file
+        driver.find_element(By.NAME, "file_bast").send_keys(file)  # mengisi input file
 
 
 def get_url(driver, site_url, index):
-    driver.get(site_url.replace("/empty", "/bast/create"))
+    driver.get(site_url.replace("/empty", "/bast"))
     print(f"Driver {index} title: {driver.title}")
 
 
 def submit_form(driver):
-    global total_uploads
     # Submit the form
     submit_button = WebDriverWait(driver, 20).until(
         EC.presence_of_element_located(
@@ -90,8 +88,6 @@ def submit_form(driver):
         )
     )
     submit_button.click()
-
-    time.sleep(20)
 
 
 # Konfigurasi logging
@@ -106,11 +102,14 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/psp3/link_karo.csv"
+    csv_file = "./csv/psp2/link_takalar2.csv"
     num_drivers = 1  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
-    tanggal = "20-11-2023"
-    file_bast_path = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW"
+    tanggal = "27-10-2023"
+    file_bast_path = (
+        "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/takalar/bast pdf version"
+    )
+    no_file = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/oc_kampar.csv"
 
     try:
         email = "bast@binaagrosiwimandiri.com"
@@ -127,12 +126,9 @@ if __name__ == "__main__":
             temp_data = []
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
+                # temp_data.append((row["situs"], row["no"], row["bast"]))
                 temp_data.append(
-                    (
-                        row["situs"],
-                        row["no_bam"],
-                        row["bast"],
-                    )
+                    (row["situs"], row["no_bam"], row["bast"], row["tanggal_nofix"])
                 )
 
                 #  jika sudah kelipatan sebanyak num_driver
@@ -156,11 +152,18 @@ if __name__ == "__main__":
 
                     # mengisi inputan sesuai url tanpa thread / 1 persatu
                     for k in range(num_drivers):
+                        # file path bast
+                        file_path = os.path.join(
+                            file_bast_path, temp_data[k][1] + ".pdf"
+                        )
+
                         multi_driver.input(
                             multi_driver.get_driver(k),
-                            temp_data[k][1],  # nomor bast
-                            tanggal,  # tanggal
+                            temp_data[k][1]
+                            + "/BAM-P/PSP/BAST-TAKALAR/16/IX/23",  # nomor bast
+                            temp_data[k][3],  # tanggal
                             temp_data[k][2],  # nilai nominal rupiah
+                            file_path,
                         )
                         print("mengisi driver ke", k, "dengan", temp_data[k])
                         logging.info(

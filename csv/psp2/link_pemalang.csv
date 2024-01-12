@@ -1,230 +1,250 @@
-no,no_bam,situs,poktan,desa
-21,21/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91847/empty,Sidodadi II,Warungpring
-22,22/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91848/empty,Tunas Harapan,Warungpring
-23,23/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91849/empty,Tani Lancar,Pakembaran
-24,24/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91859/empty,Sarwo Akur III,Pakembaran
-25,25/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91860/empty,Tani Makmur II,Karangdawa
-26,26/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91862/empty,Tani Makmur III,Karangdawa
-27,27/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91863/empty,Makmur Abadi V,Datar
-28,28/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91864/empty,Makmur Abadi VII,Datar
-29,29/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91866/empty,Ngudi Karya Tani III,Cibuyur
-30,30/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91867/empty,Ngudi Karya Tani IV,Cibuyur
-31,31/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91868/empty,Nalaguna,Cibuyur
-32,32/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91870/empty,Tani Mandiri,Cibuyur
-33,33/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91871/empty,Tani Bahagia III,Mereng
-34,34/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91872/empty,Rukun Tani,Karangsari
-35,35/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91873/empty,Sri Basuki,Karangsari
-36,36/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91874/empty,Makaryo Bakti,Gambuhan
-37,37/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91883/empty,Berkah Sari,Gambuhan
-38,38/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91884/empty,Tani Makmur Empat,Penakir
-39,39/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91885/empty,Trubus,Penakir
-40,40/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91886/empty,Karya Harapan IV,Gunungsari
-41,41/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91887/empty,Bina Tani,Bulakan
-42,42/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91888/empty,Boga Tani I,Bulakan
-43,43/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91889/empty,Gunung,Sikasur
-44,44/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91890/empty,Karya Tani,Gunungjaya
-45,45/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91891/empty,Simbar Jaya,Gunungjaya
-46,46/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91892/empty,Setia Hati,Gunungjaya
-47,47/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91893/empty,Lestari,Gunungjaya
-48,48/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91894/empty,Beringin Sejahtera,Gunungjaya
-49,49/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91895/empty,Manggung Wangi,Badak
-50,50/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91896/empty,Budidaya,Badak
-51,51/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91897/empty,Rimpak,Belik
-52,52/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91899/empty,Tulus Rahayu,Belik
-53,53/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91900/empty,Gondang,Belik
-54,54/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91901/empty,Maju Makmur,Gunungtiga
-55,55/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91903/empty,Karya Tani,Mendelem
-56,56/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91904/empty,Krida Tani II,Mendelem
-57,57/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91905/empty,Krida Tani I,Mendelem
-58,58/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91907/empty,Tumpang Sari,Kuta
-59,59/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91908/empty,Sumber Rejeki III,Belik
-60,60/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91909/empty,Tani Maju,Mendelem
-61,61/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91910/empty,Boga Tani II,Mendelem
-62,62/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91911/empty,Krida Tani IV,Mendelem
-63,63/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91912/empty,Situri,Kuta
-64,64/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91913/empty,Sumber Rejeki I,Belik
-65,65/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91914/empty,Sumber Rejeki II,Belik
-66,66/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91915/empty,Bakti Tani II,Mendelem
-67,67/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91916/empty,Maju Makmur,Kuta
-68,68/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91917/empty,Sepaha,Sikasur
-69,69/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91918/empty,Siglunggung,Sikasur
-70,70/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91919/empty,Kedung Belis,Sikasur
-71,71/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91920/empty,Adil II,Bulakan
-72,72/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91921/empty,Sri Mulya,Bulakan
-73,73/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91922/empty,Sido Muncul,Bongas
-74,74/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91923/empty,Lestari,Bongas
-75,75/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91925/empty,Langen Sari II,Bongas
-76,76/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91926/empty,Karya Bakti,Cikadu
-77,77/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91927/empty,Maju Tani,Cikadu
-78,78/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91928/empty,Tunas Harapan,Medayu
-79,79/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91930/empty,Rukun Tani II,Medayu
-80,80/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91931/empty,Kelapa Sawit,Majakerta
-81,81/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91932/empty,Jati Mulya,Majakerta
-82,82/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91934/empty,Mekar Jaya,Majakerta
-83,83/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91935/empty,Tani Maju,Jojogan
-84,84/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91936/empty,Maju Jaya,Jojogan
-85,85/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91938/empty,Maju Sadar,Jojogan
-86,86/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91939/empty,Mukti Sari,Jojogan
-87,87/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91940/empty,Sido Makmur,Wisnu
-88,88/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91942/empty,Mangli,Majalangu
-89,89/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91943/empty,Sido Mukti,Majalangu
-90,90/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91944/empty,Sido Makmur,Majalangu
-91,91/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91945/empty,Kali Taman,Cawet
-92,92/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91946/empty,Sipedang,Cawet
-93,93/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91948/empty,Tani Makmur,Watukumpul
-94,94/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91949/empty,Sido Dadi,Watukumpul
-95,95/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91951/empty,Margalangu II,Watukumpul
-96,96/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91952/empty,Sumber Rejeki,Bodas
-97,97/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91953/empty,Kramat,Cawet
-98,98/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91954/empty,Semi,Bongas
-99,99/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91956/empty,Rukun Tani I,Medayu
-100,100/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91957/empty,Lestari,Medayu
-101,101/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91958/empty,Budi Lestari,Bodas
-102,102/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91960/empty,Budi Rahayu Makmur,Bodas
-103,103/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91961/empty,Bangun Karya,Bodas
-104,104/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91962/empty,Tani Mandiri,Pendowo
-105,105/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91963/empty,Jati Makmur,Jatiroyom
-106,106/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91964/empty,Sumber Makmur,Jatiroyom
-107,107/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91965/empty,Tani Harapan,Jatiroyom
-108,108/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91966/empty,Puri Indah,Bodeh
-109,109/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91967/empty,Tani Mulyo,Bodeh
-110,110/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91968/empty,Mukti Jaya,Jatingarang
-111,111/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91969/empty,Tani Sadar,Kelangdepok
-112,112/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91970/empty,Tani Mantep,Kelangdepok
-113,113/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91971/empty,Lumayan,Kelangdepok
-114,114/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91972/empty,Sri Rejeki,Muncang
-115,115/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91973/empty,Lestari,Muncang
-116,116/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91974/empty,Tani Dewi,Muncang
-117,117/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91975/empty,Terang,Babakan
-118,118/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91976/empty,Kismo Budaya,Longkeyang
-119,119/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91977/empty,Sumber Makmur,Karangbrai
-120,120/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91978/empty,Tulus Karya II,Kebandaran
-121,121/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91979/empty,Gemah Ripah,Cangak
-122,122/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91980/empty,Sri Rahayu,Cangak
-123,123/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91981/empty,Tunggul Raharjo,Payung
-124,124/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91982/empty,Sumber Waras,Parunggalih
-125,125/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91983/empty,Tani Jaya,Payung
-126,126/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91984/empty,Gunung Sari,Payung
-127,127/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91985/empty,Dewi Sri,Kesesirejo
-128,128/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91986/empty,Aneka Tani,Glandang
-129,129/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91987/empty,Cipta Tani,Glandang
-130,130/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91988/empty,Mulya Tani,Kuta
-131,131/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91989/empty,Suka Maju,Kuta
-132,132/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91990/empty,Among Tani,Purana
-133,133/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91991/empty,Rekso Tani,Purana
-134,134/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91992/empty,Cemerlang Usaha Tani,Purana
-135,135/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91993/empty,Tani Makmur 1,Wanarata
-136,136/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91994/empty,Tani Makmur 2,Wanarata
-137,137/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91995/empty,Utama Sari IV,Banjarsari
-138,138/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91996/empty,Ritma Sari I,Pegiringan
-139,139/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91997/empty,Ritma Sari II,Pegiringan
-140,140/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91998/empty,Ritma Sari IV,Pegiringan
-141,141/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91999/empty,Utama Sari II,Banjarsari
-142,142/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92000/empty,Panca Tani,Pabuaran
-143,143/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92001/empty,Utama Sari III,Banjarsari
-144,144/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92002/empty,Tani Mulya V,Wanarata
-145,145/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92003/empty,Ritma Sari III,Pegiringan
-146,146/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92004/empty,Sri Rejeki,Kreyo
-147,147/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92005/empty,Tani Makmur 2,Tanahbaya
-148,148/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92006/empty,Sumber Mulya,Gembyang
-149,149/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92007/empty,Guna Tani,Kejene
-150,150/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92008/empty,Bukit Alam Asri,Kejene
-151,151/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92009/empty,Pucang Sari I,Kejene
-152,152/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92010/empty,Warih Prabowo II,Lodaya
-153,153/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92011/empty,Maju Makmur 2,Semaya
-154,154/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92012/empty,Tani Karya 4,Kalitorong
-155,155/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92013/empty,Cita Tani 1,Kalimas
-156,156/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92014/empty,Sido Dadi,Gongseng
-157,157/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92015/empty,Tani Makmur Jaya,Tanahbaya
-158,158/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92016/empty,Mekarsari II,Karangmoncol
-159,159/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92017/empty,Sido Dadi,Kecepit
-160,160/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92018/empty,Sri Karya V,Kalitorong
-161,161/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92019/empty,Maju Jaya Makmur,Pegongsoran
-162,162/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92020/empty,Panca Karya,Banjarmulya
-163,163/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92021/empty,Madya Utama,Banjarmulya
-164,164/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92022/empty,Karya Bakti,Banjarmulya
-165,165/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92023/empty,Mekar Tani,Saradan
-166,166/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92024/empty,Mekar Jaya,Saradan
-167,167/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92025/empty,Mekar Sari,Saradan
-168,168/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92026/empty,Permatan I,Sungapan
-169,169/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92027/empty,Permatan II,Sungapan
-170,170/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92028/empty,Praktis,Pegongsoran
-171,171/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92029/empty,Tani Utama,Paduraksa
-172,172/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92030/empty,Margi Ikhlas,Kebondalem
-173,173/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92031/empty,Ngudi Makmur,Mengori
-174,174/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92032/empty,Pertama,Sewaka
-175,175/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92033/empty,Akur,Sewaka
-176,176/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92034/empty,Praktis,Sewaka
-177,177/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92035/empty,Tulus,Sewaka
-178,178/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92036/empty,Makaryo,Banjarmulya
-179,179/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92037/empty,Sumber Mulya II,Banjarmulya
-180,180/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92038/empty,Tani Mulyo,Mulyoharjo
-181,181/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92039/empty,Tani Unggul,Widodaren
-182,182/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92040/empty,Tani Widodo,Widodaren
-183,183/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92041/empty,Tani Teguh,Widodaren
-184,184/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92042/empty,Tani Jaya,Karangasem
-185,185/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92043/empty,Tani Makmur A,Kendalsari
-186,186/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92044/empty,Tani Makmur B,Kendalsari
-187,187/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92045/empty,Tani Makmur C,Kendalsari
-188,188/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92046/empty,Tani Makmur D,Kendalsari
-189,189/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92047/empty,Sido Makmur,Serang
-190,190/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92048/empty,Penanggoan,Serang
-191,191/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92049/empty,Sri Rejeki,Serang
-192,192/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92050/empty,Penanggoan 2,Serang
-193,193/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92051/empty,Karya Tani,Sirangkang
-194,194/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92052/empty,Sumber Rejeki,Sirangkang
-195,195/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92053/empty,Sumber Makmur,Sirangkang
-196,196/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92054/empty,Dewi Sri,Petarukan
-197,197/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92055/empty,Jati Sari,Petarukan
-198,198/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92056/empty,Parikesit,Petarukan
-199,199/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92057/empty,Seneng Maju,Petarukan
-200,200/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92058/empty,Karya Tani,Iser
-201,201/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92059/empty,Sidodadi,Iser
-202,202/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92060/empty,Tani Makmur,Iser
-203,203/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92061/empty,Tunas Tani,Iser
-204,204/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92062/empty,Sri Bekti,Loning
-205,205/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92063/empty,Tani Makmur,Loning
-206,206/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92064/empty,Tunas Mulya,Kalirandu
-207,207/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92065/empty,Sri Bekti,Tegalmlati
-208,208/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92066/empty,Sri Berkah I,Tegalmlati
-209,209/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92067/empty,Sri Berkah II,Tegalmlati
-210,210/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92068/empty,Sri Mulyo,Tegalmlati
-211,211/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92069/empty,Tani Makmur,Kendaldoyong
-212,212/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92070/empty,Ikhtiar Jaya,Kendaldoyong
-213,213/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92071/empty,Sri Makmur,Petanjungan
-214,214/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92072/empty,Sri Mulyo,Petanjungan
-215,215/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92073/empty,Sri Rejeki,Petanjungan
-216,216/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92074/empty,Tani Maju I,Klareyan
-217,217/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92075/empty,Sri Kandi,Klareyan
-218,218/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92076/empty,Shinta I,Klareyan
-219,219/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92077/empty,Shinta II,Klareyan
-220,220/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92078/empty,Sri Unggul,Klareyan
-221,221/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92079/empty,Tani Maju II,Klareyan
-222,222/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92080/empty,Tani Mukti,Klareyan
-223,223/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92081/empty,Sumber Makmur,Bulu
-224,224/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92082/empty,Sido Makmur,Bulu
-225,225/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92083/empty,Sami Makmur,Bulu
-226,226/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92084/empty,Karya Bhakti,Pegundan
-227,227/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92085/empty,Karya Mulya,Pegundan
-228,228/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92086/empty,Loh Jinawi,Pegundan
-229,229/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92087/empty,Tani Jaya,Pegundan
-230,230/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92088/empty,Gotong Royong,Pesucen
-231,231/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92089/empty,Sumber Makmur,Pesucen
-232,232/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92090/empty,Harapan Jaya,Pesucen
-233,233/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92091/empty,Sumber Hasil,Pesucen
-234,234/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92092/empty,Sederhana,Pesucen
-235,235/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92093/empty,Marga Sari I,Asemdoyong
-236,236/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92094/empty,Berkah,Banjaran
-237,237/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92095/empty,Tani Mulya,Beji
-238,238/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92096/empty,Margo Mulyo,Kabunan
-239,239/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92097/empty,Karya Tani III,Kejambon
-240,240/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92098/empty,Tani Lestari,Taman
-241,241/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92099/empty,Tani Jaya,Pener
-242,242/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92100/empty,Karang Mulya,Penggarit
-243,243/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92101/empty,Mapan,Blimbing
-244,244/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92102/empty,Tani Jaya,Blimbing
-245,245/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92103/empty,Tani Makmur II,Cibiyuk
-246,246/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92104/empty,Tani Makmur III,Cibiyuk
-247,247/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92105/empty,Sawunggaling III,Wonogiri
-248,248/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92106/empty,Kendalrejo,Tegalsari Timur
-249,249/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92107/empty,Adem Ayem I,Karangtengah
+no,nomor,situs,poktan,desa,bast
+1,1/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91811/empty,Mekar Jaya,Plakaran,7375000
+2,2/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91812/empty,Sumber Rejeki 3,Walangsanga,2950000
+3,3/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91813/empty,Subur 2,Mandiraja,10325000
+4,4/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91815/empty,Subur VI,Mandiraja,11210000
+5,5/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91816/empty,Subur Makmur III,Gendoang,2950000
+6,6/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91817/empty,Subur Makmur IV,Gendoang,6195000
+7,7/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91819/empty,Karangbulu I,Sima,2950000
+8,8/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91820/empty,Karangbulu II,Sima,4425000
+9,9/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91821/empty,Tangkuban,Sima,10325000
+10,10/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91823/empty,Tani Makmur,Pepedan,2950000
+11,11/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91824/empty,Tunas Tani,Pepedan,5900000
+12,12/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91825/empty,Lohjinawi,Moga,2950000
+13,13/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91827/empty,Tani Jaya,Moga,2950000
+14,14/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91828/empty,Tani Bakti,Moga,2950000
+15,15/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91830/empty,Toto Raharjo,Kebanggan,4425000
+16,16/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91832/empty,Karya Jaya,Banyumudal,5900000
+17,17/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91833/empty,Kusuma Jaya,Banyumudal,2950000
+18,18/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91844/empty,Tani Bahagia VI,Mereng,7375000
+19,19/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91845/empty,Tani Bahagia IV,Datar,5900000
+20,20/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91846/empty,Sidodadi IV,Warungpring,7375000
+21,21/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91847/empty,Sidodadi II,Warungpring,8850000
+22,22/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91848/empty,Tunas Harapan,Warungpring,8850000
+23,23/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91849/empty,Tani Lancar,Pakembaran,5900000
+24,24/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91859/empty,Sarwo Akur III,Pakembaran,5900000
+25,25/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91860/empty,Tani Makmur II,Karangdawa,3835000
+26,26/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91862/empty,Tani Makmur III,Karangdawa,2950000
+27,27/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91863/empty,Makmur Abadi V,Datar,4425000
+28,28/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91864/empty,Makmur Abadi VII,Datar,5900000
+29,29/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91866/empty,Ngudi Karya Tani III,Cibuyur,7375000
+30,30/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91867/empty,Ngudi Karya Tani IV,Cibuyur,7375000
+31,31/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91868/empty,Nalaguna,Cibuyur,5900000
+32,32/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91870/empty,Tani Mandiri,Cibuyur,5900000
+33,33/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91871/empty,Tani Bahagia III,Mereng,5900000
+34,34/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91872/empty,Rukun Tani,Karangsari,5900000
+35,35/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91873/empty,Sri Basuki,Karangsari,12685000
+36,36/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91874/empty,Makaryo Bakti,Gambuhan,8850000
+37,37/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91883/empty,Berkah Sari,Gambuhan,7080000
+38,38/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91884/empty,Gotong Royong,Cikendung,5900000
+39,39/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91885/empty,Karya Makmur,Cikendung,5900000
+40,40/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91886/empty,Karya Tani,Karangsari,5900000
+41,41/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91887/empty,Bina Tani,Bulakan,4425000
+42,42/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91888/empty,Boga Tani I,Bulakan,5900000
+43,43/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91889/empty,Gunung,Sikasur,7375000
+44,44/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91890/empty,Karya Tani,Gunungjaya,7375000
+45,45/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91891/empty,Simbar Jaya,Gunungjaya,5900000
+46,46/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91892/empty,Setia Hati,Gunungjaya,7375000
+47,47/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91893/empty,Lestari,Gunungjaya,4425000
+48,48/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91894/empty,Beringin Sejahtera,Gunungjaya,7375000
+49,49/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91895/empty,Manggung Wangi,Badak,5900000
+50,50/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91896/empty,Budidaya,Badak,7375000
+51,51/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91897/empty,Rimpak,Belik,2950000
+52,52/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91899/empty,Tulus Rahayu,Belik,5900000
+53,53/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91900/empty,Gondang,Belik,5900000
+54,54/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91901/empty,Maju Makmur,Gunungtiga,8850000
+55,55/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91903/empty,Karya Tani,Mendelem,5900000
+56,56/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91904/empty,Krida Tani II,Mendelem,4425000
+57,57/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91905/empty,Krida Tani I,Mendelem,5900000
+58,58/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91907/empty,Tumpang Sari,Kuta,7375000
+59,59/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91908/empty,Sumber Rejeki III,Belik,5900000
+60,60/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91909/empty,Tani Maju,Mendelem,4425000
+61,61/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91910/empty,Boga Tani II,Mendelem,5900000
+62,62/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91911/empty,Krida Tani IV,Mendelem,5900000
+63,63/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91912/empty,Situri,Kuta,4425000
+64,64/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91913/empty,Sumber Rejeki I,Belik,2950000
+65,65/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91914/empty,Sumber Rejeki II,Belik,2950000
+66,66/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91915/empty,Bakti Tani II,Mendelem,8850000
+67,67/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91916/empty,Maju Makmur,Kuta,8850000
+68,68/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91917/empty,Sepaha,Sikasur,8850000
+69,69/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91918/empty,Siglunggung,Sikasur,8850000
+70,70/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91919/empty,Kedung Belis,Sikasur,8850000
+71,71/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91920/empty,Adil II,Bulakan,7965000
+72,72/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91921/empty,Sri Mulya,Bulakan,7965000
+73,73/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91922/empty,Sido Muncul,Bongas,4425000
+74,74/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91923/empty,Lestari,Bongas,5900000
+75,75/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91925/empty,Langen Sari II,Bongas,5900000
+76,76/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91926/empty,Karya Bakti,Cikadu,8850000
+77,77/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91927/empty,Maju Tani,Cikadu,14750000
+78,78/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91928/empty,Tunas Harapan,Medayu,5900000
+79,79/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91930/empty,Rukun Tani II,Medayu,5900000
+80,80/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91931/empty,Kelapa Sawit,Majakerta,7375000
+81,81/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91932/empty,Jati Mulya,Majakerta,7375000
+82,82/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91934/empty,Mekar Jaya,Majakerta,7375000
+83,83/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91935/empty,Tani Maju,Jojogan,4425000
+84,84/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91936/empty,Maju Jaya,Jojogan,4425000
+85,85/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91938/empty,Maju Sadar,Jojogan,4425000
+86,86/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91939/empty,Mukti Sari,Jojogan,5900000
+87,87/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91940/empty,Sido Makmur,Wisnu,2950000
+88,88/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91942/empty,Mangli,Majalangu,5900000
+89,89/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91943/empty,Sido Mukti,Majalangu,5900000
+90,90/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91944/empty,Sido Makmur,Majalangu,14750000
+91,91/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91945/empty,Kali Taman,Cawet,7375000
+92,92/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91946/empty,Sipedang,Cawet,7375000
+93,93/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91948/empty,Tani Makmur,Watukumpul,5900000
+94,94/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91949/empty,Sido Dadi,Watukumpul,7375000
+95,95/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91951/empty,Margalangu II,Watukumpul,7375000
+96,96/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91952/empty,Sumber Rejeki,Bodas,15340000
+97,97/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91953/empty,Kramat,Cawet,17700000
+98,98/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91954/empty,Semi,Bongas,17110000
+99,99/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91956/empty,Rukun Tani I,Medayu,7375000
+100,100/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91957/empty,Lestari,Medayu,7375000
+101,101/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91958/empty,Budi Lestari,Bodas,5900000
+102,102/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91960/empty,Budi Rahayu Makmur,Bodas,5900000
+103,103/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91961/empty,Bangun Karya,Bodas,7375000
+104,104/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91962/empty,Tani Mandiri,Pendowo,10325000
+105,105/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91963/empty,Jati Makmur,Jatiroyom,10325000
+106,106/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91964/empty,Sumber Makmur,Jatiroyom,14750000
+107,107/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91965/empty,Tani Harapan,Jatiroyom,14750000
+108,108/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91966/empty,Puri Indah,Bodeh,5900000
+109,109/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91967/empty,Tani Mulyo,Bodeh,14750000
+110,110/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91968/empty,Mukti Jaya,Jatingarang,13275000
+111,111/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91969/empty,Tani Sadar,Kelangdepok,8850000
+112,112/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91970/empty,Tani Mantep,Kelangdepok,8850000
+113,113/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91971/empty,Lumayan,Kelangdepok,8850000
+114,114/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91972/empty,Sri Rejeki,Muncang,7375000
+115,115/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91973/empty,Lestari,Muncang,7375000
+116,116/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91974/empty,Tani Dewi,Muncang,7375000
+117,117/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91975/empty,Terang,Babakan,10325000
+118,118/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91976/empty,Kismo Budaya,Longkeyang,17700000
+119,119/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91977/empty,Sumber Makmur,Karangbrai,7375000
+120,120/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91978/empty,Tulus Karya II,Kebandaran,7375000
+121,121/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91979/empty,Gemah Ripah,Cangak,10325000
+122,122/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91980/empty,Sri Rahayu,Cangak,11800000
+123,123/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91981/empty,Tunggul Raharjo,Payung,7375000
+124,124/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91982/empty,Sumber Waras,Parunggalih,14750000
+125,125/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91983/empty,Tani Jaya,Payung,14750000
+126,126/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91984/empty,Gunung Sari,Payung,13275000
+127,127/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91985/empty,Dewi Sri,Kesesirejo,8850000
+128,128/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91986/empty,Aneka Tani,Glandang,22125000
+129,129/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91987/empty,Cipta Tani,Glandang,22125000
+130,130/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91988/empty,Mulya Tani,Kuta,14750000
+131,131/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91989/empty,Suka Maju,Kuta,20650000
+132,132/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91990/empty,Among Tani,Purana,10325000
+133,133/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91991/empty,Rekso Tani,Purana,22125000
+134,134/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91992/empty,Cemerlang Usaha Tani,Purana,10325000
+135,135/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91993/empty,Tani Makmur 1,Wanarata,8850000
+136,136/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91994/empty,Tani Makmur 2,Wanarata,8850000
+137,137/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91995/empty,Utama Sari IV,Banjarsari,13275000
+138,138/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91996/empty,Ritma Sari I,Pegiringan,7375000
+139,139/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91997/empty,Ritma Sari II,Pegiringan,7375000
+140,140/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91998/empty,Ritma Sari IV,Pegiringan,7375000
+141,141/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/91999/empty,Utama Sari II,Banjarsari,7375000
+142,142/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92000/empty,Panca Tani,Pabuaran,14750000
+143,143/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92001/empty,Utama Sari III,Banjarsari,10325000
+144,144/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92002/empty,Tani Mulya V,Wanarata,11800000
+145,145/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92003/empty,Ritma Sari III,Pegiringan,7375000
+146,146/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92004/empty,Sri Rejeki,Kreyo,28910000
+147,147/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92005/empty,Tani Makmur 2,Tanahbaya,17700000
+148,148/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92006/empty,Sumber Mulya,Gembyang,20650000
+149,149/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92007/empty,Guna Tani,Kejene,23600000
+150,150/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92008/empty,Bukit Alam Asri,Kejene,26550000
+151,151/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92009/empty,Pucang Sari I,Kejene,19175000
+152,152/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92010/empty,Warih Prabowo II,Lodaya,14750000
+153,153/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92011/empty,Maju Makmur 2,Semaya,11800000
+154,154/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92012/empty,Tani Karya 4,Kalitorong,14750000
+155,155/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92013/empty,Cita Tani 1,Kalimas,14750000
+156,156/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92014/empty,Sido Dadi,Gongseng,14750000
+157,157/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92015/empty,Tani Makmur Jaya,Tanahbaya,14750000
+158,158/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92016/empty,Mekarsari II,Karangmoncol,11800000
+159,159/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92017/empty,Sido Dadi,Kecepit,11800000
+160,160/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92018/empty,Sri Karya V,Kalitorong,29500000
+161,161/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92019/empty,Maju Jaya Makmur,Pegongsoran,7375000
+162,162/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92020/empty,Panca Karya,Banjarmulya,43660000
+163,163/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92021/empty,Madya Utama,Banjarmulya,32450000
+164,164/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92022/empty,Karya Bakti,Banjarmulya,35400000
+165,165/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92023/empty,Mekar Tani,Saradan,14750000
+166,166/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92024/empty,Mekar Jaya,Saradan,10325000
+167,167/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92025/empty,Mekar Sari,Saradan,10325000
+168,168/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92026/empty,Permatan I,Sungapan,10325000
+169,169/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92027/empty,Permatan II,Sungapan,10325000
+170,170/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92028/empty,Praktis,Pegongsoran,7375000
+171,171/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92029/empty,Tani Utama,Paduraksa,7375000
+172,172/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92030/empty,Margi Ikhlas,Kebondalem,14750000
+173,173/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92031/empty,Ngudi Makmur,Mengori,16225000
+174,174/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92032/empty,Pertama,Sewaka,7375000
+175,175/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92033/empty,Akur,Sewaka,7375000
+176,176/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92034/empty,Praktis,Sewaka,10325000
+177,177/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92035/empty,Tulus,Sewaka,23600000
+178,178/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92036/empty,Makaryo,Banjarmulya,21535000
+179,179/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92037/empty,Sumber Mulya II,Banjarmulya,20650000
+180,180/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92038/empty,Tani Mulyo,Mulyoharjo,10325000
+181,181/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92039/empty,Tani Unggul,Widodaren,25075000
+182,182/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92040/empty,Tani Widodo,Widodaren,23600000
+183,183/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92041/empty,Tani Teguh,Widodaren,25075000
+184,184/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92042/empty,Tani Jaya,Karangasem,36875000
+185,185/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92043/empty,Tani Makmur A,Kendalsari,30975000
+186,186/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92044/empty,Tani Makmur B,Kendalsari,27435000
+187,187/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92045/empty,Tani Makmur C,Kendalsari,28025000
+188,188/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92046/empty,Tani Makmur D,Kendalsari,29500000
+189,189/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92047/empty,Sido Makmur,Serang,18290000
+190,190/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92048/empty,Penanggoan,Serang,13275000
+191,191/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92049/empty,Sri Rejeki,Serang,24780000
+192,192/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92050/empty,Penanggoan 2,Serang,11800000
+193,193/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92051/empty,Karya Tani,Sirangkang,17700000
+194,194/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92052/empty,Sumber Rejeki,Sirangkang,14750000
+195,195/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92053/empty,Sumber Makmur,Sirangkang,10325000
+196,196/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92054/empty,Dewi Sri,Petarukan,16815000
+197,197/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92055/empty,Jati Sari,Petarukan,8850000
+198,198/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92056/empty,Parikesit,Petarukan,18880000
+199,199/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92057/empty,Seneng Maju,Petarukan,17405000
+200,200/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92058/empty,Karya Tani,Iser,14750000
+201,201/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92059/empty,Sidodadi,Iser,12685000
+202,202/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92060/empty,Tani Makmur,Iser,18880000
+203,203/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92061/empty,Tunas Tani,Iser,11800000
+204,204/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92062/empty,Sri Bekti,Loning,20355000
+205,205/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92063/empty,Tani Makmur,Loning,14750000
+206,206/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92064/empty,Tunas Mulya,Kalirandu,18585000
+207,207/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92065/empty,Sri Bekti,Tegalmlati,30090000
+208,208/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92066/empty,Sri Berkah I,Tegalmlati,24485000
+209,209/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92067/empty,Sri Berkah II,Tegalmlati,27435000
+210,210/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92068/empty,Sri Mulyo,Tegalmlati,30680000
+211,211/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92069/empty,Tani Makmur,Kendaldoyong,20060000
+212,212/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92070/empty,Ikhtiar Jaya,Kendaldoyong,22125000
+213,213/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92071/empty,Sri Makmur,Petanjungan,13275000
+214,214/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92072/empty,Sri Mulyo,Petanjungan,14750000
+215,215/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92073/empty,Sri Rejeki,Petanjungan,8850000
+216,216/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92074/empty,Tani Maju I,Klareyan,33040000
+217,217/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92075/empty,Sri Kandi,Klareyan,17995000
+218,218/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92076/empty,Shinta I,Klareyan,23600000
+219,219/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92077/empty,Shinta II,Klareyan,16815000
+220,220/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92078/empty,Sri Unggul,Klareyan,23600000
+221,221/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92079/empty,Tani Maju II,Klareyan,11800000
+222,222/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92080/empty,Tani Mukti,Klareyan,25075000
+223,223/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92081/empty,Sumber Makmur,Bulu,7965000
+224,224/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92082/empty,Sido Makmur,Bulu,7965000
+225,225/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92083/empty,Sami Makmur,Bulu,8555000
+226,226/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92084/empty,Karya Bhakti,Pegundan,13865000
+227,227/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92085/empty,Karya Mulya,Pegundan,7080000
+228,228/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92086/empty,Loh Jinawi,Pegundan,13275000
+229,229/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92087/empty,Tani Jaya,Pegundan,16225000
+230,230/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92088/empty,Gotong Royong,Pesucen,13275000
+231,231/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92089/empty,Sumber Makmur,Pesucen,24780000
+232,232/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92090/empty,Harapan Jaya,Pesucen,15635000
+233,233/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92091/empty,Sumber Hasil,Pesucen,11800000
+234,234/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92092/empty,Sederhana,Pesucen,13275000
+235,235/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92093/empty,Marga Sari I,Asemdoyong,5900000
+236,236/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92094/empty,Berkah,Banjaran,23895000
+237,237/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92095/empty,Tani Mulya,Beji,7965000
+238,238/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92096/empty,Margo Mulyo,Kabunan,17110000
+239,239/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92097/empty,Karya Tani III,Kejambon,18585000
+240,240/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92098/empty,Tani Lestari,Taman,23305000
+241,241/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92099/empty,Tani Jaya,Pener,17700000
+242,242/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92100/empty,Karang Mulya,Penggarit,17700000
+243,243/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92101/empty,Mapan,Blimbing,10325000
+244,244/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92102/empty,Tani Jaya,Blimbing,11800000
+245,245/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92103/empty,Tani Makmur II,Cibiyuk,11800000
+246,246/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92104/empty,Tani Makmur III,Cibiyuk,12095000
+247,247/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92105/empty,Sawunggaling III,Wonogiri,13865000
+248,248/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92106/empty,Kendalrejo,Tegalsari Timur,12685000
+249,249/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/92107/empty,Adem Ayem I,Karangtengah,9145000

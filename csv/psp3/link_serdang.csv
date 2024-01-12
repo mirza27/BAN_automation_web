@@ -1,14 +1,14 @@
-no,no_bam,situs,poktan,desa,bast
-1,1/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103929/empty,Fajar Sari,Pon,55460000
-2,2/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103930/empty,Sei Belutu,Sei Belutu,327745000
-3,3/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103933/empty,Sri Agung,Penggalangan,31270000
-4,4/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103934/empty,Mekar Tani,Pematang Ganjang,227150000
-5,5/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103936/empty,Karya Bersama,Sei Parit,93810000
-6,6/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103937/empty,Sehati,Silau Rakyat,94695000
-7,7/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103939/empty,Cinta Sehati,Cinta Air,112985000
-8,8/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103940/empty,Sri Ayu,Kota Galuh,56345000
-9,9/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103941/empty,Sri Abadi Makmur,Sukajadi,44545000
-10,10/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103942/empty,Karya Bersama,Bengkel,28910000
-11,11/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103944/empty,Maju Bersama,Lidah Tanah,125080000
-12,12/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103945/empty,Mekar Tani,Sei Nagalawan,157235000
-13,13/bam/poligon,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103946/empty,Sederhana,Ara Payung,83485000
+no,No,situs,poktan,desa,bast,total
+1,446,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103929/empty,Fajar Sari,Pon,55460000,62228000
+2,447,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103930/empty,Sei Belutu,Sei Belutu,327745000,367741000
+3,448,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103933/empty,Sri Agung,Penggalangan,31270000,35086000
+4,449,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103934/empty,Mekar Tani,Pematang Ganjang,227150000,254870000
+5,450,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103936/empty,Karya Bersama,Sei Parit,93810000,105258000
+6,451,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103937/empty,Sehati,Silau Rakyat,94695000,106251000
+7,452,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103939/empty,Cinta Sehati,Cinta Air,112985000,126773000
+8,453,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103940/empty,Sri Ayu,Kota Galuh,56345000,63221000
+9,454,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103941/empty,Sri Abadi Makmur,Sukajadi,44545000,49981000
+10,455,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103942/empty,Karya Bersama,Bengkel,28910000,32438000
+11,456,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103944/empty,Maju Bersama,Lidah Tanah,125080000,140344000
+12,457,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103945/empty,Mekar Tani,Sei Nagalawan,157235000,176423000
+13,458,https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/103946/empty,Sederhana,Ara Payung,83485000,93673000

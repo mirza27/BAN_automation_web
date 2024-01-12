@@ -8,7 +8,7 @@ import time
 import base64
 from PIL import Image
 from io import BytesIO
-
+import os
 from bs4 import BeautifulSoup
 import csv
 from selenium import webdriver
@@ -83,7 +83,7 @@ class MultiChromeDriver:
         #         )
         #     )
         #     tambah_button.click()
-        time.sleep(5)
+        time.sleep(3)
         progres_select = WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.NAME, "progres"))
         )
@@ -111,8 +111,10 @@ def get_url(driver, site_url, index):
 def submit_form(driver):
     global total_uploads
     # Submit the form
-    submit_button = driver.find_element(
-        By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning'
+    submit_button = WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located(
+            (By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning')
+        )
     )
     submit_button.click()
 
@@ -129,14 +131,13 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/link_karo2.csv"
+    csv_file = "./csv/psp2/link_takalar.csv"
     num_drivers = 1  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
     keterangan = "foto 50 persen"
     progress = "50"  # pilih "50" / "100"
-    img_file = (
-        "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/karo/OC/foto distribusi 50.jpeg"
-    )
+    img_file = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/ponorogo/OC jpg version"
+    img_50_file = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/takalar/oc 50%.jpg"
 
     try:
         email = "bast@binaagrosiwimandiri.com"
@@ -151,9 +152,11 @@ if __name__ == "__main__":
         with open(csv_file, "r") as file:
             csv_reader = csv.DictReader(file)
             temp_data = []
+            temp_data_img = []
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
-                temp_data.append((row["situs"]), (row["poktan"]))
+                temp_data.append(row["situs"])
+                temp_data_img.append(row["image"])
 
                 #  jika sudah kelipatan sebanyak num_driver
                 if (index + 1) % num_drivers == 0:
@@ -176,19 +179,23 @@ if __name__ == "__main__":
 
                     # mengisi inputan sesuai url tanpa thread / 1 persatu
                     for k in range(num_drivers):
+                        # memberi alamat lengkap gambar
+                        # file_path = os.path.join(img_file, temp_data_img[k])
+
                         multi_driver.input(
                             multi_driver.get_driver(k),
-                            img_file,
+                            img_50_file,
                             progress,
                             keterangan,
                         )
-                        print("mengisi driver ke", k, "dengan", temp_data[k][1])
+                        print("mengisi driver ke", k, "dengan", temp_data[k])
                         logging.info(
-                            f"Filled form for situs: {temp_data[k][0]}, poktan : {temp_data[k][1]}"
+                            f"Filled form for situs: {temp_data[k]}, image : {temp_data_img[k]}"
                         )
 
                     # mengosongkan data sementara dan threads
                     temp_data = []
+                    temp_data_img = []
                     threads = []
 
                     # submit bersamaan

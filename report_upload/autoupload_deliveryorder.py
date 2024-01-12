@@ -4,6 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import logging
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 
@@ -29,7 +31,7 @@ class MultiChromeDriver:
             driver.quit()
 
     def login(self, driver, email, password):
-        login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+        login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         driver.get(login_url)
 
         email_input = driver.find_element(By.NAME, "email")
@@ -38,37 +40,57 @@ class MultiChromeDriver:
         password_input = driver.find_element(By.NAME, "password")
         password_input.send_keys(password)
 
+        captcha_input = input("Masukkan Captcha: ")
+
+        # Masukkan nilai ke dalam elemen input
+        captcha_textbox = driver.find_element(By.ID, "captcha")
+        captcha_textbox.send_keys(captcha_input)
+
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
     def input(self, driver, nomor, tanggal, nilai, invoice):
-        time.sleep(2)
+        # nomor_element = WebDriverWait(driver, 20).until(
+        #     EC.presence_of_element_located((By.NAME, "nomor"))
+        # )
+        # nomor_element.clear()
+        # nomor_element.send_keys(nomor)  # mengisi input nomor
 
-        driver.find_element(By.NAME, "nomor").send_keys(nomor)  # mengisi input nomor
+        # tanggal_element = WebDriverWait(driver, 20).until(
+        #     EC.presence_of_element_located((By.NAME, "tgl"))
+        # )
+        # tanggal_element.clear()
+        # tanggal_element.send_keys(tanggal)  # mengisi input tanggal
 
-        driver.find_element(By.NAME, "tgl").send_keys(tanggal)  # mengisi input tanggal
+        nilai_element = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "nilai"))
+        )
+        nilai_element.clear()
+        driver.execute_script(
+            "arguments[0].value = arguments[0].value + arguments[1];",
+            nilai_element,
+            nilai,
+        )
 
-        driver.find_element(By.NAME, "nilai").send_keys(
-            nilai
-        )  # mengisi input nilai nominal
-
-        driver.find_element(By.NAME, "file_delivery_order").send_keys(
-            invoice
-        )  # mengisi input file
+        # driver.find_element(By.NAME, "file_delivery_order").send_keys(
+        #     invoice
+        # )  # mengisi input file
 
 
 def get_url(driver, site_url, index):
-    driver.get(site_url.replace("/empty", "/delivery_order/create"))
+    driver.get(site_url.replace("/empty", "/delivery_order"))
     print(f"Driver {index} title: {driver.title}")
 
 
 def submit_form(driver):
     global total_uploads
     # Submit the form
-    submit_button = driver.find_element(
-        By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning'
+    submit_button = WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located(
+            (By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning')
+        )
     )
-    submit_button.click()
+    driver.execute_script("arguments[0].click();", submit_button)
 
 
 # Konfigurasi logging
@@ -83,15 +105,16 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/.csv"
+    csv_file = "./csv/psp1/link_bondowoso.csv"
     num_drivers = 1  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
-    tanggal = "27-06-2023"
-    invoice_path = "C:/Users/ramad/OneDrive/Dokumen/BAN_auto/"
+    tanggal = "27-10-2023"
+    file_sj_path = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/takalar/sj pdf version"
+    no_file = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/oc_kampar.csv"
 
     try:
         email = "bast@binaagrosiwimandiri.com"
-        password = "Lapor"
+        password = "L@por@n_"
 
         for index in range(num_drivers):
             driver = multi_driver.get_driver(index)
@@ -105,13 +128,7 @@ if __name__ == "__main__":
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
                 temp_data.append(
-                    (
-                        row["situs"],
-                        row["nomor"],
-                        row["delivery_order"],
-                        row["nilai"],
-                        row["invoice"],
-                    )
+                    (row["situs"], row["no_bam"], row["ongkir"], row["total"])
                 )
 
                 #  jika sudah kelipatan sebanyak num_driver
@@ -135,12 +152,15 @@ if __name__ == "__main__":
 
                     # mengisi inputan sesuai url tanpa thread / 1 persatu
                     for k in range(num_drivers):
+                        # file_path = os.path.join(file_sj_path, temp_data[k][1] + ".pdf")
+
                         multi_driver.input(
                             multi_driver.get_driver(k),
-                            temp_data[k][2],  # delivery order
-                            tanggal,  # tanggal
-                            temp_data[k][3],  # nilai nominal rupiah
-                            os.path.join(invoice_path, temp_data[k][4]),  # file invoice
+                            temp_data[k][1]
+                            + "/BAM-P/PSP/DO-TAKALAR/16/IX/23",  # nomor delivery order
+                            temp_data[k][3],  # tanggal
+                            temp_data[k][2],  # nilai ongkir
+                            no_file,  # file invoice
                         )
                         print("mengisi driver ke", k, "dengan", temp_data[k][1])
                         logging.info(

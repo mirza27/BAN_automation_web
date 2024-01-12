@@ -1,0 +1,113 @@
+2023-12-17 17:10:53,353 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80332/empty, nama ketua: Yusli Mambela, nik: 7326071507720001, ktp_image: 1348.jpg
+2023-12-17 17:11:23,862 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80333/empty, nama ketua: Simon Lapu', nik: 7326070101540004, ktp_image: 1349.jpg
+2023-12-17 17:11:30,821 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80334/empty, nama ketua: Yohanis Sula', nik: 7326073112730005, ktp_image: 1350.jpg
+2023-12-17 17:11:35,287 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80335/empty, nama ketua: Ruben Tulak, nik: 7326071112720004, ktp_image: 1351.jpg
+2023-12-17 17:11:41,652 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80336/empty, nama ketua: Jupril Sibidang, nik: 7326072204840002, ktp_image: 1352.jpg
+2023-12-17 17:11:54,851 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80337/empty, nama ketua: Tetti Bunga Allo, nik: 7326075808580001, ktp_image: 1353.jpg
+2023-12-17 17:12:26,563 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80338/empty, nama ketua: Salu, nik: 7326071508620001, ktp_image: 1354.jpg
+2023-12-17 17:12:36,927 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80339/empty, nama ketua: Leo Sanda Layuk, nik: 7326071108870000, ktp_image: 1355.jpg
+2023-12-17 17:12:41,649 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80340/empty, nama ketua: Pata'dungan R. Palulun, nik: 7326152103930001, ktp_image: 1356.jpg
+2023-12-17 17:12:45,919 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80341/empty, nama ketua: Pither Sattu, nik: 732615220560002, ktp_image: 1357.jpg
+2023-12-17 17:12:50,730 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80342/empty, nama ketua: Matius Ruruk, nik: 7326182004750001, ktp_image: 1358.jpg
+2023-12-17 17:12:56,469 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80343/empty, nama ketua: Petrus Rante Ta'bi, nik: 7326182606680002, ktp_image: 1359.jpg
+2023-12-17 17:13:03,467 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80344/empty, nama ketua: Matius Pati, nik: 7326183012620001, ktp_image: 1360.jpg
+2023-12-17 17:13:36,947 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80345/empty, nama ketua: MP. Lantang, nik: 7326180312800001, ktp_image: 1361.jpg
+2023-12-17 17:13:58,538 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80346/empty, nama ketua: Mustar, nik: 7326181806780001, ktp_image: 1362.jpg
+2023-12-17 17:14:09,116 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80347/empty, nama ketua: Suleman Bubungan, nik: 7326182810700001, ktp_image: 1363.jpg
+2023-12-17 17:14:15,576 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80348/empty, nama ketua: Polina Toding, nik: 7326186507800001, ktp_image: 1364.jpg
+2023-12-17 17:14:22,105 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80349/empty, nama ketua: Yuli Sara, nik: 7326184907750002, ktp_image: 1365.jpg
+2023-12-17 17:14:27,812 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80350/empty, nama ketua: Darius Riawan, nik: 3275071007720042, ktp_image: 1366.jpg
+2023-12-17 17:14:33,343 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80351/empty, nama ketua: Agustinus Mangulang, nik: 7326182608670001, ktp_image: 1367.jpg
+2023-12-17 17:14:38,840 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80352/empty, nama ketua: Obet Nego Pasino, nik: 7326181710670000, ktp_image: 1368.jpg
+2023-12-17 17:14:45,154 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80353/empty, nama ketua: Petrus R., nik: 7326180508620001, ktp_image: 1369.jpg
+2023-12-17 17:14:50,693 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80354/empty, nama ketua: Yohana Rante Danun, nik: 7326015506540001, ktp_image: 1370.jpg
+2023-12-17 17:15:03,441 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80355/empty, nama ketua: Lukas Painan, nik: 7326183112740002, ktp_image: 1371.jpg
+2023-12-17 17:15:12,696 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80356/empty, nama ketua: Yohanis Rattin, nik: 7326183112610003, ktp_image: 1372.jpg
+2023-12-17 17:15:50,491 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80357/empty, nama ketua: Heryanto Banne Ringgi, nik: 7326182304840001, ktp_image: 1373.jpg
+2023-12-17 17:15:55,856 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80358/empty, nama ketua: Kala' Rantepadang, nik: 7326180107630002, ktp_image: 1374.jpg
+2023-12-17 17:16:00,571 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80359/empty, nama ketua: Obeth Nego Pasino, nik: 7326181710670000, ktp_image: 1375.jpg
+2023-12-17 17:16:23,149 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80360/empty, nama ketua: Lungan Tandi Rura, nik: 7326180902690001, ktp_image: 1376.jpg
+2023-12-17 17:16:28,107 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80361/empty, nama ketua: Yusuf Tangnga, nik: 7326181406690000, ktp_image: 1377.jpg
+2023-12-17 17:16:32,945 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80362/empty, nama ketua: Yohan Rano, nik: 7326182005780000, ktp_image: 1378.jpg
+2023-12-17 17:16:37,472 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80363/empty, nama ketua: Petrus Tandirau, nik: 7326181107670004, ktp_image: 1379.jpg
+2023-12-17 17:16:59,429 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80364/empty, nama ketua: S.R. Panggalo, nik: 7326010207420002, ktp_image: 1380.jpg
+2023-12-17 17:17:06,029 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80365/empty, nama ketua: Jeni Ruru Pasa', nik: 7326015201720001, ktp_image: 1381.jpg
+2023-12-17 17:17:10,471 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80366/empty, nama ketua: Julius Siappa', nik: 732612807740002, ktp_image: 1382.jpg
+2023-12-17 17:17:19,028 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80367/empty, nama ketua: Yulius Allo Langi', nik: 7326011307650001, ktp_image: 1383.jpg
+2023-12-17 17:17:35,043 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80368/empty, nama ketua: Sumarre Kanuna, nik: 7326030606650001, ktp_image: 1384.jpg
+2023-12-17 17:17:49,887 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80369/empty, nama ketua: Lukas Toding, nik: 7326031110720001, ktp_image: 1385.jpg
+2023-12-17 17:18:14,508 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80370/empty, nama ketua: Lolo Sugi Tonapa Arung La'bi, nik: 7326030208730001, ktp_image: 1386.jpg
+2023-12-17 17:18:19,471 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80371/empty, nama ketua: Edy Padandi, nik: 7326032505690004, ktp_image: 1387.jpg
+2023-12-17 17:18:24,483 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80372/empty, nama ketua: Dahlia, nik: 7326017103690002, ktp_image: 1388.jpg
+2023-12-17 17:18:45,025 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80373/empty, nama ketua: Karel Takin, nik: 7326030102550001, ktp_image: 1389.jpg
+2023-12-17 17:18:47,741 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80374/empty, nama ketua: Philipus Dalip, nik: 7326033108730001, ktp_image: 1390.jpg
+2023-12-17 17:19:10,161 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80375/empty, nama ketua: Yunus Ringki', nik: 7326030204660001, ktp_image: 1391.jpg
+2023-12-17 17:19:20,258 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80376/empty, nama ketua: Andarias Nimba, nik: 7326031805071621, ktp_image: 1392.jpg
+2023-12-17 17:19:26,512 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80377/empty, nama ketua: Benyamin Padaunan, nik: 7326030101460001, ktp_image: 1393.jpg
+2023-12-17 17:19:34,384 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80378/empty, nama ketua: Yohanis Masak, nik: 7326031406790001, ktp_image: 1394.jpg
+2023-12-17 17:19:41,759 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80379/empty, nama ketua: Esther Gala, nik: 7326115411760001, ktp_image: 1395.jpg
+2023-12-17 17:19:47,912 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80380/empty, nama ketua: Lius Mangeke, nik: 7326032007760001, ktp_image: 1396.jpg
+2023-12-17 17:19:53,200 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80381/empty, nama ketua: Gandu Mappa, nik: 7326032505660002, ktp_image: 1397.jpg
+2023-12-17 17:19:57,828 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80382/empty, nama ketua: Lius Rantetandung, nik: 7326030407640001, ktp_image: 1398.jpg
+2023-12-17 17:20:03,020 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80383/empty, nama ketua: Lukas Patirri, nik: 7326831702370001, ktp_image: 1399.jpg
+2023-12-17 17:20:29,665 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80384/empty, nama ketua: Adolfis Ritiauw, nik: 7326030503640001, ktp_image: 1400.jpg
+2023-12-17 17:20:35,882 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80385/empty, nama ketua: Markus Tandilolo, nik: 7326112306600002, ktp_image: 1401.jpg
+2023-12-17 17:20:40,319 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80386/empty, nama ketua: Pandu  Parangan, nik: 7326113112520001, ktp_image: 1402.jpg
+2023-12-17 17:20:44,740 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80388/empty, nama ketua: Magdalena Garente, nik: 7326115409920003, ktp_image: 1404.jpg
+2023-12-17 17:20:50,867 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80389/empty, nama ketua: Herman Lempang, nik: 7326112803680001, ktp_image: 1405.jpg
+2023-12-17 17:21:19,492 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80390/empty, nama ketua: Aril Maryogi Tulak, nik: 6472052803880008, ktp_image: 1406.jpg
+2023-12-17 17:21:23,574 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80391/empty, nama ketua: Hendrik Busso, nik: 7326111804680001, ktp_image: 1407.jpg
+2023-12-17 17:21:28,927 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80392/empty, nama ketua: Benyamin T. Layuk, nik: 7326113006750001, ktp_image: 1408.jpg
+2023-12-17 17:21:33,651 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80393/empty, nama ketua: Lulunbara, nik: 7326091110700001, ktp_image: 1409.jpg
+2023-12-17 17:21:41,008 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80394/empty, nama ketua: Esni Hans Pakendek, nik: 7326090307640002, ktp_image: 1410.jpg
+2023-12-17 17:21:46,329 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80395/empty, nama ketua: Andarias P. Lumbaa, nik: 732609 0401670001, ktp_image: 1411.jpg
+2023-12-17 17:21:52,548 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80396/empty, nama ketua: Yakob Tappi, nik: 7326093105640001, ktp_image: 1412.jpg
+2023-12-17 17:22:00,776 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80397/empty, nama ketua: Yospin Pakantun, nik: 7326090101760001, ktp_image: 1413.jpg
+2023-12-17 17:22:09,826 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80398/empty, nama ketua: Yosfina Aampererung, nik: 7326095607720001, ktp_image: 1414.jpg
+2023-12-17 17:22:36,227 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80399/empty, nama ketua: Ristam Matandung, nik: 7326013011650001, ktp_image: 1415.jpg
+2023-12-17 17:22:41,675 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80400/empty, nama ketua: Gustop Limbong, nik: 7326090108890001, ktp_image: 1416.jpg
+2023-12-17 17:22:48,805 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80401/empty, nama ketua: Yohanis Sattu Kati, nik: 7326093112480014, ktp_image: 1417.jpg
+2023-12-17 17:22:54,736 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80402/empty, nama ketua: Yuliana Rombe, nik: 7326095607780002, ktp_image: 1418.jpg
+2023-12-17 17:23:00,537 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80403/empty, nama ketua: Yohanis Kila, nik: 9171041010890002, ktp_image: 1419.jpg
+2023-12-17 17:23:05,915 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80404/empty, nama ketua: Yohanis Lolo, nik: 7326090606680001, ktp_image: 1420.jpg
+2023-12-17 17:23:13,348 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80405/empty, nama ketua: Appa Matasik, nik: 7326020104550001, ktp_image: 1421.jpg
+2023-12-17 17:23:18,886 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80406/empty, nama ketua: Markus R. T, nik: 7326021212580001, ktp_image: 1422.jpg
+2023-12-17 17:23:23,587 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80407/empty, nama ketua: Baji, nik: 7326024304700001, ktp_image: 1423.jpg
+2023-12-17 17:23:29,230 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80408/empty, nama ketua: Yunus Membuni, nik: 7326020107500012, ktp_image: 1424.jpg
+2023-12-17 17:23:36,765 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80409/empty, nama ketua: Yusuf Tiku Pabendan, nik: 7326021811550000, ktp_image: 1425.jpg
+2023-12-17 17:23:42,659 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80410/empty, nama ketua: Paulus Tandi Rapa, nik: 7326062110730003, ktp_image: 1426.jpg
+2023-12-17 17:23:49,055 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80411/empty, nama ketua: Peri Tondon, nik: 7326044802730001, ktp_image: 1427.jpg
+2023-12-17 17:23:54,992 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80413/empty, nama ketua: Yohanis Bongga, nik: 7326040504740002, ktp_image: 1429.jpg
+2023-12-17 17:24:00,275 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80414/empty, nama ketua: Daud Tandirapang, nik: 7326045211650001, ktp_image: 1430.jpg
+2023-12-17 17:24:05,777 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80415/empty, nama ketua: Yusuf Bonan, nik: 7326040504830001, ktp_image: 1431.jpg
+2023-12-17 17:24:14,724 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80416/empty, nama ketua: Markus Sabar Malino, nik: 7326042010580003, ktp_image: 1432.jpg
+2023-12-17 17:24:31,794 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80417/empty, nama ketua: Ipon Toding, nik: 7326041712720001, ktp_image: 1433.jpg
+2023-12-17 17:24:40,245 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80418/empty, nama ketua: Bongga, nik: 7318103012670001, ktp_image: 1434.jpg
+2023-12-17 17:25:13,025 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80419/empty, nama ketua: Daniel Toding, nik: 7326042004640001, ktp_image: 1435.jpg
+2023-12-17 17:25:23,255 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80421/empty, nama ketua: Thomas Tangkeallo, nik: 7326040104670001, ktp_image: 1437.jpg
+2023-12-17 17:25:29,462 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80423/empty, nama ketua: A.S. Patanduk, nik: 7326040506650002, ktp_image: 1439.jpg
+2023-12-17 17:25:34,884 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80424/empty, nama ketua: S. S. Tandipayuk, nik: 7326043112660005, ktp_image: 1440.jpg
+2023-12-17 17:25:39,643 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80425/empty, nama ketua: Randerman L., nik: 7326191004680002, ktp_image: 1441.jpg
+2023-12-17 17:25:46,049 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80426/empty, nama ketua: Drs. E. Rante Tampang, nik: 3174080209590003, ktp_image: 1442.jpg
+2023-12-17 17:25:51,901 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80427/empty, nama ketua: Yuliana Pongtasik, nik: 7326190508650001, ktp_image: 1443.jpg
+2023-12-17 17:25:59,127 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80428/empty, nama ketua: Daud Seri, nik: 7326191112660002, ktp_image: 1444.jpg
+2023-12-17 17:26:04,904 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80429/empty, nama ketua: Yosef Rande, nik: 7326192911690001, ktp_image: 1445.jpg
+2023-12-17 17:26:10,333 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80430/empty, nama ketua: Pilipus Sari, nik: 7326191905750001, ktp_image: 1446.jpg
+2023-12-17 17:26:16,085 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80431/empty, nama ketua: Daniel Ampangallo, nik: 7326190112720003, ktp_image: 1447.jpg
+2023-12-17 17:26:23,939 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80432/empty, nama ketua: Yulius Rupang, nik: 7326100404720002, ktp_image: 1448.jpg
+2023-12-17 17:26:28,809 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80433/empty, nama ketua: Udeltia Pongre'kun, nik: 7326105108840005, ktp_image: 1449.jpg
+2023-12-17 17:26:36,246 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80435/empty, nama ketua: Asis Rombe, nik: 7326101008760002, ktp_image: 1451.jpg
+2023-12-17 17:26:44,868 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80436/empty, nama ketua: Nety Kadang, nik: 7326105006630002, ktp_image: 1452.jpg
+2023-12-17 17:26:51,048 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80437/empty, nama ketua: Yuliana Karissi, nik: 7326106006740001, ktp_image: 1453.jpg
+2023-12-17 17:27:12,536 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80438/empty, nama ketua: Daniel Tonapa, nik: 7326102402680001, ktp_image: 1454.jpg
+2023-12-17 17:27:18,067 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80439/empty, nama ketua: Natan Karambe, nik: 7326102407730001, ktp_image: 1455.jpg
+2023-12-17 17:27:23,201 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80440/empty, nama ketua: Frans Tallang, nik: 7326102411740001, ktp_image: 1456.jpg
+2023-12-17 17:27:27,407 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80441/empty, nama ketua: Benyamin Sau Sapungallo, nik: 7326050303730001, ktp_image: 1457.jpg
+2023-12-17 17:27:32,332 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80443/empty, nama ketua: P. Kondo Tasik, nik: 7326133107560001, ktp_image: 1459.jpg
+2023-12-17 17:27:39,406 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80444/empty, nama ketua: Sirante, nik: 7326130806700001, ktp_image: 1460.jpg
+2023-12-17 17:27:44,689 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80445/empty, nama ketua: Yohana Rante, nik: 7326136803780001, ktp_image: 1461.jpg
+2023-12-17 17:27:49,585 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80448/empty, nama ketua: R. Tanari, nik: 7326016505840002, ktp_image: 1464.jpg
+2023-12-17 17:27:52,437 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80449/empty, nama ketua: Herman R., nik: 7326121110870001, ktp_image: 1465.jpg
+2023-12-17 17:27:57,475 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80450/empty, nama ketua: Atarianus B., nik: 7326121105800001, ktp_image: 1466.jpg
+2023-12-17 17:28:02,775 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80451/empty, nama ketua: Sirjon Pangruruk, nik: 7326122209810001, ktp_image: 1467.jpg
+2023-12-17 17:28:07,043 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/80452/empty, nama ketua: Semuel T. Appang, nik: 7326120204770001, ktp_image: 1468.jpg

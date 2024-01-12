@@ -32,7 +32,7 @@ class MultiChromeDriver:
             driver.quit()
 
     def login(self, driver, email, password):
-        login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+        login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         driver.get(login_url)
 
         email_input = driver.find_element(By.NAME, "email")
@@ -41,16 +41,38 @@ class MultiChromeDriver:
         password_input = driver.find_element(By.NAME, "password")
         password_input.send_keys(password)
 
+        captcha_input = input("Masukkan Captcha: ")
+
+        # Masukkan nilai ke dalam elemen input
+        captcha_textbox = driver.find_element(By.ID, "captcha")
+        captcha_textbox.send_keys(captcha_input)
+
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
-    def input(self, driver, nomor_spp):
-        time.sleep(2)
+    def input(self, driver, kode1, total):
+        hasil = float(total) * 0.8
 
         # tambah spp
-        button = self.driver.find_element(
-            By.CSS_SELECTOR,
-            'button[data-toggle="modal"][data-target="#pilih_spp_modal"]',
+        time.sleep(4)
+        # input nilai
+        nilai_element = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.NAME, "nilai_diterima"))
+        )
+        nilai_element.clear()
+        driver.execute_script(
+            "arguments[0].value = arguments[0].value + arguments[1];",
+            nilai_element,
+            hasil,
+        )
+
+        button = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located(
+                (
+                    By.CSS_SELECTOR,
+                    'button[data-toggle="modal"][data-target="#pilih_spp_modal"]',
+                )
+            )
         )
         button.click()
 
@@ -59,15 +81,18 @@ class MultiChromeDriver:
             EC.presence_of_element_located((By.CSS_SELECTOR, 'input[type="search"]'))
         )
 
-        self.driver.execute_script(
-            "arguments[0].value = arguments[1]", search_input, nomor_spp
-        )
+        driver.execute_script("arguments[0].value = arguments[1]", search_input, kode1)
         time.sleep(3)
         search_input.send_keys(Keys.RETURN)
-        time.sleep(3)
 
-        xpath_selector = f'//tr[contains(.//span, "{nomor_spp}") and (@class="odd" or @class="even")]'
-        row = self.driver.find_element(By.XPATH, xpath_selector)
+        # PENGISIAN DOKUMEN PERTAMA =========================
+        # menamcari item spp
+        xpath_selector = (
+            f'//tr[contains(.//span, "{kode1}") and (@class="odd" or @class="even")]'
+        )
+        row = row = WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.XPATH, xpath_selector))
+        )
 
         # Temukan elemen <button> di dalam baris dan klik
         button = row.find_element(By.CSS_SELECTOR, "button.btn-pilih")
@@ -80,12 +105,13 @@ def get_url(driver, site_url, index):
 
 
 def submit_form(driver):
-    global total_uploads
     # Submit the form
-    submit_button = driver.find_element(
-        By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning'
+    submit_button = WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located(
+            (By.CSS_SELECTOR, '.modal-footer button[type="submit"].btn.btn-warning')
+        )
     )
-    submit_button.click()
+    driver.execute_script("arguments[0].click();", submit_button)
 
 
 # Konfigurasi logging
@@ -100,13 +126,14 @@ logging.basicConfig(
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/link_bondowoso.csv"
+    csv_file = "./csv/psp1/link_ponorogo2.csv"
     num_drivers = 1  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
+    kode1 = "03325T"
 
     try:
         email = "bast@binaagrosiwimandiri.com"
-        password = "Lapor"
+        password = "L@por@n_"
 
         for index in range(num_drivers):
             driver = multi_driver.get_driver(index)
@@ -117,9 +144,11 @@ if __name__ == "__main__":
         with open(csv_file, "r") as file:
             csv_reader = csv.DictReader(file)
             temp_data = []
+            temp_data_total = []
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
-                temp_data.append((row["situs"], row["spp"]))
+                temp_data.append(row["situs"])
+                temp_data_total.append(row["total"])
 
                 #  jika sudah kelipatan sebanyak num_driver
                 if (index + 1) % num_drivers == 0:
@@ -129,7 +158,7 @@ if __name__ == "__main__":
                             target=get_url,
                             args=(
                                 multi_driver.get_driver(j),  # mengambil driver ke
-                                temp_data[j][0],
+                                temp_data[j],
                                 j,
                             ),
                         )
@@ -143,16 +172,16 @@ if __name__ == "__main__":
                     # mengisi inputan sesuai url tanpa thread / 1 persatu
                     for k in range(num_drivers):
                         multi_driver.input(
-                            multi_driver.get_driver(k),
-                            temp_data[k][1],  # nomor_spp
+                            multi_driver.get_driver(k), kode1, temp_data_total[k]
                         )
-                        print("mengisi driver ke", k, "dengan", temp_data[k][1])
+                        print("mengisi driver ke", k, "dengan", temp_data_total[k])
                         logging.info(
-                            f"Filled form for situs: {temp_data[k][0]}, spp file: {temp_data[k][1]}"
+                            f"Filled form for situs: {temp_data[k]}, total: {temp_data_total[k]}"
                         )
 
                     # mengosongkan data sementara dan threads
                     temp_data = []
+                    temp_data_total = []
                     threads = []
 
                     # submit bersamaan

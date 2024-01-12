@@ -1,4 +1,14 @@
-2023-12-13 00:47:16,734 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/104752/empty, nomor: 459/BAM-P/PSP/BAST-KARO/16/X/23, nilai:  7375000
-2023-12-13 00:47:42,558 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243FAC2A530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f505f2ad6d568166a29d8ee9b94865d2
-2023-12-13 00:47:46,621 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243FAC2AFB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f505f2ad6d568166a29d8ee9b94865d2
-2023-12-13 00:47:50,657 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243FAC2B0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f505f2ad6d568166a29d8ee9b94865d2
+2024-01-02 20:16:26,464 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77093/empty, nomor: 1298, nilai:  4130000
+2024-01-02 20:16:49,343 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77094/empty, nomor: 1299, nilai:  3835000
+2024-01-02 20:17:26,195 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77097/empty, nomor: 1300, nilai:  3835000
+2024-01-02 20:17:43,337 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77099/empty, nomor: 1301, nilai:  4720000
+2024-01-02 20:18:14,798 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77100/empty, nomor: 1302, nilai:  3835000
+2024-01-02 20:18:44,343 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77101/empty, nomor: 1303, nilai:  4130000
+2024-01-02 20:19:23,341 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77102/empty, nomor: 1304, nilai:  4130000
+2024-01-02 20:19:53,549 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77103/empty, nomor: 1305, nilai:  4130000
+2024-01-02 20:20:26,561 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77104/empty, nomor: 1306, nilai:  3835000
+2024-01-02 20:20:49,745 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77105/empty, nomor: 1307, nilai:  4130000
+2024-01-02 20:20:59,227 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77106/empty, nomor: 1308, nilai:  3540000
+2024-01-02 20:21:07,710 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77107/empty, nomor: 1309, nilai:  3540000
+2024-01-02 20:21:26,353 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77108/empty, nomor: 1310, nilai:  3540000
+2024-01-02 20:22:04,912 [INFO] Filled form for situs: https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/77114/empty, nomor: 1311, nilai:  5015000

@@ -77,6 +77,7 @@ class driverChrome:
         )
         time.sleep(10)
 
+    def next_page(self):
         if self.page != 1:
             # Buat selector CSS berdasarkan atribut data-dt-idx
             selector = f'ul.pagination li.paginate_button.page-item:not(.disabled) a.page-link[data-dt-idx="{self.page}"]'
@@ -159,9 +160,9 @@ class driverChrome:
 
 
 # Contoh penggunaan: ganti dengan path file HTML yang sesuai
-url_path = "https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/105466/detail_kegiatan?delegasiid=2489"
-out_name = "./csv/psp2/link_banyuasin.csv"
-max_page = 7
+url_path = "https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/105466/detail_kegiatan?delegasiid=2481"
+out_name = "./csv/psp2/link_tapanuli_selatan.csv"
+max_page = 9
 
 if __name__ == "__main__":
     try:
@@ -172,9 +173,10 @@ if __name__ == "__main__":
         password = "L@por@n_"
         Chrome_driver.login(email, password)  # login terlebih dahulu
 
+        Chrome_driver.get_100(url_path)  # mengambil konten 100 html
         while Chrome_driver.page <= max_page:
-            content = Chrome_driver.get_100(url_path)  # mengambil konten 100 html
-            Chrome_driver.extract_link(content)  # mengambil link pada halaman
+            page_content = Chrome_driver.next_page()
+            Chrome_driver.extract_link(page_content)  # mengambil link pada halaman
 
         Chrome_driver.save_to_csv(out_name)  # simpan ke dalam csv
 

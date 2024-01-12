@@ -10,7 +10,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 def login(driver, email, password):
-    login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+    login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
     driver.get(login_url)
 
     email_input = driver.find_element(By.NAME, "email")
@@ -18,6 +18,13 @@ def login(driver, email, password):
 
     password_input = driver.find_element(By.NAME, "password")
     password_input.send_keys(password)
+
+    login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
+    captcha_input = input("Masukkan Captcha: ")
+
+    # Masukkan nilai ke dalam elemen input
+    captcha_textbox = driver.find_element(By.ID, "captcha")
+    captcha_textbox.send_keys(captcha_input)
 
     login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
     login_button.click()
@@ -29,7 +36,7 @@ def extract_data_from_html(url, out_name):
         driver = webdriver.Chrome()  # Ganti dengan driver yang sesuai
 
         email = "bast@binaagrosiwimandiri.com"
-        password = "Lapor"
+        password = "L@por@n_"
         login(driver, email, password)
 
         # Buka URL menggunakan Selenium

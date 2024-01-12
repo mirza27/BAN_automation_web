@@ -1,22 +1,35 @@
 import csv
-import os
 import threading
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 import logging
 from selenium.webdriver.support.ui import Select
+import time
+import base64
+from PIL import Image
+from io import BytesIO
+import os
+from bs4 import BeautifulSoup
+import csv
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import time
+
+import base64
+from PIL import Image
+from io import BytesIO
 
 
 class MultiChromeDriver:
     def __init__(self, num_drivers=1):
         self.num_drivers = num_drivers
         self.drivers = []
+        self.login_status = False
 
         for _ in range(self.num_drivers):
             options = webdriver.ChromeOptions()
-            # options.add_argument("--start-minimized")  # Maximize the browser window
             driver = webdriver.Chrome(options=options)
             self.drivers.append(driver)
 
@@ -30,6 +43,7 @@ class MultiChromeDriver:
             driver.quit()
 
     def login(self, driver, email, password):
+        # while self.login_status == False:
         login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         driver.get(login_url)
 
@@ -48,50 +62,45 @@ class MultiChromeDriver:
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
 
-    def input(self, driver, file, tanggal, no_surat, perihal):
-        # mengisi tanggal
-        tanggal_element = WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.NAME, "tgl"))
+    def input(self, driver, file):
+        xpath_expression = "//tr[contains(@class, 'odd') or contains(@class, 'even')]//td[@class=' dt-right' and contains(text(), '50%')]/ancestor::tr"
+        target_tr = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.XPATH, xpath_expression))
         )
-        tanggal_element.clear()
-        tanggal_element.send_keys(tanggal)
+        if target_tr:
+            a_element = target_tr.find_element(By.XPATH, ".//a[@title='Edit']")
+            if a_element:
+                driver.execute_script("arguments[0].click();", a_element)
+                # a_element.click()
+                time.sleep(3)
 
-        # mengisi surat
-        nomor_element = WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.NAME, "nomor"))
-        )
-        nomor_element.clear()
-        nomor_element.send_keys(no_surat)
+                input_file = driver.find_element(
+                    By.XPATH,
+                    '//input[@type="file" and contains(@class, "custom-file-input")]',
+                )
+                input_file.send_keys(file)
 
-        file_input = WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.NAME, "file_spasial"))
-        )
-        file_input.send_keys(file)
-
-        # Isi textarea perihal
-        perihal_textarea = WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.NAME, "perihal"))
-        )
-        perihal_textarea.clear()
-        perihal_textarea.send_keys(perihal)
+            else:
+                print("Elemen <a> tidak ditemukan di dalam <tr> yang sesuai.")
+        else:
+            print("Elemen <tr> tidak ditemukan dengan kriteria yang diberikan.")
 
 
 def get_url(driver, site_url, index):
-    driver.get(site_url.replace("/empty", "/spasial"))
+    driver.get(site_url.replace("/empty", "/foto_proses"))
     print(f"Driver {index} title: {driver.title}")
 
 
-def submit_form(driver):
+def delete(driver):
     # Submit the form
     submit_button = WebDriverWait(driver, 20).until(
         EC.presence_of_element_located(
-            (By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning')
+            (
+                By.XPATH,
+                '//div[@class="card-footer"]//button[@type="submit" and contains(@class, "btn btn-warning")]',
+            )
         )
     )
-    # submit_button = driver.find_element(
-    #     By.CSS_SELECTOR, 'button[type="submit"].btn.btn-warning'
-    # )
-    # submit_button.click()
     driver.execute_script("arguments[0].click();", submit_button)
 
 
@@ -100,23 +109,20 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler("./log/autofill_ploting_area.txt", mode="w"),
+        logging.FileHandler("./log/autofill_foto_proses.txt"),
         logging.StreamHandler(),
     ],
 )
 
 
 if __name__ == "__main__":
-    csv_file = "./csv/psp2/link_tana_toraja.csv"
+    csv_file = "./csv/psp3/link_karo.csv"
     num_drivers = 1  # Ganti sesuai kebutuhan
     multi_driver = MultiChromeDriver(num_drivers)
-    tanggal = "30-10-2023"
-    perihal = "ploting area"
-    default_zip = (
-        "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/ploting_tana_toraja_zip.zip"
-    )
-    # zip_file = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/ploting_karo.zip"
-    file_dir = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/tana toraja/kml zip"
+    keterangan = "foto 50 persen"
+    progress = "50"  # pilih "50" / "100"
+    img_file = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/ponorogo/OC jpg version"
+    img_50_file = "C:/Users/ramad/OneDrive/Dokumen/BAN/BAN NEW/karo/oc 50%.jpg"
 
     try:
         email = "bast@binaagrosiwimandiri.com"
@@ -131,11 +137,11 @@ if __name__ == "__main__":
         with open(csv_file, "r") as file:
             csv_reader = csv.DictReader(file)
             temp_data = []
+            temp_data_img = []
             for index, row in enumerate(csv_reader):
                 # menambahkan data sementara sebanyak num_driver
-                temp_data.append(
-                    (row["situs"], row["no"], row["poktan"], row["tanggal"])
-                )
+                temp_data.append(row["situs"])
+                temp_data_img.append(row["image"])
 
                 #  jika sudah kelipatan sebanyak num_driver
                 if (index + 1) % num_drivers == 0:
@@ -145,7 +151,7 @@ if __name__ == "__main__":
                             target=get_url,
                             args=(
                                 multi_driver.get_driver(j),  # mengambil driver ke
-                                temp_data[j][0],
+                                temp_data[j],
                                 j,
                             ),
                         )
@@ -159,43 +165,26 @@ if __name__ == "__main__":
                     # mengisi inputan sesuai url tanpa thread / 1 persatu
                     for k in range(num_drivers):
                         # memberi alamat lengkap gambar
-                        no_surat = temp_data[k][1] + "/" + temp_data[k][2]
-                        file_path = os.path.join(
-                            file_dir, temp_data[k][1] + "_" + temp_data[k][2] + ".zip"
+                        # file_path = os.path.join(img_file, temp_data_img[k])
+
+                        multi_driver.input(
+                            multi_driver.get_driver(k),
+                            img_50_file,
                         )
-
-                        if os.path.exists(file_path):  # jika file ada
-                            multi_driver.input(
-                                multi_driver.get_driver(k),
-                                file_path,
-                                temp_data[k][3],
-                                no_surat,
-                                perihal,
-                            )
-
-                        else:  # jika zip tidak ada
-                            file_path = default_zip
-                            multi_driver.input(
-                                multi_driver.get_driver(k),
-                                file_path,
-                                temp_data[k][3],
-                                no_surat,
-                                perihal,
-                            )
-
                         print("mengisi driver ke", k, "dengan", temp_data[k])
                         logging.info(
-                            f"Filled form for situs: {temp_data[k]}, dengan file zip"
+                            f"Filled form for situs: {temp_data[k]}, image : {temp_data_img[k]}"
                         )
 
                     # mengosongkan data sementara dan threads
                     temp_data = []
+                    temp_data_img = []
                     threads = []
 
                     # submit bersamaan
                     for l in range(num_drivers):
                         thread2 = threading.Thread(
-                            target=submit_form,
+                            target=delete,
                             args=(multi_driver.get_driver(l),),  # mengambil driver ke
                         )
                         threads.append(thread2)

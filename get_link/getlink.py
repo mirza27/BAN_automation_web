@@ -18,7 +18,7 @@ class driverChrome:
         self.data = []  # link poktan dalam 1 desa
 
     def login(self, email, password):
-        login_url = "https://mpo.psp.pertanian.go.id/v.5/login"
+        login_url = "https://mpo.psp.pertanian.go.id/v.5.1/login"
         self.driver.get(login_url)
 
         email_input = self.driver.find_element(By.NAME, "email")
@@ -26,6 +26,12 @@ class driverChrome:
 
         password_input = self.driver.find_element(By.NAME, "password")
         password_input.send_keys(password)
+
+        captcha_input = input("Masukkan Captcha: ")
+
+        # Masukkan nilai ke dalam elemen input
+        captcha_textbox = self.driver.find_element(By.ID, "captcha")
+        captcha_textbox.send_keys(captcha_input)
 
         login_button = self.driver.find_element(
             By.CSS_SELECTOR, 'button[type="submit"]'
@@ -79,11 +85,11 @@ class driverChrome:
             tds = row.find_all("td")
             if len(tds) >= 3:
                 desa = tds[2].text.strip()  # Mengambil teks dari kolom ke-3
-
+                persen = tds[6].text.strip()  # mengambil capaian presentas
                 nomor_td = row.find("td", class_="dt-right dtr-control")
                 poktan_td = row.find("span", class_="bg-warning- font-weight-bold")
 
-                if nomor_td:  # jika syarat
+                if nomor_td and persen == "85%":
                     nomor = nomor_td.text.strip()
                     poktans = poktan_td.text.strip()
 
@@ -105,11 +111,11 @@ class driverChrome:
 
 
 if __name__ == "__main__":
-    url = "https://mpo.psp.pertanian.go.id/v.5/pelaporan/105466/detail_kegiatan?delegasiid=3028"
+    url = "https://mpo.psp.pertanian.go.id/v.5.1/pelaporan/105466/detail_kegiatan?delegasiid=2488"
     email = "bast@binaagrosiwimandiri.com"
-    password = "Lapor"
-    out_name = "./csv/link_karo2.csv"
-    page_max = 11
+    password = "L@por@n_"
+    out_name = "./csv/psp2/link_toraja_not_done.csv"
+    page_max = 2
 
     try:
         Chrome = driverChrome()
